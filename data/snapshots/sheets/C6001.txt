@@ -1,0 +1,22 @@
+Human Resources Management                                         (CIP 0552020166)
+Advanced Technical Certificate | Code: C6001 | 24 credits
+Effective Term: Fall 2020 (2207)
+
+
+Program Description
+The Advanced Technical Certificate (ATC) in Human Resources Management will assist new
+and experienced human resource professionals upgrade their knowledge and skills in order
+increase their employment opportunities. The student will be able to plan, direct, and
+coordinate the recruiting, interviewing, hiring and retaining employees.
+
+Major Course Requirements (24 credits)
+
+MAN3025      Organizational Management                3 cr.
+MAN3301      Human Resources Management               3 cr.
+MAN3322      Human Resources Information Systems      3 cr.   Pre-Req MAN 3025, MAN 3301
+MAN4330      Compensation Management                  3 cr.   Pre-Req MAN 3025, MAN 3301
+MAN4335      Employee Benefit Planning                3 cr.   Pre-Req MAN 3025, MAN 3301
+MAN4352      Effective Employee Training              3 cr.   Pre-Req MAN 3025, MAN 3301
+MAN4361      Organizational Staffing                  3 cr.   Pre-Req MAN 3025, MAN 3301
+MAN4402      Employment Law and Regulation            3 cr.   Pre-Req MAN 3025, MAN 3301
+

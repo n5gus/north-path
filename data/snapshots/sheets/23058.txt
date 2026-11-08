@@ -1,0 +1,93 @@
+Radiation Therapy
+Associate in Science | Code: 23058 | 77 credits
+CIP (1351090701)
+Effective Term: Fall 2024 (2247)
+
+The Radiation Therapy program is a comprehensive educational program designed to prepare students for a career as a skilled
+and knowledgeable Radiation Therapist. As a key member of the healthcare team, Radiation Therapists use various forms of
+radiation, such as high-energy X-rays and electron beams, to treat cancer patients. The program provides students with extensive
+knowledge of radiation therapy procedures, treatment planning, and imaging technologies. In addition, students develop
+cognitive skills such as critical thinking, problem-solving, and effective communication with patients, their families, and other
+healthcare professionals.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                 (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and
+                                                                                         writing requirements in State Rule 6A-
+                                                                                         10.0315 (by course, placement score, or
+                                                                                         eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                    (3 credits)
+HUM 1020         Humanities                                          (3 credits)
+LIT 2000         Introduction to Literature                          (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                  (3 credits)
+PHI 2010         Introduction to Philosophy                          (3 credits)
+THE 2000         Theatre Appreciation                                (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC*                                                                 (3 credits)
+MGF*                                                                 (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and
+                                                                                         writing requirements in State Rule 6A-
+                                                                                         10.0315 (by course, placement score, or
+                                                                                         eligible exemption).
+
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085        Human Anatomy and Physiology 1                       (3 credits)         Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                          (3 credits)
+AMH 2020          History of the US since 1877                       (3 credits)
+POS 2041          American Federal Government                        (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+SCIENCE REQUIREMENTS (5.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory            (1 credits)         Corequisite: BSC 2085
+BSC 2086          Human Anatomy & Physiology 2                       (3 credits)   Prerequisite: BSC 2085;
+                                                                                   Corequisite: BSC 2086L
+BSC 2086L         Human Anatomy & Physiology 2 Laboratory            (1 credits)   Prerequisites: BSC 2085, BSC 2085L;
+                                                                                   Corequisite: BSC 2086
+
+MAJOR CORE REQUIRMENTS (54.00 credits)
+RAT 1001       Introduction to Radiation Oncology                    (2 credits)   Corequisites: RAT 1615, RAT 1804, RAT 2123
+RAT 1021C      Principles and Practices of Radiation Therapy I       (2 credits)   Corequisites: RAT 1242, RAT 1614C, RAT 1615,
+                                                                                   RAT 1814, RAT 1840
+RAT 1242          Clinical Oncology and Pathology                    (2 credits)   Prerequisites: RAT 1001, RAT 2123
+RAT 1614C         Radiation Therapy Physics I                        (2 credits)   Corequisites: RAT 1021C, RAT 1242, RAT 1814,
+                                                                                   RAT 1840
+RAT 1615          Radiation Therapy Medical Imaging                  (3 credits)   Corequisites: RAT 1001, RAT 1615, RAT 2123
+RAT 1619          Elements of Treatment Planning                     (2 credits)   Corequisites: RAT 2061, RAT 2241, RAT 2834
+RAT 1657          Radiation Protection/ Quality Assurance            (1 credit)
+RAT 1804          Clinical Education I                               (5 credits)   Corequisites: RAT 1001, RAT 1615, RAT 2123
+RAT 1814          Clinical Education II                              (5 credits)   Prerequisite: RAT 1804
+RAT 1824          Clinical Education III                             (8 credits)   Prerequisite: RAT 2243C;
+                                                                                   Corequisites: RAT 1657, RAT 2022C, RAT 2243C,
+                                                                                   RAT 2618C
+RAT 2022C         Principles and Practices of Radiation Therapy II   (2 credits)   Prerequisite: RAT 1021C;
+                                                                                   Corequisites: RAT 1657, RAT 1824, RAT 2243C,
+                                                                                   RAT 2618C
+RAT 2061          Radiation Therapy Seminar                          (3 credits)   Corequisites: RAT 1619, RAT 2241, RAT 2834
+RAT 2123          Patient Care in Radiation Therapy                  (3 credits)   Corequisites: RAT 1001, RAT 1615, RAT 1804
+RAT 2240C         Radiation Oncology Sectional Anatomy               (1 credits)   Prerequisites: BSC 2085, RAT 2085L, RAT 2086,
+                                                                                   RAT 2086L
+RAT 2241          Radiobiology                                       (2 credits)   Prerequisite: RAT 1001
+RAT 2243C         Clinical Oncology and Neoplasms                    (3 credits)   Prerequisite: RAT 1242;
+                                                                                   Corequisites: RAT 1657, RAT 1824, RAT 2022C,
+                                                                                   RAT 2618C
+RAT 2618C         Radiation Therapy Physics II                       (2 credits)   Prerequisite: RAT 1614C;
+                                                                                   Corequisites: RAT 1657, RAT 1824, RAT 2022C,
+                                                                                   RAT 2243C
+RAT 2834          Clinical Education IV                              (6 credits)   Prerequisite: RAT 1824;
+                                                                                   Corequisites: RAT 1619, RAT 2061, RAT 2241
+
+ELECTIVE (3.00 Credits)
+HIM 2472           Medical Terminology                               (3 credits)
+

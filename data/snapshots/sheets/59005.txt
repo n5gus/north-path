@@ -1,0 +1,27 @@
+Aircraft Structural Assembly and Fabrication Apprenticeship
+Career Technical Certificate | Code: 59005 | 4296 Hours                                           CIP 0847060900
+Effective Term: Fall 2019 (2197)
+
+The Career Technical Certificate (CTC) in in Aircraft Structural Assembly and Fabrication Apprenticeship will prepare
+the student to perform scheduled and non-scheduled maintenance and repairs on aircraft. The student will assist
+aviation maintenance technicians in commercial jet modifications, minor and major maintenance checks and
+corrosion control and preventions, and line services for a wide array of commercial and military aircraft.
+
+ Course          Course Title                                          Hours             Prerequisites
+
+MAJOR COURSE REQUIREMENTS
+AMT 0044      Tools, Materials, and Processes 1                        40 hours
+AMT 0045      Tools, Materials, and Processes 2                        40 hours
+AMT 0046      Aircraft Materials, Hardware & Processes                 68 hours          AMT 0044/0045
+AMT 0047      Applying the Design Process                              53 hours          AMT 0044/0045
+AMT 0269      Aircraft Electrical Systems & Quality Control            64 hours          AMT 0044/0045
+AMT 0219      Aircraft Hydraulics & Aviation Mathematics               19 hours          AMT 0044/0045
+AMT 0509      Composites and Capstone Project                          12 hours          AMT 0044, 0045, 0046,
+                                                                                         0047, 0269, 0219
+AMT 0949          On the Job Training (OJT) Part 1                     666.67 hours
+AMT 0949C         On the Job Training (OJT) Part 2                     666.67 hours
+AMT 0950          On the Job Training (OJT) Part 3                     666.67 hours
+AMT 0950C         On the Job Training (OJT) Part 4                     666.67 hours
+AMT 0960          On the Job Training (OJT) Part 5                     666.67hours
+AMT 0960C         On the Job Training (OJT) Part 6                     666.67 hours
+

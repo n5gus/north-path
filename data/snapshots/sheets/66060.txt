@@ -1,0 +1,20 @@
+Virtual and Augmented Reality Technologies
+College Credit Certificate | Code: 66060 | 19 Credits
+CIP (0550041118)
+Effective Term: Fall 2023 (2237)
+
+The program will teach students the fundamentals of Virtual and Augmented Reality. Students will learn basic concepts,
+history and tools commonly used for stereoscopic image acquisition and immersive technologies. Students will also learn
+the origins of Virtual Reality (VR) and its current role in the industry, its applications and opportunities and how to
+generate and manipulate VR imagery.
+
+
+MAJOR COURSE REQUIRMENTS (19.00 Credits)
+
+DIG 1430          Storyboarding                                  (3 Credits)
+DIG 1729C         Game Engines                                   (4 Credits)
+DIG 1772C         Introduction to Virtual and
+                  Augmented Reality Technologies                 (4 Credits)   Pre/Corequisite: DIG 1729C
+DIG 2776C         Virtual Reality Platform Development           (4 Credits)   Pre/Corequisites: DIG 1729C and DIG 1772C
+DIG 2777C         Augmented Reality Platform Development         (4 Credits)   Pre/Corequisites: DIG 1729C and DIG 1772C
+

@@ -1,0 +1,244 @@
+Information Systems Technology – Networking Concentration
+Bachelor of Science | Code: S9500 | 120 credits
+CIP (1101101034)
+Effective Term: Fall 2025 (2257)
+
+The Bachelor of Science (BS) in Information Systems Technology (IST) degree program prepares students with essential skills and knowledge to
+effectively support the design, planning and management of information infrastructures and information resources within diverse organizational
+settings. The Networking Concentration focuses on how to plan, design, implement and maintain network infrastructures to keep organizations
+running smoothly. Students learn how to select technologies that best suit the client’s needs. Students also acquire the technical skills needed to
+install, maintain, and extend multi-user computer systems and how to develop administrative policies and procedures.
+
+GENERAL EDUCATION REQUIREMENTS (36.00 Credits)
+Courses require a grade of “C” or higher to satisfy the general education requirement.
+
+COMMUNICATIONS (6.00 Credits)
+ENC 1101     English Composition 1 (W)                                        (3 credits)        Appropriate college placement
+ENC 1102     English Composition 2 (W)                                        (3 credits)        Prerequisite: ENC 1101
+
+ORAL COMMUNICATIONS (3.00 Credits)
+Select one course from the following offerings.
+SPC 1017            Introduction to Communications (W)                        (3 credits)
+SPC 2608            Introduction to Public Speaking (W)                       (3 credits)
+
+HUMANITIES (6.00 Credits)
+Select one course from State Core AND one course from MDC Core.
+
+State Core (3.00 credits)
+ARH 1000            Art Appreciation                                          (3 credits)
+HUM 1020            Introduction to Humanities                                (3 credits)
+LIT 2000            Introduction to Literature (W)                            (3 credits)        Prerequisite: ENC 1101
+MUL 1010            Music Appreciation                                        (3 credits)
+PHI 2010            Introduction to Philosophy (W)                            (3 credits)
+THE 2000            Theatre Appreciation (W)                                  (3 credits)
+
+---AND---
+
+MDC Core (3.00 credits)
+ARC 2701          History of Architecture 1                                   (3 credits)
+ARC 2702          History of Architecture 2 (W)                               (3 credits)
+ARH 1000          Art Appreciation                                            (3 credits)
+ARH 2050          Art History 1                                               (3 credits)
+ARH 2051          Art History 2 (W)                                           (3 credits)        Prerequisite: ARH 2050
+ARH 2740          Cinema Appreciation (W)                                     (3 credits)
+DAN 2100          Dance Appreciation                                          (3 credits)
+DAN 2130          Dance History 1 (W)                                         (3 credits)
+HUM 1020          Introduction to Humanities                                  (3 credits)
+IND 1100          History of Interiors 1                                      (3 credits)
+IND 1130          History of Interiors 2 (W)                                  (3 credits)
+LIT 2000          Introduction to Literature (W)                              (3 credits)        Prerequisite: ENC 1101
+LIT 2120          A Survey of World Literature 2 (W)                          (3 credits)        Prerequisites: ENC 1101, ENC 1102
+MUH 2111          Survey of Music History 1                                   (3 credits)
+MUH 2112          Survey of Music History 2 (W)                               (3 credits)        Prerequisite: MUH 2111
+MUL 1010          Music Appreciation                                          (3 credits)
+MUL 2380          Jazz & Popular Music in America (W)                         (3 credits)
+PHI 2010          Introduction to Philosophy (W)                              (3 credits)
+PHI 2600          Introduction to Ethics (W)                                  (3 credits)
+THE 2000          Theatre Appreciation (W)                                    (3 credits)
+SOCIAL SCIENCES (6.00 Credits)
+Select one course from State Core AND one course from MDC Core. To meet the Civic Literacy Competency Requirement for graduation one course
+selection should be AMH 2010 or AMH 2020 or POS 2041.
+
+State Core (3.00 credits)
+AMH 2010            History of the US to 1877                                (3 credits)
+AMH 2020            History of the US Since 1877                             (3 credits)
+ANT 2000            Introduction to Anthropology                             (3 credits)
+ECO 2013            Principles of Economics (Macro) (W)                      (3 credits)
+POS 2041            American Federal Government                              (3 credits)
+PSY 2012            Introduction to Psychology                               (3 credits)
+
+---AND---
+
+MDC Core (3.00 credits)
+AMH 2010          History of the US to 1877                                  (3 credits)
+AMH 2020          History of the US Since 1877                               (3 credits)
+ANT 2000          Introduction to Anthropology                               (3 credits)
+ANT 2410          Introduction to Cultural Anthropology                      (3 credits)
+CLP 1006          Psychology of Personal Effectiveness                       (3 credits)
+DEP 2000          Human Growth and Development                               (3 credits)
+ECO 2013          Principles of Economics (Macro) (W)                        (3 credits)
+ISS 1120          The Social Environment                                     (3 credits)
+ISS 1161          The Individual in Society                                  (3 credits)
+POS 2041          American Federal Government                                (3 credits)
+PSY 2012          Introduction to Psychology                                 (3 credits)
+SYG 2000          Introduction to Sociology                                  (3 credits)
+WOH 2012          History of World Civilization to 1789                      (3 credits)
+WOH 2022          History of World Civilization from 1789                    (3 credits)
+
+NATURAL SCIENCES (6.00 Credits)
+Select one course from State Core AND one course from MDC Core. Laboratory courses do not fulfill this area’s requirements.
+
+State Core (3.00 credits)
+AST 1002            Descriptive Astronomy                                    (3 credits)
+BSC 1005            General Education Biology                                (3 credits)
+BSC 2010            Principles of Biology                                    (3 credits)        Pre/Corequisites: CHM 1045, BSC 2010L
+BSC 2085            Human Anatomy and Physiology 1                           (3 credits)        Corequisite: BSC 2085L
+CHM 1020            General Education Chemistry                              (3 credits)
+CHM 1045            General Chemistry and Qualitative Analysis               (3 credits)        Prerequisites: CHM 1025 or a passing score on
+                                                                                                the CART exam, and MAC 1105
+                                                                                                Corequisite: CHM 1045L
+ESC 1000           General Education Earth Science                           (3 credits)
+EVR 1001           Introduction to Environmental Science                     (3 credits)
+GLY 1010           Physical Geology                                          (3 credits)
+OCE 1001           Introduction to Oceanography                              (3 credits)
+PHY 1020           General Education Physics                                 (3 credits)
+PHY 2048           Physics with Calculus 1                                   (4 credits)        Prerequisites: HS physics, or PHY 1025, PHY 2053
+                                                                                                or departmental approval and MAC 2311;
+                                                                                                Corequisite: PHY 2048L
+PHY 2053           Physics (without Calculus) 1                              (3 credits)        Prerequisites: MAC 1114, MAC 1147;
+                                                                                                Corequisite: PHY 2053L
+
+---AND---
+
+MDC Core (3.00 credits)
+AST 1002          Descriptive Astronomy                                      (3 credits)
+BOT 1010          Botany                                                     (3 credits)         Corequisite: BOT 1010L
+BSC 1005          General Education Biology                                  (3 credits)
+BSC 1084          Functional Human Anatomy                                   (3 credits)
+BSC 2010          Principles of Biology                                      (3 credits)        Pre/Corequisites: CHM 1045, BSC 2010L
+BSC 2020          Human Biology: Fund. of Anatomy & Physiology               (3 credits)
+BSC 2085          Human Anatomy and Physiology 1                             (3 credits)        Corequisites: BSC 2085L
+CHM 1020            General Education Chemistry                                  (3 credits)
+CHM 1025            Introductory Chemistry                                       (3 credits)
+CHM 1033            Chemistry for Health Sciences                                (3 credits)
+CHM 1045            General Chemistry and Qualitative Analysis                   (3 credits)
+CHM 1046            General Chemistry and Qualitative Analysis                   (3 credits)
+CHM 2200            Survey of Organic Chemistry                                  (3 credits)
+CHM 2210            Organic Chemistry 1                                          (3 credits)
+CHM 2211            Organic Chemistry 2                                          (3 credits)
+ESC 1000            General Education Earth Science                              (3 credits)
+EVR 1001            Introduction to Environmental Sciences                       (3 credits)
+GLY 1010            Physical Geology                                             (3 credits)
+GLY 1100            Historical Geology                                           (3 credits)
+HUN 1201            Essentials of Human Nutrition                                (3 credits)
+MET 1010            Introduction to Weather                                      (3 credits)
+OCB 1010            Introduction to Marine Biology                               (3 credits)
+OCE 1001            Introduction to Oceanography                                 (3 credits)
+PCB 2033            Introduction to Ecology                                      (3 credits)
+PCB 2033            Introduction to Ecology                                      (3 credits)         Prerequisite: PSC 1515 or BSC 2011
+PHY 1004            Physics with Applications 1                                  (3 credits)
+PHY 1020            General Education Physics                                    (3 credits)
+PHY 1025            Basic Physics                                                (3 credits)
+PHY 2048            Physics with Calculus 1                                      (3 credits)
+PHY 2049            Physics with Calculus 2                                      (3 credits)
+PHY 2053            Physics (without Calculus) 1                                 (3 credits)
+PHY 2054            Physics (without Calculus) 2                                 (3 credits)
+PSC 1121            General Education Physical Science                           (3 credits)         Prerequisite: MAT 1033
+PSC 1515            Energy in the Natural Environment                            (3 credits)
+
+Mathematics (6.00 Credits)
+MAC 1105 may be replaced by a higher-level mathematics with prefix MAC*, MAD*, MAS*, or MAP*. These courses also fulfill program prerequisites.
+MAC 1105          College Algebra                                         (3 credits)     Prerequisite: MAT 1033
+STA 2023          Statistical Methods                                     (3 credits)     Prerequisite: MAT 1033 or MGF 1131
+
+General Education Elective (3.00 Credits)
+Choose one course from the following options. These courses also fulfill program prerequisites.
+ECO 2013          Principles of Economics (Macro) (W)                          (3 credits)
+ECO 2023          Principles of Economics (Micro)                              (3 credits)
+
+Computer Competency Requirement
+The following course fulfills MDC’s computer competency requirement and a program prerequisite:
+CGS 1060C          Introduction to Computer Technology and Applications    (4 credits)
+
+Foreign Language Competency Requirement
+Students must fulfill this requirement via three options:
+Option A: Successful completion of two (2) credits (i.e., the equivalent of two years) in one (1) foreign language at the secondary (high school) level.
+
+                              ---OR---
+
+Option B: Successful completion of the following courses at the elementary 2 level: ASL 1150C, CHI 1121, FRE 1121, GER 1121, ITA 1121, JPN 1121, POR
+1121, RUS 1121, SPN 1121. These credits count towards the Lower Division Requirements area.
+
+                              ---OR---
+
+Option C: Students may demonstrate completion of the elementary 2 level through standardized examination that document the required foreign
+language competency.
+
+LOWER DIVISION REQUIREMENTS (24.00 Credits)
+Group A: 12.00 credits
+CGS 1060C         Introduction to Computer Technology and Applications           (4 credits)
+CGS 1540C         Database Concepts and Design                                   (4 credits)
+COP 1334          Introduction to C++ Programming                                (4 credits)
+Group B: 4.00 credits
+CTS 1134           Networking Technologies                                    (4 credits)
+CTS 1650           CCNA: Cisco Fundamentals                                   (4 credits)
+
+Group C: 8.00 credits
+Any transferrable type-1 or type-2 courses. Please see academic advisor for support with course selection, including program prerequisites.
+
+UPPER DIVISION REQUIREMENTS (36.00 Credits)
+
+Professional Core (8.00 Credits)
+CGS 3763           Operating System Principles                                (4 credits)         Prerequisite: COP 1334
+CIS 3360           Principles of Information Security                         (4 credits)         Prerequisite: CTS 1134 or CTS 1650
+
+Discipline Content Core (28.00 Credits)
+CIS 3510           IT Project Management                                      (4 credits)
+CIS 4347           Information Storage Management                             (4 credits)         Prerequisite: CGS 1540C
+CNT 3409C          Network Security                                           (4 credits)         Prerequisite: CIS 3360
+CNT 3526C          Wireless and Mobile Networking                             (4 credits)         Prerequisite: CTS 1134 or CTS 1650
+CNT 4603           System Administration and Maintenance                      (4 credits)         Prerequisite: CTS 1134 or CTS 1650
+CNT 4702           Network Design and Planning                                (4 credits)         Prerequisite: CIS 3360
+CTS 4955           Networking Capstone                                        (4 credits)         Department Permission Required
+
+PROGRAM ELECTIVES (24.00 Credits)
+Group A: 8 credits
+CAI*, CAP *, CEN *, CET *, CGS *, CIS *, CNT *, COP *, CTS *
+
+Group B: 16 credits
+CAI 2*, CAI 3*, CAP 2*, CAP 3*, CAP 4*, CEN 2*, CEN 3*, CEN 4*, CGS 2*, CGS 3*, CGS 4*, CIS 2*, CIS 3*, CIS 4*, CNT 2*, CNT 3*, CNT 4*, COP 2*, COP 3*,
+COP 4*, CTS 2*, CTS 3*, CTS 4*, CET 2*, CET 3*, CET 4*, MAC 2333
+
+*Includes any and all courses within associated prefix
+W = Writing Intensive Course
+C = Computational Course
+
+IMPORTANT INFORMATION
+
+Civic Literacy Competency: Civic Literacy Competency: To earn a baccalaureate, students first entering the Florida College System or State University
+System in the 2021-2022 school year and thereafter must demonstrate competency in civic literacy. This requirement may be satisfied by passing AMH
+2010, AMH 2020, or POS 2041 (listed under the Social Sciences core) AND passing an approved assessment. Civic literacy requirements vary for students
+who entered the College or University system prior to academic year 2021-22. For more information, go to Civic Literacy Competency.
+
+Foreign Language: Students admitted to the baccalaureate degree program without meeting the foreign language admission requirement of at least 2
+courses (8-10 credit hours) of sequential foreign language at the secondary level or the equivalent of such instruction at the postsecondary level must
+earn such credits prior to graduation.
+
+Computer Competency: All MDC degree-seeking students with 16 or more credits must demonstrate computer competency prior to graduation.
+Students demonstrate this competency by passing the MDC computer competency test or by enrolling in and successfully completing an equivalent
+course. For more information, see Computer Competency.
+
+Required Credit Hours and GPA: The baccalaureate requires student to earn a minimum of 120 unduplicated credit hours with a minimum cumulative
+grade point average of 2.0. All general education and all upper division requirements must be passed with the grade of “C” or better.
+
+Pursuing or Have Earned an Associate’s Degree: Students entering with an AS or AAS degree may have more than 24 elective credits and may need
+additional General Education credits to meet the 36 General Education credits required for the baccalaureate degree. Students entering with an AA
+degree may need additional electives to provide appropriate background for the baccalaureate program.
+
+Graduation Requirements: Additional requirements may apply, which include, but are not limited to enrollment in courses that involve substantial
+writing and mathematical skill development (rule 6A-10.030, often referenced as Gordon Rule) and residency (number of credits that must be earned at
+MDC). Students should review their individualized Degree Audit Report to determine the specific graduation policies in effect for their program of study
+for the year and term they entered Miami Dade College. Students are highly encouraged to meet with their academic advisor on a regular basis and
+review the College Catalog to learn about all graduation requirements. The final responsibility for meeting graduation requirements rests with the
+student.
+

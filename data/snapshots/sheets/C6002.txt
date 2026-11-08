@@ -1,0 +1,20 @@
+Compensation and Benefits                                                CIP (0552020166)
+Advanced Technical Certificate | Code: C6002 | 18 Credits
+Effective Term: Fall 2020 (2207)
+
+
+Program Description:
+The Advanced Technical Certificate in Compensation and Benefits will prepare students to design
+and manage compensation and benefits systems to attract, motivate and retain various employee
+groups.
+
+
+Major Course Requirements (18 credits)
+
+MAN3025        Organizational Management        3 cr.      Pre-Req: None
+MAN3301        Human Resources Management       3 cr.      Pre-Req: None
+MAN4330        Compensation Management          3 cr.      Pre-Req: MAN 3025 and MAN 3301
+MAN4335        Employee Benefit Planning        3 cr.      Pre-Req: MAN 3025 and MAN 3301
+MAN4361        Organizational Staffing          3 cr.      Pre-Req: MAN 3025 and MAN 3301
+MAN4402        Employment Law and Regulation    3 cr.      Pre-Req: MAN 3025 and MAN 3301
+

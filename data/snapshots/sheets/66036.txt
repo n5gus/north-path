@@ -1,0 +1,32 @@
+Computer Programmer - Mobile Applications Development
+College Credit Certificate | Code: 66036 | 36 Credits
+CIP (0511020200)
+Effective Term: Spring 2025 (2253)
+
+The College Credit Certificate program is designed to provide an opportunity to establish a foundation in computer programming
+for employment in scientific, commercial, industrial and government data processing applications. The Mobile Applications
+Development concentration additionally offers hands-on instruction with current technology for Apple and Android mobile device
+platforms. Graduates are prepared for roles in app development.
+
+MAJOR COURSE REQUIREMENTS (16.00 Credits)
+CGS 1060C      Introduction to Computer Technology                    (4 credits)
+               and Applications
+CGS 1540C      Database Concepts and Design                           (4 credits)
+COP 1334       Introduction to C++ Programming                        (4 credits)
+COP 2800       Java Programming                                       (4 credits)    Prerequisites: COP 1047C, COP 1334 or COP 2270
+
+PROGRAM CONCENTRATION CORE (16.00 Credits)
+COP 2654      iPhone Application Development 1                        (4 credits)    Prerequisite: COP 1332 or COP 1334
+COP 2658      iPhone Application Development 2                        (4 credits)    Prerequisite: COP 2654
+COP 2660      Android Application Development 1                       (4 credits)    Prerequisite: COP 2800
+COP 2662      Android Application Development 2                       (4 credits)    Prerequisites: COP 2660 and COP 2800
+
+PROGRAM ELECTIVES (4.00 Credits)
+CAI*, CEN*, COP*, CTS*
+CGS 2091           Professional Ethics and Social Issues in CS        (4 Credits)
+CGS 2091           Professional Ethics and Social Issues in CS        (4 credits)
+CIS 2331           Systems Analysis, Design and Implementation        (4 credits)
+EET 1033C          Electrical Fundamentals                            (4 Credits)
+GEB 1432           Applied Artificial Intelligence (AI) in Business   (4 credits)
+PHI 2680           Artificial Intelligence (AI) Ethics                (3 credits)
+

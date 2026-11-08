@@ -1,0 +1,88 @@
+Diagnostic Medical Sonography
+Associate in Science | Code: 23038 | 77 credits
+CIP (1351091004)
+Effective Term: Spring 2025 (2253)
+
+The Diagnostic Medical Sonography program prepares the student to become a Diagnostic Medical Sonographer. The Diagnostic
+Medical Sonographer provides patient services, using diagnostic ultrasound under the supervision of a doctor of medicine or
+osteopathy who is responsible for the use and interpretation of ultrasound procedures. The sonographer assists the physician in
+gathering sonographic data necessary to reach diagnostic decisions.
+
+GENERAL EDUCATION REQUIREMENTS (15 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                               (3 credits)        Prerequisite: Student must meet the
+                                                                                      Developmental Education reading and writing
+                                                                                      requirements in State Rule 6A-10.0315 (by course,
+                                                                                      placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                  (3 credits)
+HUM 1020         Humanities                                        (3 credits)
+LIT 2000         Introduction to Literature                        (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                (3 credits)
+PHI 2010         Introduction to Philosophy                        (3 credits)
+THE 2000         Theatre Appreciation                              (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105          College Algebra                                    (3 credits)        Prerequisite: MAT 1033
+
+ Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085           Human Anatomy and Physiology 1                    (3 credits)        Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                        (3 credits)
+AMH 2020          History of the US since 1877                     (3 credits)
+POS 2041          American Federal Government                      (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology and Applications
+
+SCIENCE REQUIREMENTS (8.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory          (1 credits)        Corequisite: BSC 2085
+BSC 2086        Human Anatomy & Physiology 2                       (3 credits)        Prerequisite: BSC 2085;
+                                                                                      Corequisite: BSC2 086L
+BSC 2086L          Human Anatomy & Physiology 2 Laboratory         (1 credits)        Prerequisite: BSC 2085, BSC 2085L;
+                                                                                      Corequisite: BSC 2086
+PHY 1020           General Education Physics                       (3 credits)
+---OR---
+PHY 1025           Basic Physics                                   (3 credits)        Prerequisite: MAC 1105
+ELECTIVE REQUIREMENTS (3.00 Credits)
+Electives any appropriate transferrable (Credit Type 1 or 2) courses (Check with Advisor).
+
+MAJOR CORE REQUIREMENTS (51.00 Credits)
+SON 1000L      Introduction to Sonography 1                          (1 credit)          Corequisites: SON 1111C, SON 1121C
+SON 1001L      Introduction to Sonography 2                          (1 credit)          Prerequisite: SON 1000L
+SON 1005L      Basic Sonography                                      (2 credits)         Prerequisite: SON 1000L
+SON 1006L      Professional Aspects of Sonograph                     (1 credit)
+SON 1100L      Principles of Protocols of Imaging                    (2 credits)
+SON 1111C      Abdominal Sonography 1                                (2 credits)         Prerequisite: SON 1000L
+SON 1112C      Abdominal Sonography 2                                (2 credits)         Prerequisite: SON 1111C
+SON 1113L      Sonography Cross Sectional Anatomy                    (2 credits)
+SON 1115L      Duplex Abdominal Sonography                           (1 credit)          Prerequisite: SON 1112C
+SON 1121C      Obstetrics/Gynecology Sonography 1                    (2 credits)         Corequisite: SON 1000L
+SON 1122C      Obstetrics/Gynecology Sonography 2                    (2 credits)         Prerequisite: SON 1121C
+SON 1141C      Small Parts Sonography                                (2 credits)         Prerequisite: SON 1112
+SON 1145L      Pediatric Sonography                                  (1 credit)          Prerequisite: SON 1141C
+SON 1804       Clinic 1                                              (2 credits)         Corequisite: SON 1000L
+SON 1814       Clinic 2                                              (2 credits)         Prerequisite: SON 1804
+SON 1824       Clinic 3                                              (3 credits)         Prerequisite: SON 1814
+SON 2139L      Cardiovascular Principles                             (1 credit)          Prerequisite: SON 2400C;
+                                                                                         Corequisite: SON 2401C
+SON 2151C          Neurosonography                                   (2 credits)         Prerequisites: SON 1113L, SON 1141C
+SON 2400C          Echocardiography 1                                (2 credits)         Prerequisite: SON 1000L
+SON 2401C          Echocardiography 2                                (2 credits)         Prerequisite: SON 2400C
+SON 2614C          Acoustical Physics and Instrumentation 1          (2 credits)         Prerequisite: SON 1005L
+SON 2618C          Acoustical Physics and Instrumentation 2          (2 credits)         Prerequisites: SON 2614C, CGS 1060C
+SON 2619C          Doppler Principles and Instrumentation            (2 credits)         Prerequisite: SON 2618C
+SON 2834           Clinic 4                                          (2 credits)         Prerequisite: SON 1824
+SON 2844           Clinic 5                                          (3 credits)         Prerequisite: SON 2834
+SON 2854           Clinic 6                                          (3 credits)         Prerequisite: SON 2844
+SON 2930L          Seminar in Sonography                             (1 credit)
+SON 2935L          Diagnostic Ultrasound Imaging:                    (1 credit)          Prerequisite: SON 2834
+                   Advanced Techniques and Case Analysis
+

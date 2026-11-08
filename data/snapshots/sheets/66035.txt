@@ -1,0 +1,28 @@
+Network Server Administration
+College Credit Certificate | Code: 66035 | 24 Credits
+CIP: (0511100112)
+Effective Term: Fall 2023 (2237)
+
+The College Credit Certificate can help you get started in the technology field by offering you the foundational skills
+needed to support organizations by administering network systems and services. The program can teach you to
+implement, protect, and manage networks and servers in today's business environments. Program coursework is
+additionally designed to help you prepare for a variety of industry-recognized certifications, including: Network+,
+Security+, Server+, Linux+, and Microsoft Azure Administrator Associate. As a graduate, you may seek employment as
+an entry-level Network and Computer Systems Administrator, Network Support Technician, Information Technology
+Support Specialist, and Network Specialist.
+
+
+MAJOR COURSE REQUIREMENTS (24.00 Credits)
+
+CTS 1111          Linux +                               (4 credits)
+CTS 1120          Cybersecurity Fundamentals            (4 credits)    Recommended preparation: prior knowledge
+                                                                       of Networking Technologies
+CTS 1134          Networking Technologies               (4 credits)
+CTS 2143C         Server Administration                 (4 credits)    Recommended Preparation: Server Operating
+                                                                       Systems experience.
+CTS 2192C         Microsoft Azure Administration        (4 credits)    Recommended Preparation: CTS 1145 or
+                                                                       equivalent knowledge in Microsoft Azure
+                                                                       Fundamentals
+CTS 2303          Windows Server Administration         (4 credits)    Recommended Preparation: CGS 1060C and
+                                                                       CTS 1134 or equivalent knowledge
+

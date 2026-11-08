@@ -1,0 +1,35 @@
+Low Voltage Technician
+Career Technical Certificate | Code: 56010 |750 hours
+CIP (0647010106)
+Effective Term: Summer 2023 (2235)
+
+The Low Voltage Technician certificate program is designed to prepare students for employment or advanced training
+in a variety of occupations in the Electronics Technology Integration industry. The program focuses on technical and
+product skills, underlying principles of technology, planning, management, finance, labor issues, health, safety and
+environmental issues.
+
+TABE REQUIREMENT
+A student enrolling in a Career Technical Education (CTE) program of 450 or more clock hours is required to complete
+a basic skills test within the first six weeks of admission into the program. The Tests of Adult Basic Education (TABE)
+test provided by MDC satisfies this requirement. The minimum passing scores vary among the CTE programs. Students
+should speak with their program advisor to validate score expectations and testing exemptions. Students who
+complete the CTE program must meet basic skills competencies before a certificate of completion is awarded.
+
+(Provide appropriate TABE Scores if certificate is 450 hours or higher. If not, put N/A.)
+    - Mathematics:       10
+    - Language:          10
+    - Reading:           10
+
+
+
+MAJOR CORE REQUIREMENTS (750 hours)
+
+EEV 0162          Low Voltage Technician 1                       150 hours
+EEV 0163          Low Voltage Technician 2                       150 hours         Prerequisite: EEV 0162
+EEV 0164          Low Voltage Technician 3                       150 hours         Prerequisites: EEV 0162, EEV 0163
+EEV 0165          Low Voltage Technician 4                       150 hours         Prerequisites: EEV 0162, EEV 0163,
+                                                                                   EEV 0164
+EEV 0166          Low Voltage Technician 5                       150 hours         Prerequisites: EEV 0162, EEV 0163,
+                                                                                   EEV 0164, EEV 0165
+Page 2 of 2
+

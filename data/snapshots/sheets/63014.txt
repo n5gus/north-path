@@ -1,0 +1,26 @@
+Healthcare Informatics Specialist
+College Credit Certificate | Code 63014 | 24 Credits
+CIP (0351070712)
+Effective Term: Fall 2022 (2227)
+
+This program is designed to prepare students for employment in various healthcare settings where the Electronic
+Health Record is being implemented or maintained. Students will learn the concepts of collection of health
+information, integration of technology into the management of healthcare records, basic concepts in health data
+management, and database management in a healthcare setting.
+
+MAJOR COURSE REQUIREMENTS (6.00 Credits)
+HIM 2472     Medical Terminology                                            (3 Credits)
+SPC 1017     Fundamentals of Speech Communication                           (3 Credits)
+
+MAJOR COURSES FIRST SEMESTER (11.00 Credits)
+HIM 1000      Introduction to Health Information Technology                 (2 Credits)
+HIM 1800     Professional Practice Experience 1                             (2 Credits)
+HIM 2012     Legal Aspects of Health Care                                   (2 Credits)
+HIM 1110     Health Information Technology and Data Collection              (2 Credits)
+HIM 1110L    Health Information Management Data Collection lab              (3 credits)
+
+MAJOR COURSES SECOND SEMESTER (7.00 Credits)
+HIM 2211C    Health Information Technologies                                (2 Credits)
+HIM 2652C    Electronic Health Record                                       (3 Credits)
+HIM 2400C    Diversified Non-Hospital Health Records                        (2 Credits)
+

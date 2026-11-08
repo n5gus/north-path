@@ -1,0 +1,15 @@
+Rapid Prototyping Specialist
+College Credit Certificate | Code: 66054 | 12 Credits
+CIP: (0615000012)
+Effective Date:
+
+This program provides students with the technical skills proficiency and competency-based applied
+learning that contributes to the academic and career knowledge of students entering the advanced
+manufacturing industry.
+
+MAJOR COURSE REQUIREMENTS (12.00 Credits)
+ETD 1340    AutoCAD                                        (3 Credits)
+ETI 2404    Advanced Manufacturing Processes               (3 Credits)
+EGN 2200    Computer Applications in Engineering           (3 Credits)
+ETS 2632C   Computer Integrated Manufacturing              (3 Credits)
+

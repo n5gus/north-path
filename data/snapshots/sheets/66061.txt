@@ -1,0 +1,18 @@
+Cybersecurity Analyst
+College Credit Certificate | Code: 66061 | 24 credits
+CIP (0511100314)
+Effective Term: Fall 2023 (2237)
+
+The College Credit Certificate (CCC) in Cybersecurity offers essential cybersecurity skills and knowledge needed to secure
+networks, infrastructure, and use strategies to reduce the risk of incidents. The program curriculum offers hands-on learning
+to defend against cyber-attacks and the opportunity to prepare for multiple in-demand industry certifications.
+
+MAJOR COURSE REQUIREMENTS (24 Credits)
+
+CIS 1531          Introduction to Secure Scripting                     (4 Credits)
+CIS 2350          Cybersecurity Analysis (CySA+)                       (4 Credits)      Prerequisites: CTS 1120, CTS 1134
+CTS 1111          Linux +                                              (4 Credits)
+CTS 1120          Cybersecurity Fundamentals                           (4 Credits)
+CTS 1134          Networking Technologies                              (4 Credits)
+CTS 2314          Network Defense and Countermeasures                  (4 Credits)      Prerequisites: CTS 1120, CTS 1134
+

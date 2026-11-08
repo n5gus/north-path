@@ -1,0 +1,38 @@
+Lending
+College Credit Certificate | Code: 65080 | 32 Credits
+CIP: (0252080113)
+Effective Term: Fall 2021 (2217)
+
+The primary vision of the Lending Certificate is to develop in the students the ability to identify risks by providing a
+comprehensive foundation in financial analysis and credit underwriting fundamentals. The student will learn how to
+recognize first signals of credit deterioration and how lending officers manage problematic credit risk situations and
+implement strategies to minimize losses. The Program content includes identification, analysis of key qualitative risk
+factors, assessment, calculation, and interpretations of key ratios and elements of financial accounting.
+
+MAJOR COURSE REQUIREMENTS (32.00 Credits)
+
+BAN 1004          Banking Fundamentals, Evolution and Compliance             (3 Credits)
+BAN 2511          Marketing for Financial Services                           (3 Credits)
+ACG 2021          Financial Accounting                                       (3 Credits)
+ACG 2021 L        Financial Accounting Lab                                   (1 Credit)
+BAN 1231          Commercial Lending                                         (3 Credits)        Pre-Req. ACG 2021
+                                                                                                and
+                                                                                                ACG 2021L
+BAN 2210          Analyzing Financial Statements                             (3 Credits)        Pre-Req. ACG 2021
+                                                                                                and
+                                                                                                ACG2021L
+BAN 2211          Applied Financial Statement Analysis                       (3 Credits)        Pre-Req. ACG 2021
+                                                                                                and
+                                                                                                ACG 2021L, BAN 2210
+BAN 2501          Money, Banking and Financial Markets                       (3 credits)
+BAN 1240          Essentials for Retail Lending                              (3 credits)
+REE 2304          Commercial Real Estate                                     (3 credits)
+MKA 1022          Relationship Selling and Sales Strategies                  (3 credits)
+FIN 1930          Special Topic Seminar                                      (1 credit)
+
+
+
+Note: ABA Certificate in General Banking
+      CFT Consumer Lending, Commercial Lending and Real Estate Lending Diplomas CFT
+      Advanced Financial Services Diploma
+

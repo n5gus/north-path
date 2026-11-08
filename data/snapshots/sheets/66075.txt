@@ -1,0 +1,18 @@
+Intelligence Studies
+College Credit Certificate | Code: 66075 | 16 Credits
+CIP: (0743040300)
+Effective Term: Summer 2022 (2225)
+
+In this College Credit Certificate (CCC) in Intelligence Studies, students will learn what intelligence is and how it is
+used retroactively and proactively against computer crimes, homeland security critical issues and natural disasters.
+Students will also review the history of intelligence as practiced in the United States.
+
+
+MAJOR CORE REQUIREMENTS (16.00 Credits)
+
+CET 2880C         Digital Forensics                                                (4 Credits)
+DSC 1002          Domestic & International Terrorism                               (3 Credits)
+DSC 1590          Introduction to Intelligence Studies                             (3 Credits)
+DSC 2501          Effective Communication Skills for Security Professionals        (3 Credits)       Pre-req.: ENC 1101
+DSC 2590          Intelligence Analysis & Security Management                      (3 Credits)
+

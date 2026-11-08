@@ -1,0 +1,314 @@
+Film, Television and Digital Production
+Bachelor of Applied Science | P9220 | 120 credits
+CIP (1105006021)
+Effective Term: Fall Term 2024 (2247)
+
+The Bachelor of Applied Science (B.A.S.) in Film, Television and Digital Production is a flexible baccalaureate program intended to accommodate the
+unique demands for entry and advancement within specific workforce sectors. The B.A.S. program provides degree advancement opportunities for
+students with the Associate in Science in Film Production Technology. Students learn advanced, practical, and hands-on training necessary in today’s
+film, television and digital media production workforce. Students further their knowledge in the latest technologies giving them the experience to
+successfully achieve their academic goals and professional aspirations. Students who graduate with the Bachelor of Applied Science in Film, Television
+& Digital Production will be prepared to gain immediate employment with film and/or television production companies as producers, directors,
+technical directors, production managers, camera operators, cinematographers, writers, researchers, editors and sound engineers, as well as be
+prepared for graduate school in digital media production.
+
+GENERAL EDUCATION REQUIREMENTS – 36 Credits Required
+Courses require a grade of “C” or higher to satisfy the general education requirement.
+                                                                             Credits               Requisites
+1. Communications – 6 Credits Required
+        ENC 1101          English Composition 1 (WC)                             3                 Pre-Req Placement score or exemption
+        ENC 1102          English Composition 2 (WC)                             3                 Pre-Req ENC 1101
+
+2.   Oral Communications – 3 Credits Required
+     Select one course from the following offerings.
+         ENC 2300          Advanced Composition & Communication (WC)                     3         Pre-Req ENC 1101, 1102
+         LIT 2480          Issues in Literature & Culture (WC)                           3         Pre-Req ENC 1102
+         SPC 1017          Fundamentals of Speech Communications (WC)                    3
+         SPC 2608          Introduction to Public Speaking (WC)                          3
+
+3.   Humanities – 6 Credits Required
+      State Core (3 credits)
+        ARH 1000        Art Appreciation                                                 3
+        HUM 1020        Introduction to Humanities                                       3
+        LIT 2000        Introduction to Literature (WC)                                  3          Pre-Req ENC 1101
+        MUL 1010        Music Appreciation                                               3
+        PHI 2010        Introduction to Philosophy (WC)                                  3          Pre-Req ENC 1101
+        THE 2000        Theatre Appreciation (WC)                                        3
+                                    ---AND---
+       MDC Core (3 credits)
+        ARC 2701        History of Architecture 1                                        3
+        ARC 2702        History of Architecture 2 (WC)                                   3
+        ARH 1000        Art Appreciation                                                 3
+        ARH 2050        Art History 1                                                    3
+        ARH 2051        Art History 2 (WC)                                               3          Pre-Req ARH 2050
+        ARH 2740        Cinema Appreciation (WC)                                         3
+        DAN 2100        Dance Appreciation                                               3
+        DAN 2130        Dance History 1 (WC)                                             3
+        HUM 1020        Introduction to Humanities                                       3
+        IND 1100        History of Interiors 1                                           3
+        IND 1130        History of Interiors 2 (WC)                                      3
+        LIT 2000        Introduction to Literature (WC)                                  3          Pre-Req ENC 1101
+        LIT 2120        A Survey of World Literature 2 (WC)                              3          Pre-Req ENC 1101, 1102
+        MUH 2111        Survey of Music History 1                                        3
+        MUH 2112        Survey of Music History 2 (WC)                                   3         Pre-Req MUH 2111
+        MUL 1010        Music Appreciation                                               3
+        MUL 2380        Jazz & Popular Music in America (WC)                             3
+        PHI 2010        Introduction to Philosophy (WC)                                  3         Pre-Req ENC 1101
+        PHI 2600        Introduction to Ethics (WC)                                      3         Pre-Req ENC 1101
+        THE 2000        Theatre Appreciation (WC)                                        3
+4.   Behavioral and Social Science – 6 Credits Required
+        Must take 3.0 credits from the following group.
+        AMH 2010         History of the US to 1877                         3
+        AMH 2020         History of the US Since 1877                      3
+        ANT 2000         Introduction to Anthropology                      3
+        ECO 2013         Principles of Economics (Macro)                   3
+        POS 2041         American Federal Government                       3
+        PSY 2012         Introduction to Psychology                        3
+        - - - And - - -
+        Must take 3.0 credits from the following group.
+        AMH 2010         History of the US to 1877                         3
+        AMH 2020         History of the US Since 1877                      3
+        ANT 2000         Introduction to Anthropology                      3
+        ANT 2410         Introduction to Cultural Anthropology             3
+        CLP 1006         Psychology of Personal Effectiveness              3
+        DEP 2000         Human Growth and Development                      3
+        ECO 2013         Principles of Economics (Macro)                   3
+        ISS 1120         The Social Environment                            3
+        ISS 1161         The Individual in Society                         3
+        POS 2041         American Federal Government                       3
+        PSY 2012         Introduction to Psychology                        3
+        SYG 2000         Introduction to Sociology                         3
+        WOH 2012         History of World Civilization to 1789             3
+        WOH 2022         History of World Civilization From 1789           3
+
+5.   Natural Science – 6 Credits Required
+     Choose two courses from OPTION A OR OPTION B. Within selected option, one course must be State Core and one course must
+     be MDC Core.
+
+     Laboratory courses do not fulfill this area’s requirements.
+
+       Option A (6 credits):
+
+         State Core: Life Sciences (3 credits)
+         BSC 1005         General Education Biology                        3
+         BSC 2010         Principles of Biology                            3       Pre/Co-Req CHM 1045/BSC 2010L
+         BSC 2085         Human Anatomy and Physiology 1                   3       Co-Req BSC 2085L
+         EVR 1001         Introduction to Environmental Science            3
+                                    AND
+         MDC Core: Physical Sciences (3 credits)
+         AST 1002         Descriptive Astronomy                            3
+         ESC 1000         General Education Earth Science                  3
+         PSC 1121         General Education Physical Science               3       Pre-Req MAT 1033
+         PSC 1515         Energy in the Natural Environment                3
+         Any course with prefix CHM*, GLY*, MET*, OCE*, PHY*               3
+
+                                  --- OR ---
+
+       Option B (6 credits):
+
+         State Core: Physical Sciences (3 credits)
+         AST 1002       Descriptive Astronomy                              3
+         CHM 1020       General Education Chemistry                        3
+         CHM 1045       General Chemistry and Qualitative Analysis         3       Pre/Co-Req CHM1025 & MAC1105/CHM1045L
+         ESC 1000       General Education Earth Science                    3
+         PHY 1020       General Education Physics                          3
+         PHY2048        Physics with Calculus 1                            4       Pre/Co-Req HS physics, or PHY1025 or 2053,
+                                                                                   or dept. approval, and MAC2311/PHY2048L
+         PHY 2053        Physics (without Calculus) 1                      3       Pre/Co-Req MAC1147, 1114, 1140/PHY2053L
+                                  AND
+         MDC Core: Life Sciences (3 credits)
+         BOT 1010        Botany                                            3       Co-Req BOT 1010L
+         BSC 1005        General Education Biology                         3
+         BSC 1030        Social Issues in Biology                          3
+         BSC 1050        Biology & Environment                             3
+         BSC 1084        Functional Human Anatomy                          3
+         BSC 2010        Principles of Biology                             3       Pre/Co-Req CHM 1045/BSC 2010L
+         BSC 2020        Human Biology:
+                         Fundamental of Anatomy & Physiology               3
+         BSC 2085        Human Anatomy and Physiology 1                    3       Co-Req BSC 2085L
+         BSC 2250        Natural History of South Florida                  3
+         EVR 1001        Introduction to Environmental Sciences            3
+         HUN 1201        Essentials of Human Nutrition                     3
+         OCB 1010         Introduction to Marine Biology                       3
+         PCB 2033         Introduction to Ecology                              3      Pre-Req PSC 1515 or BSC 2011
+         PCB 2340C        Field Biology                                        3
+         ZOO 1010         Zoology                                              3      Co-Req ZOO 1010L
+
+6.   Mathematics – 6 Credits Required
+     Select one course from STATE CORE AND one course from MDC CORE.
+
+     State Core (3 credits)
+         MAC 1105        College Algebra (CC)                                  3      Pre-Req MAT 1033 or placement score
+
+         MAC 2311         Calc & Analytical Geometry 1 (CC)                    5      Pre-Req MAC1140 & MAC1114 or MAC1147
+
+         MGF 1130         Mathematical Thinking                                3      Student must meet the Developmental
+                                                                                      Education mathematics requirements in
+                                                                                      State Rule 6A-10.0315 (by course,
+                                                                                      placement score, or eligible exemption)
+         STA 2023         Statistical Methods                                  3      Pre-Req MAT1033 or MGF 1131
+
+                                 ---AND---
+     MDC Core (3 credits)
+
+         MAC* (CC)                 MAS* (CC)                  STA 2023 (CC)
+         MAD* (CC)                 MGF* (CC)
+         MAP* (CC)                 QMB 2100 (CC)
+
+
+7.   General Education Elective – 3 Credits Required
+
+ ACG 2021            AMH 2010          AMH 2020            ANT 2000           ANT 2410
+ ARC 2701            ARC 2702          ARH 1000            ARH 2050           ARH 2051
+ ARH 2740            ASL 2160C         ASL 2200C           ASL*               AST*
+ BOT*                BSC*              CGS 1060C           CIS 1000           CHM*
+ CLP 1006            CHI*              COP 1332            COP 1334           COP 2270
+ DAN 2130            DEP 2000          ECO 2013            ESC 1000           EDF 1005
+ EDF 2085            EEX 2000          ENC 2300            FRE*               FRW*
+ GEO 2420            GER*              GLY*                HBR*               HLP 1080
+ HLP 1081            HSC 2400          HUM 1020            HUN 1201           IND 1100
+ IND 1130            INR 2002          ISS 1120            ISS 1161           ISS 2270
+ ITA*                JPN*              LIT 2000            LIT 2120           LIT 2480
+ MAC*                MAD 2104          MAP*                MAS*               MET*
+ MGF*                MUH 2111          MUH 2112            MUL 1010           MUL 2380
+ OCE*                PCB 2033          PHI 2010            PHI 2604           PHY*
+ POR*                POS 2041          POS 2112            PSC*               PSY 2012
+ QMB 2100            REL 2300          RUS*                SPC 1017           SPN*
+ STA 2023            SYG 2000          SYG 2230            THE 2000           WOH 2012
+ WOH 2022            ZOO*
+
+Note: Courses in bold may fulfill other college requirements, including computer competency and foreign language. See those
+sections for details.
+
+
+LOWER DIVISION PREREQUISITE REQUIREMENTS – 43 Credits Required
+
+         FIL 1030         History of Film                                      3
+         FIL 1100         Screenwriting 1                                      3
+         FIL 1420C        Film Production 1                                    4               Co-Req: FIL 2552C
+         FIL 1431C        Film Production 2                                    4               Pre-Req: FIL 1420C & Co-Req:
+                                                                                               FIL 2553C
+         FIL 2131         Screenwriting 2                                      3               Pre-Req: FIL 1100
+         FIL 2552C        Editing: Level 1                                     3
+         FIL 2553C        Editing: Level 2                                     3               Pre-Req: FIL 2552C
+         FIL 2560C        Editing: Level 3                                     3               Pre-Req: FIL 2553C
+         FIL 2480C        Film Production 3                                    4               Pre-Req: FIL 1431C & RTV 1240C
+         FIL 2515C        Film Production 4                                    4               Pre-Req: FIL 2480C
+         FIL 2611         Film Business, Marketing,
+                          Distribution & Exhibition                            3
+         RTV 1240C        Sound Design                                         3
+         VIC 1000         Visual Communications                                3
+
+                          --- OR ---
+        MMC 2000         Introduction to Mass Comm                          3
+        RTV 1000         Fundamentals of Broadcasting                       3
+        RTV 1240C        Sound Design                                       3
+        RTV 1241C        TV Studio Production 1                             4
+        RTV 1242C        TV Studio Production 2                             4         Pre-Req: RTV 1241C
+        RTV 2243C        TV Directing                                       3         Pre-Req: RTV 1242C
+        RTV 2245C        Electronic Field Production 1                      4         Pre-Req: RTV 1242C
+        RTV 2246C        Electronic Field Production 2                      4         Pre-Req: RTV 2245C
+        RTV 2300         Broadcast Writing                                  3
+        FIL 2552C        Editing: Level 1                                   3
+        FIL 2553C        Editing: Level 2                                   3         Pre-Req: FIL 2552C
+        FIL 2560C        Editing: Level 3                                   3         Pre-Req: FIL 2553C
+        VIC 1000         Visual Communications                              3
+
+
+Lower Division Electives – 6 Credits Required
+
+        FIL 1030         History of Film***                                 3
+        FIL 1100         Screenwriting 1***                                 3
+        FIL 1055         American Independent Cinema                        3
+        FIL 1060         Survey of Documentary Film                         3
+        FIL 2413         Screenwriting 3                                    3
+        FIL 2945         Film Internship                                    3
+        FIL 2990         Special Topics                                     3
+        FIL 2950         Film Festival Experience                           3
+        TPP*             Acting                                             3
+        RTV 2230C        Radio & TV Announcing                              3
+        RTV 2940         TV Internship                                      3
+        RTV 2941         TV Practicum                                       3
+        RTV 2942         Spring TV Practicum                                3
+        RTV 2943         Summer TV Practicum                                3
+
+*** Courses are State Pre-Requisites. Only TV majors may take them as electives
+
+
+UPPER DIVISION REQUIREMENTS – 32 Credits Required
+
+        Course           Course Title                                       Credits   Pre-/Co-Requisites
+
+        DIG 3255C        Advanced Sound Design                              3         Pre-Req: RTV 1240C
+        DIG 3347C        Advanced Cinematography                            3         Pre-Req: FIL 2515C OR RTV 2246C
+        DIG 4345C        Digital Effects and Compositing                    3
+        FIL 3602         Production Management                              3         Pre-Req: FIL 2611 OR MMC 2000
+        FIL 3651         Business Proposals for Film & Television           3         Pre-Req: FIL 2611 OR MMC 2000
+        FIL 4164         Advanced Film & Television Writing                 3         Pre-Req: FIL 2131 OR RTV 2300
+        FIL 4585C        Production Workshop 1                              4         Pre-Req: DIG 3347C AND FIL 3602
+        FIL 4586C        Production Workshop 2                              4         Pre-Req: FIL 4585C
+        RTV 3810C        Broadcast Design & On Air Promotions               3
+        RTV 3277C        Advanced Television Studio Workshop                3         Pre-Req: FIL 2515C OR RTV 2246C
+
+
+Upper Division Electives: (3 Credits Required)
+
+        DIG3940          Upper Division Internship                          3
+        RTV3263C         Advanced Post Production                           3
+        RTV3408          Ethics & Research for Non Fiction Scripts          3
+        RTV3203          The Telemundo Academy                              3
+Computer Competency Requirement
+   Students must satisfy the requirement by successfully completing a course (CGS1060C or CTS0050, an equivalent college credit
+   course), or passing MDC’s Computer Skills Placement examination, or a test exemption.
+
+Foreign Language Competency Requirement
+    Students must fulfill this requirement via three options:
+
+    Option A: Successful completion of two (2) credits (i.e., the equivalent of two years) in one (1) foreign language at the
+    secondary (high school) level.
+                           ---OR---
+    Option B: Successful completion of the following courses at the elementary 2 level: ASL1150C, CHI1121, FRE1121, GER1121,
+    ITA1121, JPN1121, POR1121, RUS1121, SPN1121. These credits count towards the Lower Division Requirements area.
+                           ---OR---
+    Option C: Students may demonstrate completion of the elementary 2 level through standardized examination that document
+    the required foreign language competency.
+
+
+IMPORTANT INFORMATION
+
+Program Credits Composition
+General Education Requirements.………..36 credits
+Lower Division Requirements……………....43 credits
+Upper Division Requirements...…….………32 credits
+Elective Requirements…….………………………9 credits
+Total credits required for graduation….120 credits
+
+
+Civic Literacy Competency: First time in college students for the 2018-2019 school year and thereafter must demonstrate
+competency in civic literacy to earn a baccalaureate. This requirement may be satisfied by passing AMH2020 or POS2041 (listed
+under the Social Sciences area), or an equivalent AP or CLEP exam.
+
+Computer Competency: All MDC degree-seeking students with 16 or more credits must demonstrate computer competency prior to
+graduation. Students demonstrate this competency by passing the MDC computer competency test, currently known as CSP
+(Computer Skills Placement) examination or by enrolling in and successfully completing an equivalent course.
+
+Foreign Language: Students admitted to the baccalaureate degree program without meeting the foreign language admissions
+requirement of at least 2 courses (8-10 credit hours) of sequential foreign language at the secondary level or the equivalent of such
+instruction at the postsecondary level must earn such credits prior to graduation.
+
+Required Credit Hours and GPA: The baccalaureate requires student to earn a minimum of 120 unduplicated credit hours with a
+minimum cumulative grade point average of 2.0. All general education and all upper division requirements must be passed with the
+grade of “C” or better.
+
+Pursuing or Have Earned an Associate’s Degree: Students entering with an AS or AAS degree may have more than 24 elective
+credits and may need additional General Education credits to meet the 36 General Education credits required for the baccalaureate
+degree. Students entering with an AA degree may need additional electives to provide appropriate background for the baccalaureate
+program.
+
+Graduation Requirements: This Program Sheet is effective for academic year 2020/2021. Additional requirements apply, which
+include, but are not limited to Gordon Rule (college level communication and computational skills) and residency (number of credits
+that must be earned at MDC). Students should review their individualized Degree Audit Report to determine the specific graduation
+policies in effect for their program of study for the year and term they entered Miami Dade College. Students are highly encouraged
+to meet with their academic advisor on a regular basis and review the College Catalog to learn about all requirements to receive the
+baccalaureate. The final responsibility for meeting graduation requirements rests with the student.
+

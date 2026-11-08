@@ -1,0 +1,28 @@
+Artificial Intelligence Awareness
+College Credit Certificate | Code: 66040 | 9 Credits
+CIP (0511020113)
+Effective Term: Spring 2026 (2263)
+
+As the impact of artificial intelligence (AI) expands to every industry, foundational knowledge of the
+applications of these systems is something employers are exceedingly looking for. The College Credit
+Certificate in Artificial Intelligence Awareness is suited for students in any field interested in learning about
+the applications of AI across a variety of sectors, stages involved in a typical AI project, and the ethical
+considerations when adopting these technologies.
+
+Program Concentration Core (6.00 Credits)
+
+CAI 1001C        Artificial Intelligence (AI) Thinking                                    (3 credits)
+PHI 2680         Artificial Intelligence and Ethics                                       (3 credits)
+
+Discipline Specific Elective (3.00 Credits)
+
+CAI 1320C        Introduction to Prompt Engineering                                       (3 credits)
+COP 1047C        Introduction to Python Programming                                       (4 credits)
+CCJ 2840         Introduction to Criminal Justice Research with AI                        (3 credits)
+ECW 2010         Teaching with AI: Designing Human-Centered Classroom                     (3 credits)
+ETS 1603C        Introduction to Robotics                                                 (4 credits)
+GEB 1432         Applied Artificial Intelligence (AI) in Business                         (3 credits)
+HSC 2060         Artificial Intelligence Applications in Healthcare                       (3 credits)
+PLA 2872         Artificial Intelligence (AI) and the Law                                 (3 credits)
+SCM 1114         Applied Advanced Technologies & AI in Supply Chain Management            (3 credits)
+

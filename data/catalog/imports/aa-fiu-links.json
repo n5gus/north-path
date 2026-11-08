@@ -1,0 +1,93 @@
+{
+  "asOf": "2026-11-08",
+  "alignments": [
+    {
+      "guideId": "FIU-MDC-Accounting",
+      "fiuGuideTitle": "ACCOUNTING",
+      "aaPathwayId": "AA-10504",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Architecture",
+      "fiuGuideTitle": "ARCHITECTURE",
+      "aaPathwayId": "AA-10200",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Business-Administration",
+      "fiuGuideTitle": "BUSINESS ADMINISTRATION",
+      "aaPathwayId": "AA-10503",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Health-Services-Administration",
+      "fiuGuideTitle": "HEALTH SERVICES ADMINISTRATION",
+      "aaPathwayId": "AA-11200",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-History",
+      "fiuGuideTitle": "HISTORY",
+      "aaPathwayId": "AA-12202",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-International-Relations",
+      "fiuGuideTitle": "INTERNATIONAL RELATIONS",
+      "aaPathwayId": "AA-12205",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Landscape-Architecture",
+      "fiuGuideTitle": "LANDSCAPE ARCHITECTURE",
+      "aaPathwayId": "AA-10202",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Philosophy",
+      "fiuGuideTitle": "PHILOSOPHY",
+      "aaPathwayId": "AA-11502",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Political-Science",
+      "fiuGuideTitle": "POLITICAL SCIENCE",
+      "aaPathwayId": "AA-12206",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Psychology",
+      "fiuGuideTitle": "PSYCHOLOGY",
+      "aaPathwayId": "AA-12001",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    },
+    {
+      "guideId": "FIU-MDC-Social-Work",
+      "fiuGuideTitle": "SOCIAL WORK",
+      "aaPathwayId": "AA-12102",
+      "match": "exact-normalized-name",
+      "status": "candidate",
+      "note": "Name match only; FIU guide is destination guidance, not proof the MDC pathway is designed for it."
+    }
+  ]
+}

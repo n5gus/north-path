@@ -1,0 +1,22 @@
+Enterprise Cloud Computing
+College Credit Certificate | Code: 66058 | 24 Credits
+CIP: (0511100116)
+Effective Term: Summer 2021 (2215)
+
+The Enterprise Cloud Computing Credit Certificate program is designed to provide an opportunity to establish
+foundation in architect scalable, highly available application solutions that leverage cloud computing services.
+Utilizing best practices focusing on cloud security, cost, and reliability, graduates of the CCC in Enterprise Cloud
+Computing will utilize core design patterns and infrastructure expertise to implement solutions to deploy and
+maintain workloads and applications. Graduates are prepared for positions as entry-level Solutions Architect, Cloud
+Architect, Cloud Engineer and Cloud Application Architect.
+
+
+MAJOR CORE REQUIREMENTS (24.00 Credits)
+CGS 1540C          Database Concepts Design                    (4 Credits)
+CTS 1111           Linux +                                     (4 Credits)
+CTS 1134           Networking Technologies                     (4 Credits)
+CTS 1145           Cloud Essentials                            (4 Credits)
+CTS 2375C          Cloud Infrastructure and Services           (4 Credits)       Pre-Req CTS 1145
+                                                                                 Co-Req CTS 2960
+CTS 2960           Cloud Computing Capstone                    (4 Credits)       Departmental Approval
+

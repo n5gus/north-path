@@ -1,0 +1,45 @@
+Medical Coder/Biller
+College Credit Certificate | Code: 63020 | 37 credits
+CIP (0351071404)
+Effective Term: Spring 2023 (2233)
+
+The Medical Coder/Biller program prepares individuals for employment as Medical Coder/Billers. The student will learn to translate
+diagnoses and procedures into numerical designation (coding) using the International Classification of Diseases and Procedures (ICD-
+10-CM and PCS) and Current Procedural Terminology (CPT-4). The program involves coding, classifying and indexing diagnoses and
+procedures for purposes of standardization, retrieval and statistical analysis. The student will also be trained to prepare and file medical
+insurance claim forms for reimbursement. Electronic claims transmission is included. There is special emphasis on ethical and legal
+responsibilities, data quality, financial reimbursement, Diagnosis Related Groups (DRGs) and Ambulatory Patient Classification (APCs).
+
+MAJOR CORE REQUIREMENTS (37.00 Credits)
+BSC 2085       Human Anatomy and Physiology 1                                     (3 Credits)         Corequisite: BSC 2085L
+BSC 2085L      Human Anatomy and Physiology 1 Laboratory                          (1 Credit)          Corequisite: BSC 2085
+BSC 2086       Human Anatomy & Physiology 2                                       (3 Credits)         Prerequisite: BSC 2085;
+                                                                                                      Corequisite: BSC 2086L
+BSC 2086L           Human Anatomy & Physiology 2 Laboratory                       (1 Credit)          Prerequisites: BSC 2085, BSC 2085L;
+                                                                                                      Corequisite: BSC 2086L
+HIM 1000            Introduction to Health Information Management                 (2 Credits)
+HIM 1110            Health Record Technology & Data Collection                    (2 Credits)         Prerequisites: HIM 1000, HIM 2472;
+                                                                                                      Corequisite: HIM 1110L
+HIM 1110L           Health Record Technology & Data Collection Laboratory         (3 Credits)         Prerequisites: HIM 1000, HIM 2472;
+                                                                                                      Corequisite: HIM 1110
+HIM 1300            Health Care Facility and Delivery System                      (2 Credits)
+HIM 2211C           Health Information Technologies                               (2 Credits)         Prerequisites: HIM 1110, HIM 1110L,
+                                                                                                      HIM 1800
+HIM 2222            ICD Coding Systems                                            (2 Credits)         Prerequisites: BSC 2085, BSC 2085L and
+                                                                                                      HIM 2472;
+                                                                                                      Corequisite: HIM 2222L
+HIM 2222L           ICD Coding Systems Laboratory                                 (3 Credits)         Prerequisites: BSC 2085, BSC 2085L and
+                                                                                                      HIM 2472;
+                                                                                                      Corequisite: HIM 2222
+HIM 2234            Advanced Coding & Reimbursement Systems                       (2 Credits)         Prerequisites: HIM 2222, HIM 2222L;
+                                                                                                      Corequisite: HIM 2234L
+HIM 2234L           Advanced Coding & Reimbursement Systems Laboratory            (1 Credit)          Prerequisites: HIM 2222, HIM 2222L
+                                                                                                      Corequisite: HIM 2234
+HIM 2253C           Current Procedural Terminology/CPT-4                          (2 Credits)         Prerequisites: BSC 2085, BSC 2085L and
+                                                                                                      HIM 2472
+HIM 2433            Pathophysiology and Pharmacology                              (3 Credits)         Prerequisites: BSC 2085, BSC 2085L,
+                                                                                                      HIM 2472
+HIM 2472            Medical Terminology                                           (3 Credits)         Prerequisite: Departmental Permission
+HIM 2813            Professional Practice Experience                              (2 Credits)         Prerequisites: HIM 2222, HIM 2222L,
+                                                                                                      HIM 2234, HIM 2234L, HIM 2253C
+

@@ -1,0 +1,20 @@
+Computed Tomography
+Advanced Technical Certificate – Computed Tomography | Code: C6037 |9 credits
+CIP (0351091166)
+Effective Term: Fall 2023 (2237)
+
+
+The Advanced Technical Certificate in Computed Tomography is designed to educate and prepare individuals who
+currently hold a Radiologic Technologist license in Nuclear Medicine, Radiography or Radiation Therapy with skills
+required to become Computed Tomography (CT) technologist. Students will acquire knowledge of CT technology to
+include history and development, equipment, terminology, patient preparation and care, principles of image
+formation, acquisition, and production. Graduates will acquire necessary skills and content in preparation for the
+American Registry of Radiologic Technologists (ARRT) certification examination in Computed Tomography.
+
+
+MAJOR CORE REQUIREMENTS (9 credits)
+
+RTE 2571         Principles of Computed Tomography      (3 credits)           Corequisite: RTE 2762
+RTE 2762         Cross Sectional Anatomy                (3 credits)
+RTE 2940C        Computed Tomography Clinical Education (3 credits)           Prerequisites: RTE 2571, RTE 2762
+

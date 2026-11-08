@@ -1,0 +1,79 @@
+Interior Design Technology
+Associate in Science | Code: 26030 | 75 credits
+CIP (1450040801)
+Effective Term: Fall 2024 (2247)
+
+The Interior Design Technology program is planned to develop ability in the design of interiors, to encourage originality and to
+foster talent in this field. It includes theoretical and technical aspects of interior design. The program is open to those who study
+for pleasure and those preparing for a career.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition                                  (3 credits)        Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                   (3 credits)
+HUM 1020         Introduction to Humanities                         (3 credits)
+LIT 2000         Introduction to Literature                         (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                 (3 credits)
+PHI 2010         Introduction to Philosophy                         (3 credits)
+THE 2000         Theatre Appreciation                               (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                     (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                               (3 credits)
+BSC 1005        General Education Biology                           (3 credits)
+CHM 1020        General Education Chemistry                         (3 credits)
+ESC 1000        General Education Earth Science                     (3 credits)
+EVR 1001        Introduction to Environmental Science               (3 credits)
+GLY 1010        Physical Geology                                    (3 credits)
+OCE 1001        Introduction to Oceanography                        (3 credits)
+PHY 1020        General Education Physics                           (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                         (3 credits)
+AMH 2020          History of the US since 1877                      (3 credits)
+POS 2041          American Federal Government                       (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---or---
+CGS 1060C          Introduction to Computer Technology & Application
+MAJOR COURSE REQUIREMENTS (53.00 credits)
+ARC 1115       Architectural Communications 1               (2 credits)
+ARC 1126C      Architectural Drawing 1                      (4 credits)
+ARC 2171       Computer Aided Drafting 1                    (4 credits)   Prerequisite: ARC 1126 or 2461
+ARC 2461       Architectural Materials and Construction 1   (4 credits)   Prerequisite: ARC 1126 or BCN 1251
+IND 1020       Interior Design 1                            (4 credits)   Corequisite: ARC 1115
+IND 1100       History of Interiors 1                       (3 credits)
+IND 1130       History of Interiors 2                       (3 credits)
+IND 1200       Interior Design 2                            (4 credits)   Prerequisite: IND 1020
+IND 1300       Interior Design Presentations 1              (2 credits)   Prerequisite: IND 1020;
+                                                                          Corequisite: IND 1200
+IND 2201         Design Principles for Kitchen & Bath       (3 credits)   Prerequisites: ARC 2461, IND 1200,
+                                                                          IND 1300
+IND 2210         Interior Design 3                          (4 credits)   Prerequisite: IND 1200;
+                                                                          Corequisite: IND 2330
+IND 2220         Interior Design 4                          (4 credits)   Prerequisite: IND 2210
+IND 2330         Interior Design Presentations 2            (3 credits)   Prerequisite: IND 1300;
+                                                                          Corequisite: IND 2210
+IND 2430         Lighting Design                            (3 credits)   Prerequisite: IND 1200
+IND 2500         Professional Practices                     (3 credits)   Prerequisite: Sophomore standing
+                                                                          level or equivalent.
+IND 2608         Sustainable Design                         (3 credits)   Prerequisites: ARC 1126, IND 1200, IND 1300;
+                                                                          Corequisite: ARC 2461
+
+MAJOR COURSE ELECTIVE (7.00 credits)
+ARC*
+IND*
+CGS 1060C      Introduction to Computer Technology          (4 credits)
+               & Applications
+

@@ -1,0 +1,31 @@
+Biotechnology
+College Credit Certificate | Code: 60002 | 19 Credits
+CIP (0641010100)
+Effective Term: Fall 2017 (2177)
+
+The College Credit Certificate in Biotechnology seeks to prepare students for immediate entry-level employment in the
+biotechnology-, pharmaceutical-, or medical device manufacturing industry. The program prepares individuals for the
+principles, procedures, and practices used in the bioscience industries. The college credits granted in this program will apply
+toward an Associate of Science degree in Biotechnology.
+
+MAJOR COURSE REQUIREMENTS (19.00 Credits)
+
+BSC 2426            Biotechnology Methods and Applications 1                    (3 Credits)          Prerequisite: Previous
+                                                                                                     knowledge of chemistry and biology
+                                                                                                     strongly recommended;
+                                                                                                     Corequisite: BSC 2426L.
+BSC 2426L           Biotechnology Methods & Applications 1 Laboratory           (2 Credits)          Prerequisite: Previous
+                                                                                                     knowledge of chemistry and biology
+                                                                                                     strongly recommended.
+                                                                                                     Corequisite: BSC 2426
+CHM 1045            General Chemistry and Qualitative Analysis                  (3 Credits)          Prerequisite: CHM1025 or a passing
+                                                                                                     score on the CART exam, MAC 1105;
+                                                                                                     Corequisite: CHM 1045L
+CHM 1045L           General Chemistry and Qualitative Analysis Lab              (2 Credits)          Prerequisite: MAC1105, CHM1025
+                                                                                                     or a passing score on the CART
+                                                                                                     exam.
+                                                                                                     Corequisite: CHM 1045.
+ETI 1040            Introduction to Bioscience Manufacturing                    (3 Credits)
+ETI 1172            Introduction to Quality Assurance                           (3 Credits)
+MAC 1105            College Algebra                                             (3 Credits)          Prerequisite: MAT 1033
+

@@ -1,0 +1,92 @@
+Transportation and Logistics
+Associate in Science | Code: 28000 | 64 credits
+CIP (1652020301)
+Effective Term: Fall 2024 (2247)
+
+This Transportation and Logistics A.S. degree program provides core courses in transportation policy, law, safety, security,
+management and marketing, and an integrated understanding of the intermodal relationship between the various modes of
+transportation. In addition, college credit certificates will be offered in Intermodal Freight Transportation and International Freight
+Transportation.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 Credits)
+ENC 1101       English Composition 1                                  (3 credits)         Prerequisite: Student must meet the
+                                                                                          Developmental Education reading and writing
+                                                                                          requirements in State Rule 6A-10.0315 (by
+                                                                                          course, placement score, or eligible exemption).
+
+HUMANITIES (3.00 Credits)
+HUM 1020         Humanities                                           (3 credits)
+
+MATHEMATICS (3.00 Credits)
+MAC 1105        College Algebra                                       (3 credits)         Prerequisite: MAT 1033
+STA 2023        Statistical Methods                                   (3 credits)         Prerequisite: MAT 1033, MGF 1131
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+PHY 1020        General Education Physics                             (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                           (3 credits)
+AMH 2020          History of the US since 1877                        (3 credits)
+POS 2041          American Federal Government                         (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+MAJOR CORE REQUIREMENTS (23.00 Credits)
+ACG 2021       Financial Accounting                                   (3 credits)
+               Corequisite: ACG 2021L
+ACG 2021L      Financial Accounting Lab                               (1 credit)          Corequisite: ACG 2021
+ACG 2071       Managerial Accounting                                  (3 credits)         Prerequisite: ACG 2021
+                                                                                          Corequisite: ACG 2071L
+ACG 2071L           Managerial Accounting Lab                         (1 credit)          Prerequisite: ACG 2021 and ACG 2021L
+                                                                                          Corequisite: ACG 2071
+ECO 2023            Principles of Economics (MICRO)                   (3 credits)         Prerequisite: MAT1033
+MAN 2021            Principles of Management                          (3 credits)
+TRA 1154            Introduction to Supply Chain Management           (3 credits)
+TRA 2010           Introduction to Transportation and Logistics   (3 credits)
+QMB 2100           Basic Business Statistics                      (3 credits)        Prerequisite: Acceptable score on the
+                                                                                     Algebra Placement test or equivalent
+
+PROGRAM CORE REQUIREMENTS (21.00 Credits)
+Group A (18.00 credits)
+AVM 2120          Air Cargo Operations                            (3 credits)
+DSC 2242          Transportation and Border Security              (3 credits)
+TRA 2156          Operations Management for Transportation        (3 credits)        Prerequisite: MAN 2021
+TRA 2321          Transportation Public Policy, Law
+                  and Regulations                                 (3 credits)        Prerequisite: TRA 2010
+TRA 2402          Intermodal Transportation Operations and
+                  Project Management                              (3 credits)        Prerequisites: AVM 2120, TRA 2010
+                                                                                     Corequisites: TRA 1410, TRA 1420, TRA 1430
+TRA 2702           International Logistics and Transportation     (3 credits)        Prerequisites: TRA 2010, TRA 2321
+
+---AND---
+
+Group B (3.00 credits)
+TRA 1410           Introduction to Rail Freight Operations        (3 credits)        Corequisites: TRA1420, TRA 1430
+TRA 1420           Introduction to Trucking Operations            (3 credits)        Corequisites: TRA1410, TRA 1430
+TRA 1430           Introduction to Port Freight Operations        (3 credits)        Corequisites: TRA 1410, TRA 1420
+
+CAPSTONE COURSE REQUIREMENT (1.00 Credit)
+TRA 2945       Transportation & Logistics Capstone I              (1 credit)         Prerequisite: Departmental Approval &
+                                                                                     Completion of the Program Core
+                                                                                     Requirements
+
+ELECTIVES (4.00 Credits)
+AVM 1062           Aviation Career Planning 1
+AVM 1949           Co-Op Work Experience 1: AVI                   (3 credits)        Prerequisite: Departmental Permission
+CGS 1060C          Introduction to Computer Technology
+                   & Applications                                 (4 credits)
+MAT 1033           Intermediate Algebra                           (3 credits)        Prerequisites: MAT0022C, or MAT0028, or
+                                                                                     MAT0057 or by placement score, or eligible
+                                                                                     exemption
+ACG*                       FIN2*                      MAN2*                     QMB*
+BUL*                       GEB*                       MAR*                      SBM*
+ECO*                       HFT*                       OST*                      TAX*
+FIN1*                      MAN1*                      PUR*                      TRA
+

@@ -1,0 +1,20 @@
+Help Desk Support Technician
+College Credit Certificate| Code: 66037 | 16 Credits
+CIP: (0511010313)
+Effective Term: Fall 2020 (2207)
+
+The Help Desk Support Technician College Credit Certificate is designed to prepare students with the technical
+knowledge and skills for employment as entry-level computer help desk and support technicians in commercial,
+industrial and government institutions. Graduates are also prepared for CompTIA A+ and Network+ industry
+certifications.
+
+MAJOR COURSE REQUIREMENTS (16.00 Credits)
+
+
+CGS 1560          A+ Computer Operating Systems           (4 Credits)
+ CTS 1131         A+ Computer Essentials &                (4 Credits)     Pre-req CGS 1560
+                  Support
+ CTS 1134         Networking Technologies                 (4 Credits)
+ CTS 1328         Supporting Microsoft Clients            (4 Credits)     Pre-req CGS 1060C or Computer
+                                                                          Skills Placement Exam
+

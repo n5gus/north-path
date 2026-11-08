@@ -1,0 +1,31 @@
+Miami Dade College Program Sheets                                                                   https://sisvsr.mdc.edu/ps/sheet.aspx?pgm=C6029
+
+
+
+
+                          PROGRAM OF STUDY: BIOTECHNOLOGY - BIOINFORMATICS (C6029)
+                                      EFFECTIVE TERM: Fall 2017 (2017-1)
+
+         I. GENERAL EDUCATION REQUIREMENTS
+
+         1. ADV. CERT. CORE REQUIRED (13.00 credits)
+
+              BSC 2426 - Biotechnology Methods and Applications 1 (3 credits)    BSC 2427L - Biotechnology Methods & Applications 2 Laborato
+              BSC 2426L - Biotechnology Methods & Applications 1 Laboratory (2 credits)
+         (2 credits)                                                             BSC 2943L - Bioscience Internship (3.00 - 6.00 credits)
+              BSC 2427 - Biotechnology Methods and Applications 2 (3 credits)
+
+         2. ADV. CERT. PROG. REQUIREMENTS (20.00 credits)
+
+              CGS 1021 - Scientific Computing (4 credits)                        COP 1334 - Introduction to C++ Programming (4 credits)
+              CGS 1145 - Introduction to Bioinformatics (4 credits)              COP 2700 - Database Application Programming (4 credits)
+              CIS 1321 - Introduction to Systems Analysis and Design (4
+         credits)
+
+         * End of Program Sheet *
+
+
+
+
+1 of 1                                                                                                                             6/29/17, 5:36 PM
+

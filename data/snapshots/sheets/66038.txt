@@ -1,0 +1,22 @@
+Business Intelligence Professional
+College Credit Certificate | Code: 66038 | 20 Credits
+CIP (0552130101)
+Effective Term: Fall 2023 (2237)
+
+
+The Business Intelligence Professional College Credit Certificate prepares students for employment in various
+business intelligence positions and/or for continued studies in the Business Intelligence Specialist AS degree.
+Students will learn to work with a variety of datasets and transform them into valuable insights via
+visualizations and reports.
+
+MAJOR CORSE REQUIREMENTS (20.00 Credits)
+
+CGS 1540C       Database Concepts and Design            (4 Credits)
+CAP 1788        Introduction to Data Analytics          (4 Credits)
+CAP 2761C       Intermediate Analytics                  (4 Credits)   Prerequisites: CAP 1788 and CGS
+                                                                      1540C
+CAP 2791C       Power BI: Data Preparation and          (4 Credits)   Prerequisites: CAP 1788 and CGS
+                Modeling                                              1540C
+CAP 2743C       Power BI: Data Visualization and        (4 Credits)   Prerequisite: CAP 2791C
+                Analysis
+

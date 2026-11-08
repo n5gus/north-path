@@ -1,0 +1,74 @@
+Graphic Design Technology
+Associate in Science | Code: 26031 | 64 credits
+CIP (1611080300)
+Effective Term: Fall 2024 (2247)
+
+The Graphic Design Technology A.S. degree program prepares students for employment as graphic designers, illustrators, photo
+editors, page layout artists, advertising designers, package designers, branding and visual identity designers. Coursework includes the
+production workflow process from the design concept to the finished printed or multimedia product.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition                                   (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and writing
+                                                                                         requirements in State Rule 6A-10.0315 (by course,
+                                                                                         placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                    (3 credits)
+HUM 1020         Introduction to Humanities                          (3 credits)
+LIT 2000         Introduction to Literature                          (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                  (3 credits)
+PHI 2010         Introduction to Philosophy                          (3 credits)
+THE 2000         Theatre Appreciation                                (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                                (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and writing
+                                                                                         requirements in State Rule 6A-10.0315 (by course,
+                                                                                         placement score, or eligible exemption).
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                                (3 credits)
+BSC 1005        General Education Biology                            (3 credits)
+CHM 1020        General Education Chemistry                          (3 credits)
+ESC 1000        General Education Earth Science                      (3 credits)
+EVR 1001        Introduction to Environmental Science                (3 credits)
+GLY 1010        Physical Geology                                     (3 credits)
+OCE 1001        Introduction to Oceanography                         (3 credits)
+PHY 1020        General Education Physics                            (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                          (3 credits)
+AMH 2020          History of the US since 1877                       (3 credits)
+POS 2041          American Federal Government                        (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed: Computer Competency Test (CCT)
+---or---
+CGS 1060C - Introduction to Computer Technology & Applications
+MAJOR COURSE REQUIREMENTS (46.00 credits)
+GRA 1111C      Graphic Design Fundamentals                   (4 credits)
+GRA 1113C      Visual Identity & Branding Design             (4 credits)       Prerequisites: GRA 1111C, GRA 1206C,
+                                                                               and GRA 2117C
+GRA 1206C        Typography Fundamentals                     (4 credits)
+GRA 1280C        Digital Imaging Fundamentals                (4 credits)
+GRA 1750         Web Design Fundamentals                     (3 credits)
+GRA 2117C        Digital Illustration Fundamentals           (4 credits)
+GRA 2121C        Publication Design                          (4 credits)       Prerequisites: GRA 1111C, GRA 1206C, and
+                                                                               GRA 2117C;
+                                                                               Pre/Corequisite: GRA 1280C
+GRA 2151C        Advanced Digital Illustration and Imaging   (4 credits)       Prerequisites: GRA 1280C and GRA 2117C
+GRA 2203C        Portfolio and Business Practices for        (3 credits)       Prerequisites: GRA 2121C and GRA 2151C
+                 Designers
+GRA 2207C        Capstone Project                            (4 credits)       Prerequisite: GRA 2151C
+GRA 2545C        Package Design                              (4 credits)       Prerequisite: GRA 2151C
+GRA 2546C        Advertising Design                          (4 credits)       Prerequisites: GRA 1113C and GRA 2151C
+
+MAJOR COURSE ELECTIVE (3.00 credits)
+ART 1300C      Drawing                                       (3 - 4 credits)
+ART 1330C      Figure Drawing                                (3 - 4 credits)
+GRA 1949       Co-op Work Experience 1: GRA                  (3 credits)
+GRA 2305C      Special Topics in Graphic Design              (3 credits)       Prerequisite: GRA 2151C
+GRA 2949       Co-op Work Experience 2: GRA                  (3 credits)
+

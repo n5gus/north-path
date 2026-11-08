@@ -1,0 +1,224 @@
+ Electrical and Computer Engineering Technology
+ Bachelor of Science | Code: S9100 | 134 credits
+ CIP (1101503031)
+ Effective Term: Fall Term 2024 (2247)
+
+ Electrical and Computer Engineering Technology (ECET) is part of almost everything society depends on. The ECET program at Miami Dade College is
+ designed to provide students with a well-rounded hands-on education in electrical and computer systems. The program emphasizes the application
+ of electrical/electronic and computer hardware and software principles and devices. Students study and learn valuable skills from various areas such
+ as: computer hardware and interfacing, computer-based instrumentation and process control, digital communication and networking, and
+ microcontroller systems and applications. Graduates from the ECET program have technical skills that allows them to work in a broad range of
+ industries including transportation, green energy, networks and communications, aerospace, defense, and biomedical.
+
+
+ GENERAL EDUCATION REQUIREMENTS – 36 Credits Required
+ Courses require a grade of “C” or higher to satisfy the general education requirement.
+                                                                              Credits              Requisites
+ 1. Communications – 6 Credits Required
+         ENC 1101           English Composition 1 (Gw)                            3                Appropriate college placement
+         ENC 1102           English Composition 2 (Gw)                            3                Pre-Req ENC 1101
+
+ 2.   Oral Communications – 3 Credits Required
+      Select one course from the following offerings.
+          ENC 2300          Advanced Composition & Communication (Gw)                    3         Pre-Req ENC 1101, 1102
+          LIT 2480          Issues in Literature & Culture (Gw)                          3         Pre-Req ENC 1102
+          SPC 1017          Introduction to Communication (Gw)                           3
+          SPC 2608          Introduction to Public Speaking (Gw)                         3
+
+ 3.   Humanities – 6 Credits Required
+      Select one course from Group A-State Core AND one course from Group B-MDC Core. Al least one Gordon Rule Writing (Gw)
+      course must be selected from Group A or Group B.
+
+        Group A: State Core (3 credits)
+          ARH 1000       Art Appreciation                                                3
+          HUM 1020       Introduction to Humanities                                      3
+          LIT 2000       Introduction to Literature (Gw)                                 3         Pre-Req ENC 1101
+          MUL 1010       Music Appreciation                                              3
+          PHI 2010       Introduction to Philosophy (Gw)                                 3         Pre-Req ENC 1101
+          THE 2000       Theatre Appreciation (Gw)                                       3
+                                    ---AND---
+        Group B: MDC Core (3 credits)
+          ARC 2701      History of Architecture 1                                        3
+          ARC 2702      History of Architecture 2 (Gw)                                   3
+          ARH 1000      Art Appreciation                                                 3
+          ARH 2050      Art History 1                                                    3
+          ARH 2051      Art History 2 (Gw)                                               3         Pre-Req ARH 2050
+          ARH 2740      Cinema Appreciation (Gw)                                         3
+          DAN 2100      Dance Appreciation                                               3
+          DAN 2130      Dance History 1 (Gw)                                             3
+          HUM 1020      Introduction to Humanities                                       3
+          IND 1100      History of Interiors 1                                           3
+          IND 1130      History of Interiors 2 (Gw)                                      3
+          LIT 2000      Introduction to Literature (Gw)                                  3         Pre-Req ENC 1101
+          LIT 2120      A Survey of World Literature 2 (Gw)                              3         Pre-Req ENC 1101, 1102
+          MUH 2111      Survey of Music History 1                                        3
+          MUH 2112      Survey of Music History 2 (Gw)                                   3         Pre-Req MUH 2111
+          MUL 1010      Music Appreciation                                               3
+          MUL 2380      Jazz & Popular Music in America (Gw)                             3
+          PHI 2010      Introduction to Philosophy (Gw)                                  3         Pre-Req ENC 1101
+          PHI 2604      Critical Thinking/Ethics (Gw)                                    3         Pre-Req ENC 1101
+          THE 2000      Theatre Appreciation (Gw)                                        3
+
+ 4.   Behavioral and Social Science – 6 Credits Required
+
+Choose two courses from Option A OR Option B. Within selected option, one course must be State Core and one MDC Core. Selecting
+AMH2010, AMH2020 or POS2041 is recommended as these courses also fulfill the civic literacy graduation requirement.
+       Option A (6 credits): Choose one course from State Core A-Behavioral Sciences and one course from MDC Core A-Social
+       Sciences.
+         State Core A: Behavioral Sciences (3 credits)
+         ANT 2000        Introduction to Anthropology                       3
+         PSY 2012        Introduction to Psychology                         3
+         SYG 2000        Introduction to Sociology                          3
+                                       AND
+         MDC Core A: Social Sciences (3 credits)
+         AMH 2010       History of the US to 1877                               3
+         AMH 2020       History of the US Since 1877 ( )                        3
+         ECO 2013       Principles of Economics (Macro)                         3
+         ISS 1120       The Social Environment                                  3
+         POS 2041       American Federal Government ( )                         3
+         WOH 2012       History of World Civilization to 1789                   3
+         WOH 2022       History of World Civilization from 1789                 3
+
+                                  --- OR ---
+
+       Option B (6 credits): Choose one course from State Core B-Social Sciences and one course from MDC Core B-
+       BehavioralSciences.
+         State Core B: Social Sciences (3 credits)
+         AMH 2010          History of the US to 1877
+         AMH 2020          History of the US Since 1877                      3
+         ECO 2013          Principles of Economics (Macro)                   3
+         POS 2041          American Federal Government                       3
+                                       AND
+         State Core B: Behavioral Sciences (3 credits)
+         ANT 2000        Introduction to Anthropology                           3
+         ANT 2410        Introduction to Cultural Anthropology                  3
+         CLP 1006        Psychology of Personal Effectiveness                   3
+         DEP 2000        Human Growth and Development                           3
+         ISS 1161        The Individual in Society                              3
+         PSY 2012        Introduction to Psychology                             3
+         SYG 2000        Introduction to Sociology                              3
+
+5.   Natural Science – 6 Credits Required
+     Laboratory courses do not fulfill this area’s requirements.
+         PHY 2048           Physics with Calculus 1                             4        Pre/Co-Req PHY1025 or PHY2053, and MAC
+                                                                                         2311, MAC2312, MAC2313, MAD2104, MAS
+                                                                                         2103, or MAP 2302/PHY2048L
+         PHY 2049           Physics with Calculus 2                             4        Pre/Co-Req PHY2048 and MAC2312,
+                                                                                         MAC2313, MAD2104, MAS 2103, or MAP
+                                                                                         2302/PHY2049L
+6.   Mathematics – 6 Credits Required
+     Courses below may be replaced by a higher-level mathematics with prefix MAC* and MAP*.
+         MAC 1105        College Algebra                                      3       Pre-Req MAT 1033
+         MAC 1140        Pre-Calculus Algebra                                 3       Pre-Req MAC 1105
+
+7.   General Education Elective – 3 Credits Required
+        PHY 2049L       Physics with Calculus 2 Lab                             1        Pre/Co-Req PHY2048 and MAC2312,
+                                                                                         MAC2313, MAD2104, MAS 2103, or MAP
+                                                                                         2302/PHY2049L
+         Any other general education elective approved course. Please see advisor for assistance.
+
+Computer Competency Requirement
+   Students must satisfy the requirement by successfully completing a course (CGS1060C or CTS0050, an equivalent college credit
+   course), or passing MDC’s Computer Skills Placement examination, or a test exemption.
+
+Foreign Language Competency Requirement
+    Students must fulfill this requirement via three options:
+    Option A: Successful completion of two (2) credits (i.e., the equivalent of two years) in one (1) foreign language at the
+    secondary (high school) level.
+                            ---OR---
+     Option B: Successful completion of the following courses at the elementary 2 level: ASL1150C, CHI1121, FRE1121, GER1121,
+     ITA1121, JPN1121, POR1121, RUS1121, SPN1121. These credits count towards the Lower Division Requirements area.
+                            ---OR---
+    Option C: Students may demonstrate completion of the elementary 2 level through standardized examination that document
+    the required foreign language competency.
+
+PROGRAM COMMON PREREQUISITES – 10 Credits Required
+      MAC 2311    Calculus and Analytical Geometry 1                        5        Pre-Req MAC1106 and MAC1114, or
+                                                                                     MAC1114 and MAC1140, or MAC1147
+        MAC 2312         Calculus and Analytical Geometry 2                 4        Pre-Req MAC2311
+        PHY 2048         Physics with Calculus 1 (GER)                      4        Pre/Co-Req PHY1025 or PHY2053, and MAC
+                                                                                     2311, MAC2312, MAC2313, MAD2104, MAS
+                                                                                     2103, or MAP 2302/PHY2048L
+        PHY 2048L        Physics with Calculus 1 Lab                        1        Pre/Co-Req PHY1025 or PHY2053, and MAC
+                                                                                     2311 MAC2312, MAC2313, MAD2104, MAS
+                                                                                     2103, or MAP 2302/PHY2048
+    (GER) General Education Requirement
+
+LOWER DIVISION REQUIREMENTS – 53 Credits Required
+      CET 1110C    Digital Circuits                                         4        Pre-Req EET1015C and MAC1105.
+                                                                                     Pre/Co-Req: COP2270
+        CET 2113C         Advanced Digital Circuits                         4        Pre-Req CET1110C and COP2270
+        CET 2123C         Microprocessors                                   4        Pre-Req CET1110C and COP2270
+        COP 2270          C for Engineers                                   4        Pre/Co-Req MAC1105
+        EET 1015C         Direct Current Circuits                           4        Pre/Co-Req MAC1105
+        EET 1025C         Alternating Current Circuits                      4        Pre-Req EET1015C; Pre/Co-Req MAC1114
+                                                                                     or MAC1147
+        EET 1141C         Electronics 1                                     4        Pre-Req EET1025C; MAC1114 or MAC1147
+        EET 2101C         Electronics 2                                     4        Pre-Req EET1041C
+        EET 2323C         Analog Communications                             4        Pre-Req EET1141C
+        EET 2351C         Digital and Data Communications                   4        Pre-Req CET2123C
+        ETI 2670          Engineering Economic Analysis                     3        Pre-Req MAC1105
+        ETS 2673C         Programmable Logic Controls                       4        Pre-Req CET1110C
+        MAC1114           Trigonometry                                      3        Pre-Req MAC1105
+        MAP 2302          Introduction to Differential Equations            3        Pre-Req MAC2312
+
+UPPER DIVISION REQUIREMENTS – 29 Credits Required
+       CET 3126C    Computer Architecture                                   4
+       EET 3716C    Advanced System Analysis                                4        Pre-Req EET1025C and MAC2312
+       EET 4158C    Linear Integrated Circuits                              4        Pre-Req EET3716C
+       EET 4165C    Senior Design 1                                         3        Department Approval Required
+       EET 4166C    Senior Design 2                                         2        Pre-Req EET4165C; Dept. Approval Req.
+       EET 4730C    Feedback Control Systems                                4        Pre-Req EET3716C
+       EET 4732C    Signals and Systems                                     4        Pre-Req EET3716C
+       ETI 4480C    Applied Robotics                                        4        Pre-Req EET3126C
+
+PROGRAM ELECTIVES – 6 Credits Required
+
+    Group A: Select one course from the following offerings.
+       ETP 3240          Power Systems                                      3        Pre-Req EET1025C
+       ETP 3320          Introduction to Renewable Energy Technology        3        Pre-Req EET2101C
+
+    Group B: Select one course from the following offerings.
+       CET 4190C         Applied Digital Signal Processing                  4        Pre-Req COP2270, EET4732C, and
+                                                                                     EET2323C or EET2351C
+        CET 4663C         Electronic Security                               3        Pre-Req CET2123C and COP2270
+
+
+                                                          TOTAL CREDITS
+General Education Requirements                                                                                36 credits
+Program Common Prerequisites                                                                                  10 credits
+Lower Division Requirements                                                                                   53 credits
+Upper Division Requirements                                                                                   29 credits
+Upper Division Electives                                                                                      6 credits
+Total                                                                                                         134 credits
+
+
+IMPORTANT INFORMATION
+
+Civic Literacy Competency: First time in college students for the 2018-2019 school year and thereafter must demonstrate
+competency in civic literacy to earn a baccalaureate. This requirement may be satisfied by passing AMH 2010, AMH2020 or
+POS2041 (listed under the Social Sciences area), or an equivalent AP or CLEP exam.
+Foreign Language: Students admitted to the baccalaureate degree program without meeting the foreign language admission
+requirement of at least 2 courses (8-10 credit hours) of sequential foreign language at the secondary level or the equivalent of such
+instruction at the postsecondary level must earn such credits prior to graduation.
+
+Computer Competency: By the16th earned college level credit (excluding EAP and college preparatory courses), a student must
+take the Computer Competency Test and pass
+        Or
+By the31st earned college level credit (excluding EAP and college preparatory courses), a student must pass CGS 1060C, an
+equivalent continuing education or vocational credit course or retest with a passing score on the Computer Competency Test.
+
+Required Credit Hours and GPA: The baccalaureate requires student to earn a minimum of 120 unduplicated credit hours with a
+minimum cumulative grade point average of 2.0. All general education and all upper division requirements must be passed with the
+grade of “C” or better.
+
+Pursuing or Have Earned an Associate’s Degree: Students entering with an AS or AAS degree may have more than 24 elective
+credits and may need additional General Education credits to meet the 36 General Education credits required for the baccalaureate
+degree. Students entering with an AA degree may need additional electives to provide appropriate background for the baccalaureate
+program.
+
+Graduation Requirements: Students should review their individualized Degree Audit Report to determine the specific graduation
+policies in effect for their program of study for the year and term they entered Miami Dade College. Students are highly encouraged
+to meet with their academic advisor on a regular basis and review the College Catalog to learn about all graduation requirements.
+The final responsibility for meeting graduation requirements rests with the student.
+

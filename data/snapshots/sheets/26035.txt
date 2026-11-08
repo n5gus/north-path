@@ -1,0 +1,82 @@
+Civil Engineering Technology
+Associate in Science | Code: 26035 | 63 credits
+CIP (1715020101)
+Effective Term: Fall 2024 (2247)
+
+The Civil Engineering Technology program is designed for those students who wish immediate job placement prior to or after
+graduation. This program also satisfies many of the civil engineering freshman and sophomore requirements for the Bachelor of
+Engineering Technology degree offered by certain universities. Consult your Civil Engineering advisor prior to registration.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                               (3 credits)        Prerequisite: Student must meet the Developmental
+                                                                                      Education reading and writing requirements in State
+                                                                                      Rule 6A-10.0315 (by course, placement score, or
+                                                                                      eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                  (3 credits)
+HUM 1020         Introduction to Humanities                        (3 credits)
+LIT 2000         Introduction to Literature                        (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                (3 credits)
+PHI 2010         Introduction to Philosophy                        (3 credits)        Prerequisite: ENC 1101
+THE 2000         Theatre Appreciation                              (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                    (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                              (3 credits)
+BSC 1005        General Education Biology                          (3 credits)
+CHM 1020        General Education Chemistry                        (3 credits)
+ESC 1000        General Education Earth Science                    (3 credits)
+EVR 1001        Introduction to Environmental Science              (3 credits)
+GLY 1010        Physical Geology                                   (3 credits)
+OCE 1001        Introduction to Oceanography                       (3 credits)
+PHY 1020        General Education Physics                          (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                        (3 credits)
+AMH 2020          History of the US since 1877                     (3 credits)
+POS 2041          American Federal Government                      (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---or---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+MAJOR COURSE REQUIREMENTS (41.00 Credits)
+ETC 2450       Concrete Construction                     (3 credits)         Prerequisite: ETG 2502
+ETD 1110       Technical Drawing 1                       (4 credits)
+ETD 1542       Structural Drafting                       (4 credits)         Prerequisite: ETD 1110
+ETG 2502         Statics                             (3 credits)    Prerequisite: MAC 1105
+ETG 2530C        Strength of Materials               (3 credits)    Prerequisite: ETG 2502 or Equivalent
+MAC 1114         Trigonometry                        (3 credits)    Prerequisite: MAC 1105 or MAC 1106
+SUR 1101C        Surveying 1                         (4 credits)    Prerequisites MAC1114 or MAC1147
+SUR 1202C        Surveying 2                         (4 credits)    Prerequisite: SUR 1101C
+SUR 2301C        Topography & Mapping                (4 credits)    Departmental Permission
+SUR 2400C        Land Surveying 1                    (3 credits)    Prerequisite: SUR 1101C
+SUR 2404C        Land Surveying 2                    (3 credits)
+SUR 2462C        Subdivisions                        (3 credits)    Prerequisite: EGS 1111C
+
+MAJOR COURSE ELECTIVE (7.00 Credits)
+EGN 2200       Computer Applications in Engineering (3 credits)     Pre/Co-requisite MAC1114 or MAC1147
+EGS 1111C      Engineering Graphics                 (5 credits)
+EGS 1220C      Basic Computer Language              (2 credits)
+ETC 1250       Construction Materials               (3 credits)
+ETC 1930       Construction and Engineering         (1-3 credits)
+               Seminar 1
+ETC 2201       Design and Inspection Engineer       (3 credits)
+               Seminar 1
+ETC 2207       Computing and Estimating             (3 credits)
+ETC 2210C      Geotechnics and Soils                (4 credits)
+ETI 2121       Materials Testing                    (3 credits)     Prerequisite: MAC 1105
+ETM 1313C      Hydraulics and Pneumatics            (3 credits)     Prerequisite: MAC 1105
+SUR 1001C      Construction Survey                  (3 credits)     Prerequisite: MAC1114 or MAC 1147
+SUR 1640C      Land Surveying Computations          (3 credits)     Prerequisite: MAC 1105 or 1140;
+                                                                    Corequisite: MAC 1114
+SUR 2330C        Photogrammetry 1                    (3 credits)
+

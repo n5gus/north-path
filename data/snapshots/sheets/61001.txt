@@ -1,0 +1,22 @@
+Film Production Fundamentals
+College Credit Certificate | Code: 61001 | 24 Credits
+CIP (0650060203)
+Effective Term: Fall 2017 (2177)
+
+
+The Film Production Fundamentals College Credit Certificate (CCC) is designed to prepare students for entry-level
+employment in the motion picture industry. Students will understand the fundamentals in the following skills:
+lighting, grip, camera, audio recording, and editing.
+
+
+MAJOR COURSE REQUIREMENTS (24.00 Credits)
+
+CGS 1060C         Introduction to Computer Technology & Applications          (4 Credits)
+FIL 1100          Screenwriting 1                                             (3 Credits)
+FIL 1420C         Film Production 1: Introduction to the Filmmaking Process   (4 Credits)    Corequisite: FIL 2552C
+FIL 1431C         Film Production 2: Cinematography and Sound                 (4 Credits)    Prerequisite: FIL 1420C
+                                                                                             Corequisite: FIL 2553C
+FIL 2552C         Editing Level 1: Introduction to Editing                    (3 Credits)
+FIL 2553C         Editing Level 2: Intermediate Editing and Visual Effects    (3 Credits)    Prerequisite: FIL 2552C
+VIC 1000          Visual Communications                                       (3 Credits)
+

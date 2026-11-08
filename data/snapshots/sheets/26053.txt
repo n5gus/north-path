@@ -1,0 +1,67 @@
+Biomedical Engineering Technology
+Associate in Science | Code: 26053 | 60 credits
+CIP (1615040102)
+Effective Term: Fall 2024 (2247)
+
+The Biomedical Engineering Technology program prepares students for employment as Biomedical Engineering Technicians and
+Technologists and in related occupations in health-related fields. The program also provides supplemental training for persons
+currently or previously employed in these occupations. The program focuses on the understanding and applying of concepts in
+electronics, in addition to troubleshooting techniques, to digital, microprocessor, or computer-based systems as they relate to
+medical devices. Assembly, installation, operations maintenance, calibration, trouble-shooting, repairing and elementary design
+on medical systems are taught using an integrated, applied and theoretical approach.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                (3 credits)        Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                   (3 credits)
+HUM 1020         Introduction to Humanities                         (3 credits)
+LIT 2000         Introduction to Literature                         (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                 (3 credits)
+PHI 2010         Introduction to Philosophy                         (3 credits)
+THE 2000         Theatre Appreciation                               (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                     (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+BSC 1005        General Education Biology                           (3 credits)
+BSC 2085        Human Anatomy and Physiology 1                      (3 credits)        Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                         (3 credits)
+AMH 2020          History of the US since 1877                      (3 credits)
+POS 2041          American Federal Government                       (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+MAJOR COURSE REQUIREMENTS (37.00 Credits)
+CET 1110C      Digital Circuits                                     (4 credits)        Prerequisite: EET 1015C, MAC 1105;
+                                                                                       Pre/Corequisite: COP 2270
+CET 1487C          Network+                                         (3 credits)
+COP 2270           “C” for Engineers                                (4 credits)        Pre/Corequisite: MAC 1105
+EET 1015C          Direct Current Circuits                          (4 credits)        Prerequisite: MAC 1105
+EET 1025C          Alternating Current Circuits                     (4 credits)        Prerequisite: EET 1015C;
+                                                                       Pre/Corequisite: MAC 1114 or 1147
+EET 1141C          Electronics 1                         (4 credits)   Prerequisite: EET1025C, and MAC 1114 or
+                                                                       MAC 1147
+EET 2101C          Electronics 2                         (4 credits)   Prerequisite: EET 1141C
+ETS 2673C          Programmable Logic Controllers        (4 credits)   Prerequisite: CET 1110C
+HIM 2472           Medical Terminology                   (3 credits)
+MAC 1114           Trigonometry                          (3 credits)   Prerequisite: MAC 1105 or MAC 1106
+
+PROGRAM ELECTIVE (8.00 Credits)
+Electives are restricted to courses listed below:
+BSC*, CET*, EET*, ETI*, ETS*, MAC*
+ETM 1315C            Applied Pneumatics and Hydraulics   (3 credits)   Pre/Corequisite: MAC 1105
+

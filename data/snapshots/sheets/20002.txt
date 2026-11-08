@@ -1,0 +1,92 @@
+Entrepreneurship
+Associate in Science | Code: 20002 | 60 credits
+CIP (1552070308)
+Effective Term: Fall 2024 (2247)
+
+The A.S. in Entrepreneurship prepares students to start-up and operate a business or social venture with a foundation in
+opportunity recognition, analysis, business model development and business plan creation. Graduates will bring a critically-
+informed perspective to their own start-up venture, family-owned business, or social venture.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                               (3 credits)        Prerequisite: Student must meet the
+                                                                                      Developmental Education reading and writing
+                                                                                      requirements in State Rule 6A-10.0315 (by
+                                                                                      course, placement score, or eligible
+                                                                                      exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                  (3 credits)
+HUM 1020         Humanities                                        (3 credits)
+LIT 2000         Introduction to Literature                        (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                (3 credits)
+PHI 2010         Introduction to Philosophy                        (3 credits)
+THE 2000         Theatre Appreciation                              (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                    (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                              (3 credits)
+BSC 1005        General Education Biology                          (3 credits)
+CHM 1020        General Education Chemistry                        (3 credits)
+ESC 1000        General Education Earth Science                    (3 credits)
+EVR 1001        Introduction to Environmental Science              (3 credits)
+GLY 1010        Physical Geology                                   (3 credits)
+OCE 1001        Introduction to Oceanography                       (3 credits)
+PHY 1020        General Education Physics                          (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                        (3 credits)
+AMH 2020          History of the US since 1877                     (3 credits)
+POS 2041          American Federal Government                      (3 credits)
+
+COMPUTER COMPETENCY REQUIREMENT
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C Introduction to Computer Technology & Applications
+
+MAJOR COURSE REQUIREMENTS (14.00 credits)
+ACG 2021       Financial Accounting                      (3 credits)         Corequisite: ACG 2021L
+ACG 2021L      Financial Accounting Lab                  (1 credits)         Corequisite: ACG 2021
+ACG 2071       Managerial Accounting                     (3 credits)         Prerequisite: ACG 2011 and ACG 2001 or ACG 2021;
+                                                                             Corequisite: ACG 2071L
+ACG 2071L          Managerial Accounting Lab               (1 credits)         Prerequisite: ACG 2001, ACG 2011, ACG 2021, ACG 2021L;
+                                                                               Corequisite: ACG 2071L
+ECO 2013           Principles of Economics (Macro)         (3 credits)
+ECO 2023           Principles of Economics (Micro)         (3 credits)         Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+PROGRAM CORE REQUIREMENTS (12.00 credits)
+ACG2450        Microcomputers in Accounting                          (3 credits)        Pre/Corequisite: ACG 2001 or ACG 2021
+---OR---
+TAX 2021       Taxation of Business Organizations                    (3 credits)
+---AND---
+ENT 2201       Introduction to Lean Start-Up                         (3 credits)        Prerequisite: GEB 2112
+GEB 2112       Introduction to Entrepreneurship                      (3 credits)
+MAR 1720       Marketing in a Digital World                          (3 credits)
+
+ELECTIVES (19.00 credits)
+BUL 2241           Business Law 1                                    (3 credits)
+CGS 1060C          Introduction to Computer Technology
+                   & Applications                                    (4 credits)
+ENT 1501           Fundamentals of Changemaking and
+                   Social Innovation                                 (3 credits)
+ENT 2212           Entrepreneurial Leadership                        (3 credits)
+ENT 2502           Starting and Growing a Social Venture             (3 credits)
+ENT 2270           Family Business Management                        (3 credits)
+ENT 2421           Funding Your Venture                              (3 credits)
+ENT 2511           Evaluating Social Impact                          (3 credits)
+MAC 2233           Business Calculus                                 (3 credits)        Prerequisite: MAC 1105 or MAC 1106
+MAR 2704           Marketing Web Analytics                           (3 credits)
+MAT 1033           Intermediate Algebra                              (3 credits)        Prerequisites: MA T0022C, or MAT 0028,
+                                                                                        or MAT 0057 or by placement score, or eligible
+                                                                                        exemption.
+SPC 1017           Introduction to Communication                     (3 credits)
+SPC 2608           Introduction to Public Speaking                   (3 credits)
+STA 2023           Statistical Methods                               (3 credits)        Prerequisites: MAT 1033 or MGF 1131
+

@@ -1,0 +1,280 @@
+                                                                    MIAMI DADE COLLEGE
+                                                                ACADEMIC PROGRAM INVENTORY
+               6-DIGIT FEDERAL   10-DIGIT FLORIDA                                                                                           Primary SOC
+ AWARD TYPE                                         Plan Code   MDC PROGRAM NAME
+               CIP CODE          CIP CODE                                                                                                      Codes
+      AA       24.0101           1192401010         1****       https://www.mdc.edu/academics/programs/associate.aspx
+     APPR      47.0609           0847060908         59005       Aircraft Structural Assembly and Fabrication Apprenticeship                   512011
+      AS       52.0302           1552030201         25022       Accounting Technology                                                         433031
+      AS       10.0304           1610030400         25074       Animation & Game Art                                                          271011
+      AS       11.0102           1511010200         25080       Applied Artificial Intelligence                                               151252
+      AS       04.0901           1604090100         26034       Architectural Design & Construction Technology                                173011
+      AS       49.0104           1649010403         26028       Aviation Administration                                                       532022
+      AS       49.0104           1649010401         26027       Aviation Maintenance Management                                               493011
+      AS       15.0401           1615040102         26053       Biomedical Engineering Technology                                             499062
+      AS       41.0101           1341010100         22027       Biotechnology                                                                 194021
+      AS       41.0101           1341010100         22028       Biotechnology - Bioinformatics                                                194021
+      AS       41.0101           1341010100         22029       Biotechnology - Chemical Technology                                           194021
+      AS       15.1001           1615100102         26033       Building Construction Technology                                              119021
+      AS       52.0201           1552020102         25051       Business Administration                                                       111021
+      AS       30.7001           1530700101         25073       Business Intelligence Specialist                                              152051
+      AS       15.0201           1715020101         26035       Civil Engineering Technology                                                  173022
+      AS       51.1004           1351100405         23024       Clinical Laboratory Sciences                                                  292011
+      AS       43.0116           1743040300         27028       Computer Crime Investigation                                                  151199
+      AS       15.1201           1615120100         26052       Computer Engineering Technology                                               151199
+      AS       11.0103           1511010307         25055       Computer Information Technology                                               151211
+      AS       11.0201           1511020101         25065       Computer Programming and Analysis - Business App. Programming                 151131
+      AS       11.0201           1511020101         25076       Computer Programming and Analysis - Internet of Things (IoT) Applications     151131
+      AS       11.0201           1511020101         25070       Computer Programming and Analysis - Mobile Applications Development           151131
+      AS       43.0406           1743040600         27026       Crime Scene Technology - Crime Scene Investigation                            194092
+      AS       43.0406           1743040600         27027       Crime Scene Technology - Forensic Science                                     194092
+      AS       43.0103           1743010302         27012       Criminal Justice Technology                                                   331012
+      AS       12.0504           1612050401         22031       Culinary Arts Management                                                      119051
+      AS       11.1003           1511100308         25079       Cybersecurity                                                                 151212
+      AS       11.0802           1511080200         25058       Database Technology - Oracle Database Administration                          151141
+      AS       51.0602           1351060200         23021       Dental Hygiene                                                                292021
+      AS       51.0910           1351091004         23038       Diagnostic Medical Sonography Specialist                                      292032
+      AS       13.1210           1413121004         27014       Early Childhood Education                                                     252011
+      AS       13.1210           1413121004         27033       Early Childhood Education - Administrators                                    252011
+      AS       13.1210           1413121004         27032       Early Childhood Education - Infant Toddler                                    252011
+      AS       13.1210           1413121004         27031       Early Childhood Education - Preschool                                         252011
+      AS       15.0303           1615030301         26039       Electronics Engineering Technology                                            173023
+      AS       51.0904           1351090402         23047       Emergency Medical Services                                                    292041
+      AS       52.0703           1552070308         20002       Entrepreneurship                                                              112011
+      AS       50.0407           1450040700         22005       Fashion Design                                                                271022
+      AS       52.1902           1252190200         22020       Fashion Merchandising                                                         414012
+      AS       50.0602           1650060213         26044       Film Production Technology                                                    274032
+      AS       52.0801           1252080100         22026       Financial Services - Banking                                                  113031
+      AS       52.0801           1252080100         22024       Financial Services - Wealth Management                                        113031
+      AS       43.0201           1743020112         27018       Fire Science Technology                                                       331021
+      AS       12.0301           1312030100         23049       Funeral Services                                                              119171
+      AS       50.0411           1550041100         25075       Game Development & Design                                                     151132
+      AS       11.0803           1611080300         26031       Graphic Design Technology                                                     271024
+      AS       11.0801           1611080103         26050       Graphic Internet Technology                                                   151134
+      AS       51.0707           1351070700         23052       Health Information Technology                                                 292071
+      AS       51.0701           1351070101         23081       Health Sciences                                                               119111
+      AS       51.0701           1351070101         23082       Health Sciences - Health Services Management                                  119111
+      AS       51.1008           1351100800         23064       Histologic Technology                                                         292011
+      AS       52.0901           1252090101         22016       Hospitality & Tourism Management                                              119081
+      AS       50.0408           1450040801         26030       Interior Design Technology                                                    271029
+      AS       01.0605           1101060502         21005       Landscape & Horticulture Technology                                           371012
+      AS       52.1401           1252140101         25047       Marketing                                                                     112021
+      AS       50.0913           1650091300         25019       Music Business - Business Management                                          272041
+      AS       50.0913           1650091300         25044       Music Business - Performance and Production                                   272041
+      AS       11.1001           1511100112         25077       Networking Services Technology - Enterprise Cloud Computing                   151152
+      AS       11.1001           1511100112         25062       Networking Services Technology - Network Infrastructure                       151152
+      AS       51.0905           1351090502         23068       Nuclear Medicine Technology                                                   292033
+      AS       51.3801           1351380100         23031       Nursing - R.N. (Accelerated)                                                  291141
+      AS       51.3801           1351380100         23028       Nursing - R.N. (Generic Full-Time)                                            291141
+      AS       51.3801           1351380100         23027       Nursing - R.N. (Generic Part-Time)                                            291141
+      AS       51.3801           1351380100         23025       Nursing - R.N. (Transitional Full-Time)                                       291141
+      AS       51.3801           1351380100         23026       Nursing - R.N. (Transitional Part-Time)                                       291141
+      AS       51.1801           1351180100         23041       Opticianry                                                                    292081
+      AS       22.0302           1722030200         27013       Paralegal Studies - ABA Approved                                              232011
+      AS       50.0605           1650060500         26032       Photographic Technology                                                       274021
+      AS       51.0806           1351080601         23034       Physical Therapist Assistant                                                  312021
+
+
+
+Revised: September 16, 2025                                                 Page 1 of 4
+                                                           MIAMI DADE COLLEGE
+                                                   ACADEMIC PROGRAM INVENTORY
+      AS       49.0102        1649010200   26029   Professional Pilot Technology                                            532011
+      AS       51.0907        1351090701   23058   Radiation Therapy                                                        291124
+      AS       10.0202        1610020202   26043   Radio & Television Broadcast Programming                                 274032
+      AS       51.0911        1351091100   23037   Radiography                                                              292034
+      AS       51.0908        1351090800   23046   Respiratory Care                                                         291126
+      AS       51.0908        1351090800   23067   Respiratory Care (Accelerated)                                           291126
+      AS       13.1003        1713100305   23033   Sign Language Interpretation                                             273091
+      AS       51.1599        1451159901   25067   Social and Human Services - Addictions Studies                           211093
+      AS       51.1599        1451159901   25026   Social and Human Services - Generalist                                   211093
+      AS       51.0909        1351090901   23077   Surgical Technology                                                      292055
+      AS       13.1003        1713100304   24050   Translation/Interpretation Studies                                       273091
+      AS       31.0504        1531050100   28010   Sport Management                                                         119072
+      AS       52.0203        1652020301   28000   Transportation and Logistics                                             113071
+      AS       01.8301        1301830100   23065   Veterinary Technology                                                    292056
+     ATC       50.0102        0650010266   C6050   Museum Studies                                                           254013
+     ATC       49.0102        0649010266   C6027   Certified Flight Instructor                                              532011
+     ATC       52.0201        0552020166   C6002   Compensation and Benefits                                                113111
+     ATC       52.0901        0252090166   C6000   Hospitality Management                                                   119081
+     ATC       52.0201        0552020166   C6001   Human Resources Management                                               113121
+     ATC       52.0209        0652020967   C6003   Procurement Management                                                   113071
+     ATC       52.0209        0652020968   C6004   Project Management                                                       113071
+     ATC       52.0203        0652020366   C6005   Supply Chain Analytics                                                   113071
+     ATC       61.2612        0351091166   C6037   Computed Tomography                                                      292034
+     ATC       51.0920        0351091066   C6036   Magnetic Resonance Imaging                                               293025
+     ATC       41.0101        0341010166   C6028   Biotechnology                                                            194021
+     ATC       41.0101        0341010166   C6029   Biotechnology - Bioinformatics                                           194021
+     ATC       41.0101        0341010166   C6030   Biotechnology - Chemical Technology                                      194021
+     BAS       52.0299        1105202991   P9200   Leadership and Management Innovation                                     111021
+     BAS       52.0299        1105202991   P9203   Leadership and Management Innovation - Accounting                        111021
+     BAS       52.0299        1105202991   P9204   Leadership and Management Innovation - Digital Marketing Concentration   111021
+     BAS       52.0299        1105202991   P9201   Leadership and Management Innovation - Hospitality Management            111021
+     BAS       52.0299        1105202991   P9202   Leadership and Management Innovation - Human Resource Management         111021
+     BAS       52.0203        1105202032   P9300   Supply Chain Management                                                  113071
+     BAS       52.0203        1105202032   P9301   Supply Chain Management - Procurement Management                         113071
+     BAS       52.0203        1105202032   P9302   Supply Chain Management - Project Management                             113071
+     BAS       52.0203        1105202032   P9303   Supply Chain Management - Supply Chain Analytics                         113071
+     BAS       50.0602        1105006021   P9220   Film, Television & Digital Production                                    272012
+     BAS       51.0000        1105100002   P9211   Clinical Laboratory Science                                              292011
+     BAS       51.0000        1105100002   P9212   Health Science - Histotechnology Concentration                           292011
+     BAS       51.0000        1105100002   P9210   Health Science - Physician Assistant Studies Concentration               291071
+     BAS       43.9999        1104399991   P9106   Public Safety Management - Crime Scene Investigation Option              999999
+     BAS       43.9999        1104399991   P9110   Public Safety Management - Criminal Justice Option                       999999
+     BAS       43.9999        1104399991   P9105   Public Safety Management - Emergency Management Option                   999999
+      BS       51.3801        1105138012   N9100   Bachelor of Science in Nursing (RN to BSN)                               291141
+      BS       13.1210        1101312101   S9270   Early Childhood Education                                                252011
+      BS       13.1001        1101310011   S9260   Exceptional Student Education (K-12)                                     252059
+      BS       13.1311        1101313111   S9250   Secondary Mathematics Education                                          251022
+      BS       13.1322        1101313221   S9210   Secondary Science Education - Biology                                    251042
+      BS       11.0102        1101101021   S9520   Applied Artificial Intelligence                                          151256
+      BS       11.1003        1101110031   S9515   Cybersecurity                                                            151212
+      BS       30.7101        1103071011   S9510   Data Analytics                                                           152051
+      BS       15.0303        1101503031   S9100   Electrical and Computer Engineering Technology                           173023
+      BS       11.0103        1101101034   S9500   Information Systems Technology - Networking Concentration                113021
+      BS       11.0103        1101101034   S9501   Information Systems Technology - Software Engineering Concentration      113021
+      BS       26.0101        1102601011   S9121   Biological Sciences - Biopharmaceutical Sciences Concentration           191029
+      BS       26.0101        1102601011   S9120   Biological Sciences - Biotechnology Concentration                        191029
+      BS       26.0101        1102601011   S9122   Biological Sciences - Science Education                                  191029
+     CCC       52.0302        0552030203   65075   Accounting and Budgeting                                                 433031
+     CCC       52.0302        0552030205   65077   Accounting Technology Management                                         433031
+     CCC       15.1501        0451150100   65078   Addiction Studies                                                        211093
+     CCC       49.0104        0649010404   66030   Air Cargo Management                                                     531011
+     CCC       49.0104        0649010411   63018   Airline Maintenance Procedures and Records Management                    491011
+     CCC       49.0104        0649010403   63012   Airline/Aviation Management                                              532021
+     CCC       49.0104        0649010405   63017   Airport Management                                                       532021
+     CCC       13.1003        0713100307   64053   American Sign Language                                                   211093
+     CCC       11.0201        0511020113   66040   Artificial Intelligence Awareness                                        151251
+     CCC       11.0102        0511010200   66041   Artificial Intelligence Practitioner                                     151252
+     CCC       10.0203        0610020303   61000   Audio Technology                                                         274011
+     CCC       15.0406        0615040601   68000   Automation                                                               173027
+     CCC       41.0101        0641010100   60002   Biotechnology                                                            194021
+     CCC       15.1001        0615100103   66025   Building Construction Specialist                                         119021
+     CCC       52.0703        0552070303   65109   Business Entrepreneurship Operations - Family-Owned Business             119179
+     CCC       52.0703        0552070303   65111   Business Entrepreneurship Operations - Social Venture                    119179
+
+
+
+Revised: September 16, 2025                                   Page 2 of 4
+                                                           MIAMI DADE COLLEGE
+                                                   ACADEMIC PROGRAM INVENTORY
+     CCC       52.0703        0552070303   65110   Business Entrepreneurship Operations – Start-Up Venture                           119179
+     CCC       52.0703        0552070308   65098   Business Entrepreneurship Specialist - Family-Owned Business                      119179
+     CCC       52.0703        0552070308   65097   Business Entrepreneurship Specialist - Social Venture                             119179
+     CCC       52.0703        0552070308   65101   Business Entrepreneurship Specialist - Start-Up Venture                           119179
+     CCC       52.0205        0652020502   65061   Business Industry Operations                                                      111021
+     CCC       52.1301        0552130101   66038   Business Intelligence Professional                                                151199
+     CCC       52.0201        0552020104   65022   Business Operations - Business Management                                         111021
+     CCC       52.0201        0552020104   65025   Business Operations - Human Resources                                             111021
+     CCC       52.0201        0552020104   65027   Business Operations - Marketing                                                   111021
+     CCC       52.0201        0552020104   65031   Business Operations - Small Business                                              111021
+     CCC       52.0201        0552020103   65011   Business Specialist - Business Management                                         111021
+     CCC       52.0201        0552020103   65100   Business Specialist - General Business                                            111021
+     CCC       52.0201        0552020103   65014   Business Specialist - Human Resources                                             111021
+     CCC       52.0201        0552020103   65015   Business Specialist - International Business                                      111021
+     CCC       52.0201        0552020103   65016   Business Specialist - Marketing                                                   111021
+     CCC       52.0201        0552020103   65020   Business Specialist - Small Business                                              111021
+     CCC       12.0503        0612050302   65059   Chef Apprentice                                                                   352014
+     CCC       11.1001        0511100114   66050   Cisco Certified Network Associate (CCNA)                                          151152
+     CCC       49.0102        0649010202   68012   Commercial Transport Pilot                                                        532012
+     CCC       15.1303        0615130304   66070   Computer Aided Design Assistant                                                   173026
+     CCC       15.1302        0615130204   66071   Computer Aided Design Operator                                                    173011
+     CCC       11.0202        0511020200   66045   Computer Programmer - Business Applications                                       151131
+     CCC       11.0202        0511020200   66036   Computer Programmer - Mobile Applications Development                             151131
+     CCC       43.0406        0743040600   66072   Crime Scene Technician                                                            194092
+     CCC       52.0901        0252090102   65053   Cruise Line Operations                                                            119081
+     CCC       12.0504        0612050401   65060   Culinary Arts Management Operations                                               352014
+     CCC       11.1003        0511100314   66061   Cybersecurity Analyst                                                             151212
+     CCC       52.1401        0252140112   65096   Digital Marketing Specialist                                                      112021
+     CCC       52.1404        0252140400   65102   Digital Marketing Strategy                                                        112021
+     CCC       19.0709        0419070906   60004   Early Childhood Education - Administrator                                         119031
+     CCC       19.0709        0419070904   60007   Early Childhood Education - Child Development Early Intervention Specialization   252011
+     CCC       13.1210        0413121000   60006   Early Childhood Education - Early Childhood Education Inclusion Specialization    252051
+     CCC       19.0709        0419070908   60003   Early Childhood Education - Preschool                                             252011
+     CCC       51.0904        0351090415   63013   Emergency Medical Technician                                                      292041
+     CCC       51.0999        0351099902   63030   Endoscopic Technician                                                             319099
+     CCC       15.0000        0615000007   66052   Engineering Technology Support Specialist                                         173029
+     CCC       11.1001        0511100116   66058   Enterprise Cloud Computing                                                        151142
+     CCC       50.0602        0650060203   61001   Film Production Fundamentals                                                      274099
+     CCC       12.0301        0312030102   63024   Florida Funeral Director                                                          394031
+     CCC       52.0905        0252090503   65051   Food and Beverage Management                                                      119051
+     CCC       52.0905        0252090508   65058   Food and Beverage Operations                                                      119051
+     CCC       52.0905        0252090507   65057   Food and Beverage Specialist                                                      119051
+     CCC       45.0702        0545070213   66080   Geographic Information Systems (GIS) Technology                                   173031
+     CCC       11.0803        0611080302   61002   Graphic Design Support                                                            271024
+     CCC       51.0701        0351070102   63021   Health Care Services Specialist                                                   119111
+     CCC       51.0707        0351070712   63014   Healthcare Informatics Specialist                                                 292072
+     CCC       11.0103        0511010313   66037   Help Desk Support Technician                                                      151211
+     CCC       43.0103        0743010306   66074   Homeland Security                                                                 331012
+     CCC       01.0605        0101060504   63025   Horticulture Professional                                                         371012
+     CCC       01.0605        0101060503   63026   Horticulture Specialist                                                           373011
+     CCC       19.0709        0419070907   67014   Infant/Toddler Specialization                                                     252011
+     CCC       11.0103        0511010311   66044   Information Technology Support                                                    151212
+     CCC       43.0403        0743040300   66075   Intelligence Studies                                                              151212
+     CCC       52.0203        0652020303   68011   Intermodal Freight Transportation                                                 113071
+     CCC       52.0203        0652020302   68010   International Freight Transportation                                              113071
+     CCC       11.0201        0511020110   66057   Internet of Things (IoT) Applications                                             151252
+     CCC       15.0613        0615061302   68001   Lean Manufacturing                                                                173027
+     CCC       52.0801        0252080113   65080   Lending                                                                           132072
+     CCC       52.0209        0652020901   63019   Logistics and Transportation Specialist                                           113071
+     CCC       15.0000        0615000013   66053   Mechatronics                                                                      173024
+     CCC       51.0714        0351071404   63020   Medical Coder/Biller                                                              433021
+     CCC       51.1599        0451159902   65079   Mental Health - Neuroscience and Aging                                            211093
+     CCC       47.0104        0647010406   66032   Microcomputer Repairer/Installer                                                  151151
+     CCC       11.1001        0511100112   66035   Network Server Administration                                                     151142
+     CCC       11.1001        0511100115   66034   Network Systems Developer                                                         151231
+     CCC       11.0203        0511020307   66048   Oracle Certified Database Administrator                                           151252
+     CCC       51.0904        0351090405   63008   Paramedic                                                                         292043
+     CCC       49.0104        0649010406   66028   Passenger Service Agent                                                           113071
+     CCC       50.0407        0450040702   64002   Patternmaking and Construction                                                    271022
+     CCC       15.1302        0615130211   66054   Rapid Prototyping Specialist                                                      173029
+     CCC       22.0302        0722030203   67015   Real Estate Legal Specialization Certificate                                      232099
+     CCC       52.0904        0252090402   65048   Rooms Division Management                                                         119081
+     CCC       52.0904        0252090406   65056   Rooms Division Operations                                                         119081
+
+
+
+Revised: September 16, 2025                                    Page 3 of 4
+                                                          MIAMI DADE COLLEGE
+                                                   ACADEMIC PROGRAM INVENTORY
+     CCC       52.0904        0252090405   65055   Rooms Division Specialist                                   434081
+     CCC       52.1804        0252180400   65107   Sales and Customer Management                               413091
+     CCC       15.1701        0615170101   66056   Solar Energy Systems Specialist                             173029
+     CCC       52.0201        0552020117   65120   Sport Management Operations                                 391098
+     CCC       52.0302        0552030204   65076   Tax Specialist                                              433031
+     CCC       50.0602        0650060204   61003   Television Studio Production                                274099
+     CCC       13.1003        0713100306   64052   Translation and Interpretation                              273091
+     CCC       50.0411        0550041118   66060   Virtual and Augmented Reality Technologies                  271014
+     CPP       13.9999        0551399990   CPP01   Educator Preparation Institute                              251081
+     CPP       13.0301        5551303010   PBC03   Instructional Design and Technology                         259031
+     CPP       13.1315        5551313150   PBC02   Reading Endorsement                                         251081
+     CPP       43.0403        5554304030   PBC04   Cyber Defense                                               151212
+     CPP       11.1001        5551110010   PBC05   Networking                                                  151244
+     CPP       11.0201        5551102010   PBC06   Software Engineering                                        151252
+     CPP       11.1003        5551110030   PBC07   Vulnerability Assessment                                    151212
+     CTC       47.0604        0647060413   51000   Advanced Automotive Service Technology - Tesla Technician   493023
+     CTC       51.1012        0351101201   53014   Central Sterile Processing Technician                       319093
+     CTC       49.0205        0649020502   56016   Commercial Class "B" Driving                                533032
+     CTC       49.0205        0649020500   56015   Commercial Vehicle Driving                                  533032
+     CTC       43.0102        0743010200   57021   Correctional Officer - State                                333012
+     CTC       51.0601        0351060112   53015   Dental Assisting Technology and Management                  319091
+     CTC       43.0203        0743020313   57004   Fire Fighter Minimum Standards                              332011
+     CTC       43.0203        0743020304   58000   Fire Fighter/Emergency Medical Technician - Combined        332011
+     CTC       43.0107        0743010700   57022   Florida Law Enforcement Academy                             333051
+     CTC       51.3901        0351390101   53020   Licensed Practical Nursing                                  292061
+     CTC       47.0101        0647010106   56010   Low Voltage                                                 492097
+     CTC       51.3501        0351350102   53022   Massage Therapy - Accelerated Option                        319011
+     CTC       51.3501        0351350102   53021   Massage Therapy - Generic Option                            319011
+     CTC       51.3501        0351350102   53023   Massage Therapy - Transitional Option                       319011
+     CTC       51.0801        0351080102   53007   Medical Assisting                                           319092
+     CTC       51.0805        0351080506   53004   Pharmacy Technician                                         292052
+     CTC       51.1009        0351100901   53003   Phlebotomy Technician                                       319097
+     CTC       43.0109        0743010907   57023   Private Investigator Intern                                 339021
+     CTC       43.0109        0743010900   57006   Private Security Officer                                    339032
+     CTC       51.3801        0351380102   53018   Professional Nursing (LPN-RN)                               291141
+
+
+
+
+Revised: September 16, 2025                                   Page 4 of 4
+

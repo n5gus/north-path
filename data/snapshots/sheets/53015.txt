@@ -1,0 +1,41 @@
+Dental Assisting Technology and Management
+Career Technical Certificate | Code: 53015 | 1230 hours / 41 credits
+CIP (0351060112)
+Effective Term: Fall 2023 (2237)
+
+The Career Technical Certificate in Dental Assisting Technology and Management is designed to educate and prepare graduates
+with skills required for entry-level employment as a member of the dental healthcare team. In addition, students will acquire
+extensive knowledge and skills to offer direct chairside assistance to the dentist, expose dental radiographs, and educate and
+instruct patients in preventive dental care. Students will be trained in infection control procedures, disease prevention, dental
+procedures and instruments and business office procedures. TABE Requirement: Computation (Mathematics): 10 and
+Communications (Reading Language Arts): 10.
+
+
+MAJOR CORE REQUIREMENTS (1230 hours)
+
+Semester 1
+DEA 0020           Pre-Clinical Procedures Theory                      (90 Hours | 3 credits)
+DEA 0020L          Pre-Clinical Practice Lab                           (90 Hours | 3 credits)
+DEA 0031           Oral Pathology                                      (30 Hours | 1 credit)
+DEA 0132           Dental Nutrition                                    (30 Hours | 1 credit)
+DES 0103           Dental Materials                                    (60 Hours | 2 credits)
+DES 0103L          Dental Materials Lab                                (90 Hours | 3 credits)
+DES 0021           Dental Anatomy                                      (90 Hours | 3 credits)
+HSC 0003           Introduction to Health Care                         (75 hours | 2.5 credits)
+HSC 0003L          Introduction to Health Care Lab                     (15 hours | 0.5 credit)
+
+Semester 2
+DES 0205           Dental Radiology                                    (60 Hours | 2 credits)
+DES 0205L          Dental Radiology Lab                                (60 Hours | 2 credits)
+DES 0206           Dental Radiology II                                 (30 Hours | 1 credit)       Prerequisite: DES 0205
+DES 0206L          Dental Radiology II Lab                             (30 Hours | 1 credit)       Prerequisite: DES 0205L
+DES 0501           Dental Practice Management                          (30 Hours | 1 credits)
+DES 0602           Pharmacology / Dental Office Emergencies            (30 Hours | 1 credit)
+DES 0830           Expanded Functions Theory                           (30 Hours | 1 credit)
+DES 0830L          Expanded Functions Lab                              (30 Hours | 1 credits)
+DEA 0930           Dental Assisting Seminar                            (30 Hours | 1 credit)
+
+Semester 3
+DEA 0800L          Clinical Practice I                                 (150 Hours |5 credits)      Prerequisites: DEA 0020, DEA 0020L
+DEA 0804L          Clinical Practice II                                (180 Hours | 6 credits)     Prerequisite: DES 0800L
+

@@ -1,0 +1,118 @@
+Clinical Laboratory Science
+Associate in Science | Code: 23024 | 76 credits
+CIP (1351100405)
+Effective Term: Fall 2024 (2247)
+
+The Clinical Laboratory Sciences program prepares the graduate to work as part of the health care delivery team in a non-profit clinical
+laboratory or research laboratory. Clinical practice is conducted in local health care facilities under the supervision of qualified registered
+professional personnel. Graduates are eligible for Florida State Licensure and Registry with the American Society of Clinical Pathologists and
+equivalent licensure.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+Communications (3.00 credits)
+ENC 1101         English Composition 1                                (3 credits)         Prerequisite: Student must meet the Developmental
+                                                                                          Education reading and writing requirements in State
+                                                                                          Rule 6A-10.0315 (by course, placement score, or eligible
+                                                                                          exemption).
+
+Humanities (3.00 credits)
+ARH 1000           Art Appreciation                                   (3 credits)
+HUM 1020           Humanities                                         (3 credits)
+LIT 2000           Introduction to Literature                         (3 credits)         Prerequisite: ENC 1101
+MUL 1010           Music Appreciation                                 (3 credits)
+PHI 2010           Introduction to Philosophy                         (3 credits)
+THE 2000           Theatre Appreciation                               (3 credits)
+
+Mathematics (3.00 credits)
+MGF 1130          Mathematical Thinking                               (3 credits)         Prerequisite: Student must meet the Developmental
+                                                                                          Education reading and writing requirements in State
+                                                                                          Rule 6A-10.0315 (by course, placement score, or eligible
+                                                                                          exemption).
+
+Natural Science (3.00 credits)
+BSC 2085           Human Anatomy and Physiology 1                     (3 credits)         Corequisite: BSC 2085L
+
+Social Science (3.00 credits)
+AMH 2010            History of the US to 1877                         (3 credits)
+AMH 2020            History of the US since 1877                      (3 credits)
+POS 2041            American Federal Government                       (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+SCIENCE REQUIREMENTS (14.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory             (1 credits)         Corequisite: BSC 2085
+BSC 2086        Human Anatomy & Physiology 2                          (3 credits)         Prerequisite: BSC 2085;
+                                                                                          Corequisite: BSC 2086L
+BSC 2086L           Human Anatomy & Physiology 2 Laboratory           (1 credits)         Prerequisites: BSC 2085, BSC 2085L;
+                                                                                          Corequisite: BSC 2086
+CHM 1033          Chemistry for Health Sciences              (3 credits)   Prerequisite: MAT 1033;
+                                                                           Corequisite: CHM 1033L
+CHM 1033L         Chemistry for Health Sciences Lab          (1 credits)   Prerequisite: MAT 1033;
+                                                                           Corequisite: CHM 1033
+MCB 2010          Microbiology                               (3 credits)   Prerequisites: BSC 2010, BSC 2010L; or BSC 2085,
+                                                                           BSC 2085L; CHM 1045, CHM 1045L, CHM 1033,
+                                                                           CHM 1033L;
+                                                                           Corequisite: MCB 2010L
+MCB 2010L         Microbiology Laboratory                    (2 credits)   Prerequisites: BSC 2010, BSC 2010L; or BSC 2085,
+                                                                           BSC 2085L; CHM 1045, CHM 1045L, CHM 1033,
+                                                                           CHM 1033L;
+                                                                           Corequisite: MCB 2010
+
+FIRST TERM IN PROGRAM (9.00 credits)
+MLT 1040L        Fundamentals of Laboratory Operations       (1 credit)
+MLT 1210C        Clinical Urinalysis with Lab                (2 credits)
+MLT 1300         Clinical Hematology                         (2 credits)   Corequisite: MLT 1300L
+MLT 1300L        Clinical Hematology Laboratory              (2 credits)   Corequisite: MLT 1300
+MLT 1752         Quality Control Laboratory Mathematics      (2 credits)
+
+SECOND TERM IN PROGRAM (9.00 credits)
+MLT 1500        Clinical Immunology/Serology                 (2 credits)   Prerequisites: BSC 2085, BSC 2086
+                                                                           Corequisite: MLT 1500L
+MLT 1500L         Clinical Immunology/Serology Laboratory    (1 credit)    Prerequisites: BSC 2085L, BSC 2086L
+                                                                           Corequisite: MLT 1500
+MLT 1610          Clinical Chemistry 1                       (2 credits)   Prerequisite: CHM 1025
+                                                                           Corequisite: MLT 1610L
+MLT 1610L         Clinical Chemistry 1 Laboratory            (2 credits)   Prerequisite: CHM 1025L
+                                                                           Corequisite: MLT 1610
+MLT 2440          Clinical Microbiology 1                    (1 credit)    Corequisite: MLT 2440L
+MLT 2440L         Clinical Microbiology Lab 1                (1 credit)    Corequisite: MLT 2440
+
+THIRD TERM IN PROGRAM (6.00 credits)
+MLT 1330        Clinical Coagulation                         (1 credit)    Prerequisite: MLT 1300
+                                                                           Corequisite: MLT 1330L
+MLT 1330L         Clinical Coagulation Laboratory            (1 credit)    Prerequisite: MLT 1300L
+                                                                           Corequisite: MLT 1330
+MLT 2525          Immunohematology                           (2 credits)   Prerequisite: MLT 1500
+                                                                           Corequisite: MLT 2025L
+MLT 2525L         Immunohematology Laboratory                (2 credits)   Prerequisite: MLT 1500L
+                                                                           Corequisite: MLT 2525
+
+FOURTH TERM IN PROGRAM (9.00 credits)
+MLT 2403        Clinical Microbiology 2                      (2 credits)   Prerequisite: MLT 2440
+                                                                           Corequisite: MLT 2403L
+MLT 2403L         Clinical Microbiology Lab 2                (2 credits)   Prerequisite: MLT 2440L
+                                                                           Corequisite: MLT 2403
+MLT 2620          Clinical Chemistry 2                       (2 credits)   Prerequisite: MLT 1610
+                                                                           Corequisite: MLT 2620L
+MLT 2620L         Clinical Chemistry 2 Laboratory            (1 credit)    Prerequisite: MLT 1610L
+                                                                           Corequisite: MLT 2620
+MLT 2624L         Special Techniques in Clinical Chemistry   (2 credits)   Prerequisites: MLT 1610, MLT 1610L
+                                                                           Corequisites: MLT 2620, MLT 2620L
+
+FIFTH TERM IN PROGRAM (14.00 credits)
+MLT 2807L        Hospital Practicum: Immunohematology        (3 credits)   Prerequisites: MLT 2525, MLT 2525L
+                                                                           Corequisite: MLT 2930
+MLT 2809L         Hospital Practicum: Hematology             (3 credits)   Prerequisites: MLT 1300, MLT 1300L, MLT 1330,
+                                                                  MLT 1330L
+                                                                  Corequisite: MLT 2930
+MLT 2810L   Hospital Practicum: Chemistry           (3 credits)   Prerequisites: MLT 2620, MLT 2620L, MLT 2624L
+                                                                  Corequisite: MLT 2930
+MLT 2811L   Hospital Practicum: Microbiology        (3 credits)   Prerequisites: MLT 2403, MLT 2403L
+                                                                  Corequisite: MLT 2930
+MLT 2930    Medical Laboratory Technology Seminar   (2 credits)   Corequisites: MLT 2807L, MLT 2809L, MLT 2810L,
+                                                                  MLT 2811L
+

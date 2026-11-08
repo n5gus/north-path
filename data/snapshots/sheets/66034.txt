@@ -1,0 +1,24 @@
+Network Systems Developer
+College Credit Certificate | 66034) | 41 Credits
+CIP:
+Effective Term: Fall 2017 (2177)
+
+The Network Systems Developer College Credit Certificate is designed to prepare students to work as Computer
+Repair Technicians in a computer repair shop or the computer maintenance division of a corporation, by acquiring
+an indepth understanding of computer internal architecture, operations and digital systems design operations.
+
+MAJOR COURSE REQUIREMENTS (41.00 Credits)
+
+EET 1015C Direct Current Circuits                                   (4 Credits)
+EET 1082 Introduction to Electronics                                (3 Credits)
+EET 2351C Digital and Data Communications                           (4 Credits)
+CET 1171 Introduction to Computer Service and Maintenance           (3 Credits)
+CET 1178C A+ Computer Hardware Service                              (3 Credits)
+CET 1487C Network+                                                  (3 Credits)
+CET 1110C Digital Circuits                                          (4 Credits)
+CET 2123C Microprocessors                                           (4 Credits)
+CET 2113C Advanced Digital Circuits                                 (4 Credits)
+CET 2588C Server + Service and Maintenance                          (3 Credits)
+MAC 1105 College Algebra                                            (3 Credits)
+MTB 1322 Technical Mathematics 2                                    (3 Credits)
+

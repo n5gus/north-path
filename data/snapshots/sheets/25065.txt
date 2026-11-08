@@ -1,0 +1,74 @@
+Computer Programming and Analysis – Business Application Programming
+Associate in Science | Code: 25065 | 60 credits
+CIP (1511020101)
+Effective Term: Spring 2025 (2253)
+
+The Computer Programming and Analysis program with a Business Application Programming concentration provides an opportunity to
+establish a foundation in computer programming in scientific, commercial, industrial and government data processing applications.
+Graduates are prepared for positions as entry-level application programmers, programmer specialists, computer programmers and
+programmer analysts.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                             (3 credits)        Prerequisite: Student must meet the
+                                                                                    Developmental Education reading and writing
+                                                                                    requirements in State Rule 6A-10.0315 (by
+                                                                                    course, placement score, or eligible
+                                                                                    exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                (3 credits)
+HUM 1020         Introduction to Humanities                      (3 credits)
+LIT 2000         Introduction to Literature                      (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                              (3 credits)
+PHI 2010         Introduction to Philosophy                      (3 credits)
+THE 2000         Theatre Appreciation                            (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                  (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                            (3 credits)
+BSC 1005        General Education Biology                        (3 credits)
+CHM 1020        General Education Chemistry                      (3 credits)
+ESC 1000        General Education Earth Science                  (3 credits)
+EVR 1001        Introduction to Environmental Science            (3 credits)
+GLY 1010        Physical Geology                                 (3 credits)
+OCE 1001        Introduction to Oceanography                     (3 credits)
+PHY 1020        General Education Physics                        (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                      (3 credits)
+AMH 2020          History of the US Since 1877                   (3 credits)
+POS 2041          American Federal Government                    (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology and Applications
+MAJOR COURSE REQUIREMENTS (21.00 Credits)
+CGS 1060C      Introduction to Computer Technology               (4 credits)
+               and Applications
+CGS 1540C      Database Concepts and Design                      (4 credits)
+CIS 2331       Systems Analysis, Design and Implementation       (5 credits)
+COP 1334       Introduction to C++ Programming                   (4 credits)
+COP 2800       Java Programming                                  (4 credits)   Prerequisite: COP 1047, COP 1334, or COP 2270
+
+PROGRAM CONCENTRATION CORE (15.00 Credits)
+COP 1047C     Introduction to Python Programming                 (4 credits)
+GEB 1432      Applied Artificial Intelligence (AI) in Business   (3 credits)
+
+Must take 8 credits from the following group:
+COP 2041C           Python Programming 2                         (4 credits)   Prerequisite: COP 1047C
+COP 2335            C++ Programming 2                            (4 credits)   Prerequisite: COP 1334
+COP 2805C           Advanced Java Programming                    (4 credits)   Prerequisite: COP 2800
+
+PROGRAM ELECTIVES (9.00 Credits)
+CAI*, CEN*, COP*, CTS*
+CGS 2091           Professional Ethics and Social Issues in CS   (4 credits)
+EET 1033C          Electrical Fundamentals                       (4 credits)
+PHI 2680           Artificial Intelligence (AI) Ethics           (3 credits)
+

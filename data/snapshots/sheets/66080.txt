@@ -1,0 +1,32 @@
+Geographic Information Systems Technology
+College Credit Certificate | Code: 66080 | 21 credits
+CIP: (0545070213)
+Effective Term: Fall 2020 (2207)
+
+Geographic Information Systems (GIS) is a technological field that promotes cooperation within and across
+organizations by enabling the integration of several information platforms to facilitate mapping, analysis and
+planning strategies. The College Credit Certificate program in Geographic Information Systems Technology
+prepares students with professional and technical training in geographic information systems (GIS). Graduates of
+the CCC acquire a skill-set that equips them to create, modify and enhance GIS for analysis, prediction, decision
+making and planning in a variety of fields.
+
+MAJOR COURSE REQUIREMENTS (21 Credits)
+
+ CGS 1540C       Database Concepts Design               (4 Credits)
+
+ *CIS 2900       Directed Study IT                      (1 Credits)
+
+ GIS 1040        Introduction to GIS Technology         (4 Credits)
+
+ GIS 2045        Intermediate GIS Technology            (4 Credits) Pre-Req GIS1040 Introduction to GIS
+                                                                    Technology
+ GIS 2046        Advanced GIS Technology                (4 Credits) Pre-Req GIS2045 Intermediate GIS
+                                                                    Technology
+ GIS 2047        Applications of GIS Technology         (4 Credits) Pre-Req GIS2045 Intermediate GIS
+                                                                    Technology
+
+*Enrollment in this course requires successful completion of certain program course work and departmental
+approval.
+
+Note: All program courses require a grade of “C” or higher.
+

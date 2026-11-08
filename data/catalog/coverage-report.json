@@ -1,0 +1,74 @@
+{
+  "asOf": "2026-11-07",
+  "inventoryRows": 251,
+  "programs": 331,
+  "byAward": {
+    "AA": 1,
+    "APPR": 1,
+    "AS": 82,
+    "ATC": 13,
+    "BAS": 16,
+    "BS": 14,
+    "CCC": 97,
+    "CPP": 7,
+    "CTC": 20,
+    "AA-PATHWAY": 79,
+    "CE": 1
+  },
+  "coverageCounts": {
+    "inventory-index-only": 1,
+    "requirements-extracted": 238,
+    "requirements-partial": 9,
+    "sheet-not-found": 3,
+    "narrative-only": 79,
+    "source-page-without-course-rows": 1
+  },
+  "sheetCounts": {
+    "not-requested-wildcard": 1,
+    "cached": 247,
+    "missing": 3
+  },
+  "aaPathways": 79,
+  "aaTitleUnverified": 0,
+  "continuingEducation": "indexed-without-course-rows",
+  "duplicates": [],
+  "unsupportedInventoryAwards": [],
+  "gapImport": {
+    "asOf": "2026-11-08",
+    "clockCorrected": [
+      "56016",
+      "57004"
+    ],
+    "unitUnresolved": [
+      "57022"
+    ],
+    "completeSmall": [
+      "51000",
+      "56015",
+      "56016",
+      "58000",
+      "57023",
+      "57006",
+      "57004"
+    ],
+    "openChoice": [
+      "65100"
+    ],
+    "unresolvedPartial": [
+      "65057"
+    ],
+    "aaGuides": 77,
+    "aaGuidesMissing": [
+      "AA-11211",
+      "AA-10803"
+    ],
+    "aaCore": "36 general education + 24 pathway electives, Fall 2026 guide",
+    "fiuGuides": 106,
+    "fiuNameAlignments": 11,
+    "ceCourses": 1097,
+    "ceSections": 1778,
+    "evidenceRecords": 211,
+    "evidenceNotPromotedToVerifiedRequirements": 13,
+    "requirementsExtractedNotReaudited": 238
+  }
+}

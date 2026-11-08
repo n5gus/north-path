@@ -1,0 +1,20 @@
+Computer Aided Design Operator
+College Credit Certificate | Code: 66071 | 22 Credits
+CIP:
+Effective Date:
+
+The Computer-Aided Design Operator College Credit Certificate program is designed to prepare students in an
+architectural office by obtaining intermediate skills in architectural graphics needed to produce working and
+presentation drawings. After successfully completing the following courses, students can obtain employment
+assisting architects and drafters with computer-aided drawings and design presentations.
+
+
+MAJOR COURSE REQUIREMENTS (22.00 credits)
+
+ARC 1115          Architectural Communications 1               (2 Credits)
+ARC 1126C         Architectural Drawing 1                      (4 Credits)
+ARC 2056          Computer Aided Architectural Presentation    (4 Credits)
+ARC 2171          Computer Aided Drafting 1                    (4 Credits)   Pre-Req: ARC 1126C or ARC 2461
+ARC 2172          Computer Aided Drafting 2                    (4 Credits)   Pre-Req: ARC 2171
+ARC 2461          Architectural Materials and Construction 1   (4 Credits)   Pre-Req: ARC 1126C or BCN 1251
+

@@ -1,0 +1,208 @@
+Supply Chain Management
+Bachelor of Applied Science | Code: P9300 | 120 Credits
+CIP (1105202032)
+Effective Term: Fall Term 2024 (2247)
+
+Supply chain management is an interdisciplinary field that emphasizes cross-functional integration of diverse business functions, facilities, and
+activities and seeks to manage those activities to enhance a company’s competitive advantage. The Bachelor of Applied Science with a major
+in Supply Chain Management (BAS-SCM) is designed to provide knowledge of the supply chain while exploring the risks, operations, logistics,
+economics, regulatory issues, change management, forecasting, resource allocation, production planning, inventory management, customer
+delivery, after-sales support and service and other functions basic to business.
+
+GENERAL EDUCATION – 36 CREDITS REQUIRED
+
+Communications – 6 Credits Required
+ENC 1101 English Composition 1                                      3                      Prerequisite: Approved Placement Scores
+ENC 1102 English Composition 2                                      3                      Prerequisite: ENC 1101
+
+Oral Communications – 3 Credits Required
+ENC 2300 Advanced Composition & Communication                       3                      Pre-Req: ENC 1101, 1102
+LIT 2480 Issues in Literature & Culture                             3                      Pre-Req: ENC 1102
+SPC 1017 Introduction to Communications                             3
+SPC 2608 Introduction to Public Speaking                            3
+
+Humanities – 6 Credits Required
+Group A – Select 3 Credits from the following (State Core):
+ARH 1000 Art Appreciation                                           3
+HUM 1020 Humanities                                                 3
+LIT 2000 Introduction to Literature                                 3
+MUL 1010 Music Appreciation                                         3
+PHI 2010 Introduction to Philosophy                                 3
+THE 2000 Theater Appreciation                                       3
+*AND*
+Group B – Select 3 Credits from the following (MDC Core):
+ARC 2701 History of Architecture 1                                  3
+ARC 2702 History of Architecture 2                                  3
+ARH 1000 Art Appreciation                                           3
+ARH 2050 Art History 1                                              3                      Pre-Req: ARH 2050
+ARH 2051 Art History 2                                              3
+ARH 2740 Cinema Appreciation                                        3
+DAN 2100 Dance Appreciation                                         3
+DAN 2130 Dance History 1                                            3
+HUM 1020 Humanities                                                 3
+IND 1100 History of Interiors 1                                     3
+IND 1130 History of Interiors 2                                     3
+LIT 2000 Introduction to Literature                                 3
+LIT 2120 A Survey of World Literature                               3                      Pre-Req: ENC 1101 or ENC 1102 or Equivalent
+MUH 2111 Survey of Music History 1                                  3
+MUH 2112 Survey of Music History 2                                  3                      Pre-Req: MUH 2112
+MUL 1010 Music Appreciation                                         3
+MUL 2380 Jazz and Popular Music in America                          3
+PHI 2010 Introduction to Philosophy                                 3
+PHI 2600 Introduction to Ethics                                     3
+THE 2000 Theater Appreciation                                       3
+
+Behavioral and Social Science – 6 Credits Required
+Must take 3.0 credits from the following group.
+AMH 2010 History of the US to 1877                                  3
+AMH 2020 History of the US Since 1877                               3
+ANT 2000 Introduction to Anthropology                               3
+ECO 2013 Principles of Economics (Macro)                            3
+POS 2041 American Federal Government                      3
+PSY 2012 Introduction to Psychology                       3
+- - - And - - -
+Must take 3.0 credits from the following group.
+AMH 2010 History of the US to 1877                        3
+AMH 2020 History of the US Since 1877                     3
+ANT 2000 Introduction to Anthropology                     3
+ANT 2410 Introduction to Cultural Anthropology            3
+CLP 1006 Psychology of Personal Effectiveness             3
+DEP 2000 Human Growth and Development                     3
+ECO 2013 Principles of Economics (Macro)                  3
+ISS 1120 The Social Environment                           3
+ISS 1161 The Individual in Society                        3
+POS 2041 American Federal Government                      3
+PSY 2012 Introduction to Psychology                       3
+SYG 2000 Introduction to Sociology                        3
+WOH 2012 History of World Civilization to 1789            3
+WOH 2022 History of World Civilization From 1789          3
+
+Natural Science – 6 Credits Required
+Group A – Select 3 Credits from the following*
+AST 1002 Descriptive Astronomy                             3
+BSC 1005 General Education Biology                         3
+BSC 2010 Principles of Biology                             3
+BSC 2085 Human Anatomy and Physiology I                    3
+CHM 1020 General Education Chemistry                       3
+CHM 1045 General Chemistry & Qualitative Analysis          3
+ESC 1000 General Education Earth Science                   3
+EVR 1001 Introduction to Environmental Science             3
+GLY 1010 Physical Geology                                  3
+OCE 1001 Introduction to Oceanography                      3
+PHY 1020 General Education Physics                         3
+PHY 2048 Physics with Calculus 1                           3
+PHY 2053 Physics (without Calculus) 1                      3
+*AND*
+Group B – Select 3 Credits from the following*
+AST 1002 Descriptive Astronomy                             3
+BOT 1010 Botany                                            3
+BSC 1005 General Education Biology                         3
+BSC 1030 Social Issues in Biology                          3
+BSC 1050 Biology & Environment                             3
+BSC 1084 Functional Human Anatomy                          3
+BSC 2010 Principles of Biology                             3
+BSC 2020 Human Biology: Fundamentals of Anatomy/Physiology 3
+BSC 2085 Anatomy and Physiology I                          3
+BSC 2250 Natural History of South Florida                  3
+ESC 1000 General Education Earth Science                   3
+EVR 1001 Introduction to Environmental Science             3
+GLY 1010 Physical Geology                                  3
+HUN 1201 Essentials of Human Nutrition                     3
+OCB 1010 Introduction to Marine Biology                    3
+OCE 1001 Introduction to Oceanography                      3
+PCB 2033 Introduction to Ecology                           3
+PSC 1121 General Education Physical Science                3
+PSC 1515 Energy in the Natural Environment                 3
+ZOO 1010 Zoology                                           3
+CHM* GLY* MET* OCE* PHY*
+* Any course with the following prefix excluding labs.
+
+Mathematics – 6 Credits Required
+MAC 1105 College Algebra                                  3    Pre-Req: MAT 1033
+MAC 2311 Calculus & Analytical Geometry                   5    Pre-Req: MAC1106 and MAC1114, or MAC1114 and MAC1140, or
+                                                               MAC1147
+MGF 1130 Mathematical Thinking                            3    Student must meet the Developmental Education mathematics
+                                                               requirements in State Rule 6A-10.0315 (by course, placement
+                                                               score, or eligible exemption)
+STA 2023 Statistical Methods                                  3               Pre-Req: MAT1033 or MGF 1131
+*AND*
+Group B Must take 3 credits from the following group (MDC Core):
+MAC*
+MAD 2104 Discrete Mathematics                                 3
+MAP*
+MAS*
+MGF*
+QMB 2100 Basic Business Statistics                            3
+STA 2023 Statistical Methods                                  3
+
+
+  General Education Elective – 3 Credits Required
+  Electives may include any appropriate transferrable (Credit Type 1 or 2) courses (Check with Advisor)
+
+  Computer Competency Requirement
+  Computer Competency Test (CCT)
+  Or
+  CGS 1060 Introduction to Microcomputer Usage                                              *Credits count towards the Program Elective
+
+  LOWER DIVISION/COMMON PREREQUISITE REQUIREMENTS – 24 Credits Required
+  GROUP A – Common Prerequisite Course Requirements 17 Credits
+  ACG 2021 Financial Accounting                               3                             Corequisite: ACG 2021L
+  ACG 2021L Financial Accounting Lab                          1                             Corequisite: ACG 2021
+  ACG 2071 Managerial Accounting                              3                             Prerequisite: ACG 2001, 2011 or 2021; Corequisite:
+  ACG 2071L ACG 2071L Managerial Accounting Lab               1                             Prerequisite: ACG 2021, 2021L; Corequisite: ACG
+  2071
+  ECO 2013 Principles of Economics (Macro)                    3
+  ECO 2023 Principles of Economics (Micro)                    3
+  TRA 1154 Intro to Supply Chain Management                   3
+  TRA 2010 Intro to Logistics and Transportation              3
+            *AND*
+  GROUP B – 7 Credits
+  ACG*                                           GEB*                                                         MAR*
+  BAN*                                           HFT*                                                         QMB*
+  BUL*                                           ISM*                                                         STA*
+  CGS*                                           MAC*                                                         TAX*
+  FIN*                                           MAN*                                                         TRA*
+  UPPER DIVISION CORE REQUIREMENTS – 33 Credits Required
+  BUL 4461 Law of International Trade                            3                          Prerequisite: GEB 3358
+  FIN 3403 Financial Management                                  3                          Prerequisites: ACG 2071/L, QMB 2100
+  or STA 2023 GEB 3358 International Negotiations and Transactions                          3       Prerequisite: TRA 1154
+  MAN 3506 Operations Management                                 3                          Prerequisite: QMB 2100 or STA 2023
+  MAN 3554 Safety and Risk Management                            1
+  MAN 3583 Project Management                                    3
+  MAN 4520 Quality Management                                    3
+  MAN 4523 Production Information Systems                        3
+  MAN 4597 Global Supply Chain Management                        3                          Prerequisite: MAN 3506
+  MAN 4940 Field Study and Research                              2                          Prerequisites: MAN
+  3583, TRA 1154 MAN 3562 Purchasing, Inventory and Warehouse Management                    3
+  MAR 4203 Supply Chain Marketing                                3                          Prerequisites: MAN 3506, TRA 1154
+
+  ELECTIVES – 27 CREDITS REQUIRED
+
+  GROUP A - UPPER DIVISION ELECTIVES – 15 CREDITS REQUIRED
+  GEB 4363 Import/Export Management                                  3
+                                                                     Prerequisite: TRA 2010 MAN 3504
+  Production Operations and Logistics Management 3
+                                                                     Prerequisite: TRA 1154 MAN 3786
+  Sustainable Enterprise Planning                                    3
+  MAN 4593 Supply Chain Management Theory & Methodology              2                     Prerequisites: MAN 3583,
+  MAN 4523 TRA 3034 Transportation & Traffic Management              3                     Prerequisite: TRA 1154
+  TRA 3132 Purchasing and Inventory Management                       3                     Prerequisite: TRA 1154
+  TRA 4234 Warehouse Management                                      3                     Prerequisites: MAN 3506, QMB 2100 or STA 2023
+             *AND*
+GROUP B - ELECTIVES – 12 CREDITS REQUIRED
+ACG*                                          GER*                                            MAR*
+BAN*                                          HBR*                                            POR*
+BUL*                                          HFT*                                            PUR*
+CHI*                                          ISM*                                            QMB*
+FIN*                                          ITA*                                            SPN*
+FRE*                                          JPN*                                            STA*
+FRW*                                          MAC*                                            TAX*
+GEB*                                          MAN*                                            TRA*
+
+Additional Information:
+    •    Students should check their individualized Degree Audit Report to determine the specific graduation policies in
+         effect for their program of study for the year and term they entered Miami Dade College. This outline includes
+         current graduation requirements.
+
+    •    Students must complete all coursework with a “C” or better to complete the degree.
+

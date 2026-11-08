@@ -1,0 +1,72 @@
+Computer Programming and Analysis – Internet of Things (IoT) Applications
+Associate in Science | Code: 25076 | 60 credits
+CIP (1511020101)
+Effective Term: Spring 2026 (2263)
+
+The Associate in Science in Computer Programming and Analysis with an IoT Application concentration provides students with a
+comprehensive foundation in the technologies driving today’s smart, connected world. IoT connects everyday devices to the
+internet to collect, exchange, and analyze data, enabling innovation across industries. This degree program emphasizes
+programming, database design, embedded systems, cloud platforms, and securing IoT systems. Students gain hands-on experience
+developing IoT solutions that integrate data analytics and artificial intelligence. Graduates are prepared to enter the workforce
+where IoT and emerging technologies converge.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                (3 credits)        Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible
+                                                                                       exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                   (3 credits)
+HUM 1020         Introduction to Humanities                         (3 credits)
+LIT 2000         Introduction to Literature                         (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                 (3 credits)
+PHI 2010         Introduction to Philosophy                         (3 credits)
+THE 2000         Theatre Appreciation                               (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                     (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                               (3 credits)
+BSC 1005        General Education Biology                           (3 credits)
+CHM 1020        General Education Chemistry                         (3 credits)
+ESC 1000        General Education Earth Science                     (3 credits)
+EVR 1001        Introduction to Environmental Science               (3 credits)
+GLY 1010        Physical Geology                                    (3 credits)
+OCE 1001        Introduction to Oceanography                        (3 credits)
+PHY 1020        General Education Physics                           (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                         (3 credits)
+AMH 2020          History of the US Since 1877                      (3 credits)
+POS 2041          American Federal Government                       (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology and Applications
+MAJOR COURSE REQUIREMENTS (21.00 Credits)
+CGS 1060C      Introduction to Computer Technology            (4 credits)
+               and Applications
+CGS 1540C      Database Concepts and Design                   (4 credits)
+CIS 2331       Systems Analysis, Design and Implementation    (5 credits)
+COP 1334       Introduction to C++ Programming                (4 credits)
+COP 2800       Java Programming                               (4 credits)   Prerequisites: COP 1047C, COP 1334, or COP 2270
+
+PROGRAM CONCENTRATION CORE (24.00 Credits)
+CEN 2211      C/C++ Programming for Embedded Devices          (4 credits)
+CEN 2212C     Introduction to Programing the IoT              (4 credits)   Prerequisite: CEN 2211
+CIS 2010C     Introduction to Internet of Things Networking   (4 credits)
+              and Security
+CIS 2011C     Introduction to Cloud Computing for Internet    (4 credits)   Prerequisite: CEN 2211
+              of Things
+CIS 2012C     Introduction to Data Analytics and AI for the   (4 credits)   Prerequisites: CIS 2010C, CIS 2011C
+              Internet of Things
+CIS 2013C     Internet of Things Applications                 (4 credits)   Prerequisites: CIS 2010C, CIS 2011C
+

@@ -1,0 +1,150 @@
+Physical Therapist Assistant
+Associate in Science | Code: 23034 | 74 credits
+CIP (1351080601)
+Effective Term: Spring 2026 (2263)
+
+The Physical Therapist Assistant program prepares students for employment in hospitals, rehabilitation centers, nursing homes, private
+practices or other qualified health agencies. Graduates will work under the supervision of a physical therapist in the promotion of optimal
+human health and function through the application of scientific principles to prevent, identify, correct or alleviate acute or prolonged
+physical disability of anatomic or physiologic origin. Externship or clinical practice is conducted in local health care facilities under the
+supervision of qualified professional personnel. The program is accredited by the Commission on Accreditation in Physical Therapy
+Education. Graduates of the program are eligible to take the State Board Examination.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                   (3 credits)          Prerequisite: Student must meet the
+                                                                                            Developmental Education reading and writing
+                                                                                            requirements in State Rule 6A-10.0315 (by
+                                                                                            course, placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                      (3 credits)
+HUM 1020         Humanities                                            (3 credits)
+LIT 2000         Introduction to Literature                            (3 credits)          Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                    (3 credits)
+PHI 2010         Introduction to Philosophy                            (3 credits)
+THE 2000         Theatre Appreciation                                  (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                        (3 credits)          Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085        Human Anatomy and Physiology 1                         (3 credits)          Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                            (3 credits)
+AMH 2020          History of the US since 1877                         (3 credits)
+POS 2041          American Federal Government                          (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+SCIENCE REQUIREMENTS (9.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory              (1 credit)           Corequisite: BSC 2085
+BSC 2086        Human Anatomy & Physiology 2                           (3 credits)          Prerequisite: BSC 2085;
+                                                                                            Corequisite: BSC 2086L
+BSC 2086L           Human Anatomy & Physiology 2 Laboratory            (1 credit)           Prerequisites: BSC 2085, BSC 2085L;
+                                                                                            Corequisite: BSC 2086
+PHY 1004            Physics with Applications                          (3 credits)          Prerequisite: MAT 1033;
+                                                                              Corequisite: PHY 1004L
+PHY 1004L         Physics with Applications 1 Lab               (1 credit)    Corequisite: PHY 1004
+
+ELECTIVE REQUIREMENT (1.00 credits)
+IDS 1107        Tools for Success                               (1 credit)
+LIS 2004        Digital Research Strategies                     (1 credit)
+MAT 1033        Intermediate Algebra                            (3 credits)   Prerequisites: MAT 0022C, or MAT 0028, or
+                                                                              MAT 0057 or by placement score, or eligible
+                                                                              exemption.
+SPC 1017          Introduction to Communications                (3 credits)
+PHI 2604          Critical Thinking and Ethics                  (3 credits)   Prerequisite: ENC 1101
+PSY 2012          Introduction to Psychology                    (3 credits)
+
+MAJOR CORE REQUIREMENTS (49.00 Credits)
+HIM 2472       Medical Terminology                              (3 credits)
+PHT 1102C      Anatomy for the Physical Therapist Assistant     (4 credits)   Prerequisites: BSC 2085, BSC 2085L, PHY 1004,
+                                                                              PHY 1004L;
+                                                                              Corequisites: PHT 1201, PHT 1201L, PHT 1211,
+                                                                              PHT 1211L
+PHT 1201          Introduction to Physical Therapy              (2 credits)   Prerequisites: BSC 2085, BSC 2085L, PHY 1004,
+                                                                              PHY 1004L;
+                                                                              Corequisites: PHT 1102C, PHT 1201L, PHT 1211,
+                                                                              PHT 1211L
+PHT 1201L         Introduction to Physical Therapy Laboratory   (1 credit)    Prerequisites: BSC 2085, BSC 2085L, PHY 1004,
+                                                                              PHY 1004L;
+                                                                              Corequisites: PHT 1102C, PHT 1201, PHT 1211,
+                                                                              PHT 1211L
+PHT 1211          Disabilities & Therapeutic Procedures 1       (2 credits)   Prerequisites: BSC 2085, BSC 2085L, PHY 1004,
+                                                                              PHY 1004L;
+                                                                              Corequisites: PHT 1102C, PHT 1201, PHT 1201L,
+                                                                              PHT 1211L
+PHT 1211L         Disabilities & Therapeutic Procedures 1       (2 credits)   Prerequisites: BSC 2085, BSC 2085L, PHY 1004,
+                  Laboratory                                                  PHY 1004L;
+                                                                              Corequisites: PHT 1102C, PHT 1201, PHT 1201L,
+                                                                              PHT 1211
+PHT 2120          Applied Kinesiology                           (2 credits)   Prerequisites: BSC 2086, BSC 2086L, PHT 1102C,
+                                                                              PHT 1201, PHT 1201L, PHT 1211, PHT 1211L;
+                                                                              Corequisites: PHT 2120L, PHT 2224, PHT 2224L,
+                                                                              PHT 2801C
+PHT 2120L         Applied Kinesiology Laboratory                (1 credit)    Prerequisites: BSC 2086, BSC 2086L, PHT 1102C,
+                                                                              PHT 1201, PHT 1201L, PHT 1211, PHT 1211L;
+                                                                              Corequisites: PHT 2120, PHT 2224, PHT 2224L,
+                                                                              PHT 2801C
+PHT 2162          Survey of Neurological Deficits               (3 credits)   Prerequisites: PHT 2120, PHT 2120L, PHT 2224,
+                                                                              PHT 2224L, PHT 2801C;
+                                                                              Corequisites: PHT 2701, PHT 2701L, PHT 2810
+PHT 2224          Disabilities and Therapeutic Procedures 2     (3 credits)   Prerequisites: BSC 2086, 2086L, PHT 1102C,
+                                                                              PHT 1201, PHT 1201L, PHT 1211, PHT 1211L;
+                                                                              Corequisites: PHT 2120, PHT 2120L, PHT 2224L,
+                                                                              PHT 2801C
+PHT 2224L         Disabilities and Therapeutic Procedures 2     (2 credits)   Prerequisites: BSC 2086, BSC 2086L, PHT 1102C,
+                  Laboratory                                                  PHT 1201, PHT 1201L, PHT 1211, PHT 1211L;
+                                                                              Corequisites: PHT 2120, PHT 2120L, PHT 2224,
+                                                                              PHT 2801C
+PHT 2701          Rehabilitation Procedures                     (3 credits)   Prerequisites: PHT 2120, PHT 2120L, PHT 2224,
+                                                                              PHT 2224L, PHT 2801C;
+                                                                              Corequisites: PHT 2162, 2701L, 2810
+PHT 2701L         Rehabilitation Procedures Laboratory          (2 credits)   Prerequisites: PHT 2120, PHT 2120L, PHT 2224,
+                                                                              PHT 2224L, PHT 2801C;
+                                                                                           Corequisites: PHT 2162, PHT 2701, PHT 2810
+PHT 2801C            Clinical Practice and Conference I                (2 credits)         Prerequisites: BSC 2086, BSC 2086L, PHT 1102C,
+                                                                                           PHT 1201, PHT 1201L, PHT 1211, PHT 1211L;
+                                                                                           Corequisites: PHT 2120, PHT 2120L, PHT 2224,
+                                                                                           PHT 2224L
+PHT 2810             Clinical Practice and Conference II               (7 credits)         Prerequisites: PHT 2120, PHT 2120L, PHT 2224,
+                                                                                           PHT 2224L, PHT 2801C;
+                                                                                           Corequisites: PHT 2162, PHT 2701, PHT 2701L
+PHT 2820             Clinical Practice and Conference III              (7 credits)         Prerequisites: PHT 2162, PHT 2701, PHT 2701L,
+                                                                                           PHT 2810
+                                                                                           Corequisite: PHT 2931
+PHT 2931             Seminar for Physical Therapist Assistants         (3 credits)         Prerequisites: PHT 2162, PHT 2701, PHT 2701L,
+                                                                                           PHT 2810
+                                                                                           Corequisite: PHT 2820
+
+ADDITIONAL INFORMATION
+
+    -      It is highly recommended that students visit the program website for important information. Physical Therapist Assistant
+           Associate in Science | Miami Dade College (mdc.edu)
+
+    -      It is important to review the program requirements and student selection criteria Program requirements for Physical Therapist
+           Assistant Associate in Science | Miami Dade College (mdc.edu). Meeting the milestone requirements does not guarantee
+           program progression into discipline courses. For this reason, specific selection criteria are used to determine which students will
+           progress to discipline courses.
+
+    -      Students must take the TEAS Health Science exam as part of their application requirements. Please note there are two versions,
+           the health science exam is the required one not the nursing exam.
+
+    -      Observation hours may be required as part of the application process. Please check the selection criteria on the website.
+
+COMPUTER COMPETENCY
+By the 16th earned college-level unit, students must attempt the computer competency requirement OR by the 31st earned college- level
+unit, students must satisfy the requirement (CGS 1060C, CTS 0050, an equivalent college unit course or the Computer Skills Placement
+examination). For more information, see http://bitly.com/UQJDHM.
+
+Academic Pathway at MDC: The Associate in Science (AS) in Physical Therapist Assistant is a pathway to the BAS in Supervision and
+Management. To learn more about the courses listed see College Catalog.
+

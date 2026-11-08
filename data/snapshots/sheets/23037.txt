@@ -1,0 +1,73 @@
+Radiography
+Associate in Science | Code: 23037 | 77 credits
+CIP (1351090700)
+Effective Term: Spring 2025 (2253)
+
+The Radiography Program is a two-year (6 semester) course, not including general education courses, of study requiring 77 credits for
+an Associate in Science degree. After completion of the program, graduates will be eligible to sit for the American Registry of Radiologic
+Technologists (ARRT) Board Exam to become Registered Radiographers (RT).
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                   (3 credits)         Prerequisite: Student must meet the
+                                                                                           Developmental Education reading and writing
+                                                                                           requirements in State Rule 6A-10.0315 (by
+                                                                                           course, placement score, or eligible exemption).
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                      (3 credits)
+HUM 1020         Humanities                                            (3 credits)
+LIT 2000         Introduction to Literature                            (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                    (3 credits)
+PHI 2010         Introduction to Philosophy                            (3 credits)
+THE 2000         Theatre Appreciation                                  (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                                  (3 credits)         Prerequisite: Student must meet the
+                                                                                           Developmental Education mathematics
+                                                                                           requirements in State Rule 6A-10.0315 (by
+                                                                                           course, placement score, or eligible exemption).
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085        Human Anatomy and Physiology 1                         (3 credits)         Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                            (3 credits)
+AMH 2020          History of the US since 1877                         (3 credits)
+POS 2041          American Federal Government                          (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology and Applications
+
+SCIENCE REQUIREMENTS (5.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory              (1 credits)         Corequisite: BSC 2085
+BSC 2086        Human Anatomy & Physiology 2                           (3 credits)         Prerequisite: BSC 2085;
+                                                                                           Corequisite: BSC 2086L
+BSC 2086L           Human Anatomy & Physiology 2 Laboratory            (1 credits)         Prerequisite: BSC 2085, BSC 2085L;
+                                                                                           Corequisite: BSC 2086
+ELECTIVE (3.00 Credits)
+PHI 2600           Introduction to Ethics                              (3 credits)
+MAJOR CORE REQUIREMENTS (54.00 Credits)
+RTE 1000       Orientation to Imaging                  (2 credits)
+RTE 1418       Radiographic Technique I                (3 credits)
+RTE 1503       Radiology Positioning 1                 (3 credits)   Corequisite: RTE 1503L
+RTE 1503L      Radiology Positioning 1 Lab             (1 credits)   Corequisite: RTE 1503
+RTE 1513       Radiographic Positioning 2              (3 credits)   Prerequisites: RTE 1503L, RTE 1503;
+                                                                     Corequisite: RTE 1513L
+RTE 1513L        Radiographic Positioning 2 Lab        (1 credits)   Prerequisites: RTE 1503, RTE 1503L;
+                                                                     Corequisite: RTE 1513
+RTE 1613         Radiology Physics                     (2 credits)
+RTE 1804         Radiology Clinical 1                  (5 credits)   Corequisites: RTE 1503, RTE 1503L
+RTE 1814         Radiographic Clinical 2               (5 credits)   Prerequisites: RTE 1503, RTE 1503L,
+                                                                     RTE 1804
+RTE 1824         Radiographic Clinical 3               (5 credits)   Prerequisite: RTE 1814
+RTE 2010         New Imaging Modalities in Radiology   (1 credits)
+RTE 2385         Radiation Biology                     (2 credits)
+RTE 2457         Radiologic Technology 2               (3 credits)
+RTE 2563         Radiographic Positioning 3            (2 credits)   Prerequisite: RTE 1513
+RTE 2834         Radiographic Clinical 4               (5 credits)   Prerequisite: RTE 1824
+RTE 2844         Radiographic Clinical 5               (8 credits)   Prerequisite: RTE 2834
+RTE 2854         Radiographic Clinical 6               (3 credits)   Prerequisite: RTE 2844
+

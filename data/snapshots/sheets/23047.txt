@@ -1,0 +1,83 @@
+Emergency Medical Services
+Associate in Science | Code: 23047 | 73 credits
+CIP (1351090402)
+Effective Term: Fall 2024 (2247)
+
+The Associate in Science degree in Emergency Medical Services is designed according to national and state standards. Graduates will
+perform as advanced practitioners and as leaders in the technical supervisory and managerial aspects of advanced emergency care.
+Graduates will be prepared primarily for employment in agencies of advanced emergency care. Graduates will be prepared primarily
+for employment in agencies providing pre-hospital emergency medical care and secondarily, for jobs in emergency and other acute
+care areas of the hospital.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                               (3 credits)         Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                  (3 credits)
+HUM 1020         Humanities                                        (3 credits)
+LIT 2000         Introduction to Literature                        (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                (3 credits)
+PHI 2010         Introduction to Philosophy                        (3 credits)
+THE 2000         Theatre Appreciation                              (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                              (3 credits)         Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible exemption).
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085        Human Anatomy and Physiology 1                     (3 credits)         Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                        (3 credits)
+AMH 2020          History of the US since 1877                     (3 credits)
+POS 2041          American Federal Government                      (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+SCIENCE (5.00 Credits)
+BSC 2085L         Human Anatomy and Physiology 1 Laboratory        (1 credit)          Corequisite: BSC 2085
+BSC 2086          Human Anatomy & Physiology 2                     (3 credits)         Prerequisite: BSC 2085;
+                                                                                       Corequisite: BSC 2086L
+BSC 2086L          Human Anatomy & Physiology 2 Laboratory         (1 credit)          Prerequisite: BSC 2085, BSC 2085L;
+                                                                                       Corequisite: BSC 2086
+ELECTIVES (3.00 Credits)
+MNA 1345           Effective Supervision                   (3 credits)
+
+FIRST TERM IN PROGRAM (10.00 Credits)
+EMS 1119         Emergency Medical Technician              (4 credits)    Corequisite: EMS 1119L, EMS 1431
+EMS 1119L        Emergency Medical Technician Laboratory   (3 credits)    Corequisite: EMS 1119, EMS 1431
+                 and Clinic
+EMS 1431         EMT Hospital/Field Experience             (3 credits)    Corequisite: EMS 1119, EMS 1119L
+---OR---
+EMS 9996         Emergency Medical Technician - Basic      (10 credits)
+
+SECOND TERM IN PROGRAM (15.00 Credits)
+EMS 2601        Paramedic Lecture 1                        (8 credits)    Prerequisite: EMS 1119, EMS 1119L, EMS 1431;
+                                                                          Corequisite: 2601L, EMS 2664
+EMS 2601L          Paramedic Laboratory 1                  (4 credits)    Prerequisite: EMS 1119, EMS 1119L, EMS 1431;
+                                                                          Corequisite: 2601L, EMS 2664
+EMS 2664           Paramedic Clinic 1                      (3 credits)    Prerequisite: EMS 1119, EMS 1119L, EMS 1431;
+                                                                          Corequisite: 2601, EMS 2601l
+
+THIRD TERM IN PROGRAM (15.00 Credits)
+EMS 2602        Paramedic Lecture 2                        (8 credits)    Prerequisite: EMS 2601, EMS 2601L, EMS 2664;
+                                                                          Corequisite: 2602L, 2665
+EMS 2602L          Paramedic Laboratory 2                  (4 credits)    Prerequisite: EMS 2601, EMS 2601L, EMS 2664;
+                                                                          Corequisite: 2602, 2665
+EMS 2665           Paramedic Clinic 2                      (3 credits)    Prerequisite: EMS 2601, EMS 2601L, EMS 2664;
+                                                                          Corequisite: 2602, 2602L
+
+FOURTH TERM IN PROGRAM (10.00 Credits)
+EMS 2311        Emergency Medical Operations               (2 credits)    Prerequisite: MNA 1345
+EMS 2659        EMS-Field Internship and Conference        (8 credits)    Prerequisite: EMS 2602, EMS 2602L, EMS 2665
+

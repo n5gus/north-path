@@ -1,0 +1,21 @@
+Mechatronics
+College Credit Certificate | Code: 66053 | 30 Credits
+CIP: (0615000013)
+Effective Date:
+
+This program offers students instruction in maintenance techniques, computer aided drafting/design skills,
+technical communications, maintenance and operation of various industrial components, quality control and
+testing, material handling protocols, and proper usage of tools and instrumentation.
+
+MAJOR COURSE REQUIREMENTS (30.00 Credits)
+
+CET 1110C         Digital Circuits                                             (4 Credits)
+COP 2270          “C” for Engineers                                            (4 Credits)
+EET 1015C         Direct Current Circuits                                      (4 Credits)
+EGN 2200          Computer Applications in Engineering                         (3 Credits)
+ETI 1152C         Mechanical Measurement and Instrumentation                   (3 Credits)
+ETI 1701          Industrial Safety                                            (3 Credits)
+ETI 2404          Advanced Manufacturing Technology                            (3 Credits)
+ETM 1315C         Applied Pneumatics and Hydraulics                            (3 Credits)
+ETS 2542C         Programmable Logic Controllers                               (3 Credits)
+

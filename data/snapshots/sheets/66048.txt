@@ -1,0 +1,16 @@
+Oracle Certified Database Administrator
+College Credit Certificate | Code 66048 | 16 Credits
+CIP:
+Effective Term: Fall 2017 (2177)
+
+The Oracle Certified Database Administrator College Credit Certificate program is designed to provide an
+opportunity to establish a basic foundation in the field of database administration for employment in commercial,
+industrial and government institutions. Graduates are prepared for the position of Oracle Database Administrator.
+
+MAJOR COURSE REQUIREMENTS (16.00 Credits)
+
+CTS 2440 Introduction to Oracle: SQL and PL/SQL                       (4 Credits)
+CTS 2444 Oracle Database Performance Tuning                           (4 Credits)
+CTS 2441 Introduction to Oracle Database Administration               (4 Credits)
+CTS 2442 Intermediate Oracle Database Administration                  (4 Credits)
+

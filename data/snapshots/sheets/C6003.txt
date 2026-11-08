@@ -1,0 +1,21 @@
+Procurement Management
+Advanced Technical Certificate | Code: C6003 | 18 Credits
+CIP (0652020967)
+Effective Term: Fall 2024 (2247)
+
+Supply chain management is an interdisciplinary field that emphasizes cross-functional integration of diverse business
+functions, facilities, and activities and seeks to manage those activities to enhance a company’s competitive
+advantage. The Advanced Technical Certificate (ATC) in Procurement Management is designed to designed for current
+and pre-professionals interested in working in purchasing, project management, contracting, and supply chain
+management.
+
+Required Courses:
+MAN 3562        Purchasing, Inventory and Warehouse Management                 3
+MAN 3577        Procurement for Major Projects                                 3
+MAN 3578        Global Procurement Management                                  3
+MAN 4570        Purchasing for Industry                                        3
+MAN 3506        Operations Management                                          3        Pre-Req: QMB 2100 or STA2023
+QMB 2100        Basic Business Statistics
+--OR--
+STA 2023        Statistical Methods                                            3        Pre-Req: MAT 1033 or MGF 1131
+

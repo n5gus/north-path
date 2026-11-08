@@ -1,0 +1,33 @@
+Computer Programmer - Business Applications
+College Credit Certificate | Code: 66045 | 36 Credits
+CIP (0511020200)
+Effective Term: Spring 2025 (2253)
+
+The College Credit Certificate program in Computer Programmer - Business Applications is designed to provide an opportunity to establish
+a foundation in computer programming for employment in scientific, commercial, industrial and government data processing applications.
+Graduates are prepared for positions as entry-level programmers, programmer specialists, and software developers for both applications
+and systems software.
+
+MAJOR COURSE REQUIREMENTS (16.00 Credits)
+CGS 1060C      Introduction to Computer Technology                 (4 credits)
+               and Applications
+CGS 1540C      Database Concepts and Design                        (4 credits)
+COP 1334       Introduction to C++ Programming                     (4 credits)
+COP 2800       Java Programming                                    (4 credits)        Prerequisites: COP 1047C, COP 1334, or COP 2270
+
+PROGRAM CONCENTRATION CORE (15.00 Credits)
+COP 1047C     Introduction to Python Programming                   (4 credits)
+GEB 1432      Applied Artificial Intelligence (AI) in Business     (3 credits)
+
+Must take 8 credits from the following group:
+COP 2041C           Python Programming 2                           (4 credits)        Prerequisite: COP 1047C
+COP 2335            Object Oriented Programming Using C++          (4 credits)        Prerequisite: COP 1334
+COP 2805C           Advanced Java Programming                      (4 credits)        Prerequisite: COP 2800
+
+PROGRAM ELECTIVES (5.00 Credits)
+CAI*, CEN*, COP*, CTS*
+CGS 2091            Professional Ethics and Social Issues in CS    (4 credits)
+CIS 2331            Systems Analysis, Design and Implementation    (5 credits)
+EET 1033C           Electrical Fundamentals                        (4 credits)
+PHI 2680            Artificial Intelligence (AI) Ethics            (3 credits)
+

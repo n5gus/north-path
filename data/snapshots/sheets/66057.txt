@@ -1,0 +1,23 @@
+Internet of Things (IoT) Applications
+College Credit Certificate | Code: 66057 | 24 Credits
+CIP: (0511020110)
+Effective Term: Spring 2026 (2263)
+
+The Internet of Things (IoT) is a rapidly growing field converging with emerging technologies. This certificate program
+prepares graduates to advance their careers by building skills in embedded programming, data analytics, cloud computing,
+artificial intelligence, and cybersecurity. Students learn to program connected devices, secure networks, and apply AI-driven
+insights to IoT data. Through hands-on projects and industry-standard tools, the program equips students to design, deploy,
+and manage smart, connected solutions across diverse technology sectors.
+
+PROGRAM REQUIREMENTS (24.00 Credits)
+
+CEN 2211          C/C++ Programming for Embedded Devices               (4 credits)
+CEN 2212C         Introduction to Programing the IoT                   (4 credits)       Prerequisite: CEN 2211
+CIS 2010C         Introduction to Internet of Things Networking        (4 credits)
+                  and Security
+CIS 2011C         Introduction to Cloud Computing for Internet         (4 credits)       Prerequisite: CEN 2211
+                  of Things
+CIS 2012C         Introduction to Data Analytics and AI for the        (4 credits)       Prerequisites: CIS 2010C, CIS 2011C
+                  Internet of Things
+CIS 2013C         Internet of Things Applications                      (4 credits)       Prerequisites: CIS 2010C, CIS 2011C
+

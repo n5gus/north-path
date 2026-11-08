@@ -1,0 +1,75 @@
+Translation-Interpretation Studies
+Associate in Science | Code: 24050 | 60 credits
+CIP (1713100304)
+Effective Term: Fall 2024 (2247)
+
+This program is designed to provide bilingual students with the knowledge and skills necessary to carry out the work associated
+with areas of translation (written) and interpretation (oral) in the workplace. Graduates are prepared for positions as court
+translators/ interpreters, in-house translators/interpreters for the private sector (including translation/interpretation agencies),
+translators for government agencies, hospital interpreters/translators, freelance translators/interpreters and telephone
+interpreters. Graduates will have the basic foundation to establish their own translation/interpretation business.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                   (3 credits)         Prerequisite: Student must meet the
+                                                                                           Developmental Education reading and
+                                                                                           writing requirements in State Rule 6A-
+                                                                                           10.0315 (by course, placement score,
+                                                                                           or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                      (3 credits)
+HUM 1020         Humanities                                            (3 credits)
+LIT 2000         Introduction to Literature                            (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                    (3 credits)
+PHI 2010         Introduction to Philosophy                            (3 credits)         Prerequisite: ENC 1101
+THE 2000         Theatre Appreciation                                  (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                                  (3 credits)         Prerequisite: Student must meet the
+                                                                                           Developmental Education mathematics
+                                                                                           requirements in State Rule 6A-10.0315
+                                                                                           (by course, placement score, or eligible
+                                                                                           exemption).
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Anatomy                                    (3 credits)
+BSC 1005        General Education Biology                              (3 credits)
+CHM 1020        General Education Chemistry                            (3 credits)
+ESC 1000        General Education Earth Science                        (3 credits)
+EVR 1001        Introduction to Environmental Sciences                 (3 credits)
+GLY 1010        Physical Geology                                       (3 credits)
+OCE 1001        Introduction to Oceanography                           (3 credits)
+PHY 1020        General Education Physics                              (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                            (3 credits)
+AMH 2020          History of the US since 1877                         (3 credits)
+POS 2041          American Federal Government                          (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---or---
+CGS 1060C          Introduction to Computer Technology & Application
+MAJOR COURSE REQUIREMENTS (45.00 credits)
+Group A: Must take 39.00 credits
+FOT 2220          Localization and Project Management      (3 credits)   Prerequisites: FOT 2802, FOT 2825
+FOT 2802          Introduction to Translation              (3 credits)
+FOT 2821          Introduction to Interpretation           (3 credits)
+FOT 2822          Court Interpreting Skills                (3 credits)   Prerequisite: FOT 2821
+FOT 2823          Consecutive Interpretation               (3 credits)   Prerequisite: FOT 2821
+FOT 2824          Simultaneous Interpretation Strategies   (3 credits)   Prerequisite: FOT 2821
+FOT 2825          Computer Assisted Translation 1          (3 credits)   Prerequisite: FOT 2802
+FOT 2826          Legal Translation                        (3 credits)   Prerequisite: FOT 2802
+FOT 2827          Medical Translation                      (3 credits)   Prerequisite: FOT 2802
+FOT 2828          Medical Interpretation                   (3 credits)   Prerequisite: FOT 2801
+FOT 2829          Financial and Business Translation       (3 credits)   Prerequisite: FOT 2802
+LIN 2011          Introduction to Linguistics              (3 credits)
+SPT 2842          Contrastive Analysis Spanish/English     (3 credits)
+
+Group B: Must take 6.00 credits
+CGS 1060C         Introduction to Computer Technology      (4 credits)
+                  & Application
+FOT 2701          Simultaneous Conference Interpretation   (3 credits)   Prerequisite: FOT 2824
+FOT 2832          Court Interpretation Skills II           (3 credits)   Prerequisite: FOT 2822
+

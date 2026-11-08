@@ -1,0 +1,23 @@
+Cisco Certified Network Associate (CCNA)
+College Credit Certificate | Code: 66050 | 21 credits
+CIP: (0511100114)
+Effective Term: Fall 2023 (2237)
+
+The Cisco Certified Network Associate College Credit Certificate program is designed to provide you with an opportunity to
+establish a foundation in the field of networking technologies and security, with a concentration in Cisco network design and
+implementation. Program coursework will additionally help you prepare for a variety of industry-recognized certifications,
+including: CompTIA Network+, CompTIA Security+, and Cisco Certified Network Associate (CCNA).
+
+MAJOR COURSE REQUIREMENTS (21.00 Credits)
+
+CTS 1120          Cybersecurity Fundamentals                       (4 Credits)      Recommended preparation: prior
+                                                                                    knowledge of Networking Technologies
+CTS 1134          Networking Technologies                          (4 Credits)
+CTS 1650          CCNA 1: Cisco Fundamentals                       (4 Credits)
+CTS 1651          CCNA 2: Routing and Switching                    (4 Credits)      Prerequisite: CTS 1650
+CTS 2652          CCNA 3: Advanced Routing and Switching           (4 Credits)      Prerequisite: CTS 1651
+
+Select one course from the following:
+CIS 1949          Co-op Work Experience 1: CIS                      (1 Credit)
+CIS 2900          Directed Information Technology Study             (1 Credit)
+

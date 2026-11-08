@@ -1,0 +1,19 @@
+Artificial Intelligence Practitioner
+College Credit Certificate | Code: 66041 | 18 Credits
+CIP (0511010200)
+Effective Term: Spring 2024 (2243)
+
+As artificial intelligence (AI) continues to expand in every industry, so will the demand for skilled professionals in applied
+AI. The College Credit Certificate in Artificial Intelligence Practitioner is for individuals with or without a technical
+background who are interested in entering this growing field. Learners will be introduced to core AI applications and the
+ethical considerations in their design and execution. Case studies and real-world applications will support learning in the
+fundamentals of machine learning, the functions of AI virtual assistants, and techniques used in computer vision.
+
+MAJOR COURSE REQUIREMENTS (18.00 Credits)
+CAI 1001C           Artificial Intelligence (AI) Thinking                (3 Credits)
+CAI 2100C           Machine Learning Foundations                         (3 Credits)        Prerequisites: CAI 1001C and COP 1047C
+CAI 2300C           Introduction to Natural Language Processing          (3 Credits)        Prerequisite: CAI 2100C
+CAI 2840C           Introduction to Computer Vision                      (3 Credits)        Prerequisite: CAI 2100C
+COP 1047C           Introduction to Python Programming                   (4 Credits)
+PHI 2680 Artificial Intelligence and Ethics                              (3 Credits)
+

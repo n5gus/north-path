@@ -1,0 +1,82 @@
+Photographic Technology
+Associate in Science | Code: 26032 | 64 credits
+CIP (1650060500)
+Effective Term: Fall 2024 (2247)
+
+The Photographic Technology program is designed to meet individual students’ needs for either further study or immediate
+employment in the field of commercial and industrial photography. Students develop a wide variety of photographic and art-
+related skills and the ability to use these skills to produce commercially viable photographs. Instruction covers portrait
+photography, still photography, fashion photography, illustrative photography as well as the business skills needed to manage a
+photographic enterprise. Various internships such as in biomedical and forensic technology are available to students.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                (3 credits)        Prerequisite: Student must meet the Developmental
+                                                                                       Education reading and writing requirements in State
+                                                                                       Rule 6A-10.0315 (by course, placement score, or
+                                                                                       eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                   (3 credits)
+HUM 1020         Introduction to Humanities                         (3 credits)
+LIT 2000         Introduction to Literature                         (3 credits)        Prerequisite: ENC1101
+MUL 1010         Music Appreciation                                 (3 credits)
+PHI 2010         Introduction to Philosophy                         (3 credits)        Prerequisite: ENC1101
+THE 2000         Theatre Appreciation                               (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                               (3 credits)        Prerequisite: Student must meet the Developmental
+                                                                                       Education reading and writing requirements in State
+                                                                                       Rule 6A-10.0315 (by course, placement score, or
+                                                                                       eligible exemption).
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                               (3 credits)
+BSC 1005        General Education Biology                           (3 credits)
+CHM 1020        General Education Chemistry                         (3 credits)
+ESC 1000        General Education Earth Science                     (3 credits)
+EVR 1001        Introduction to Environmental Science               (3 credits)
+GLY 1010        Physical Geology                                    (3 credits)
+OCE 1001        Introduction to Oceanography                        (3 credits)
+PHY 1020        General Education Physics                           (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                         (3 credits)
+AMH 2020          History of the US since 1877                      (3 credits)
+POS 2041          American Federal Government                       (3 credits)
+
+COMPUTER COMPETENCY REQUIREMENT
+Computer Competency Test (CCT)
+---or---
+CGS 1060C       Introduction to Computer Technology & Applications
+MAJOR COURSE REQUIREMENTS (40.00 Credits)
+ART 1202C      Two-Dimensional Design                    (3 - 4 credits)
+ART 1300C      Drawing                                   (3 - 4 credits)
+PGY 2110C      Color Photography 1                       (3 - 4 credits)   Prerequisite: PGY 2401C
+PGY 2111C      Color Photography 2                       (4 credits)       Prerequisite: PGY 2110C
+PGY 2211       Portrait and Still Photography            (4 credits)       Prerequisite: PGY 2410C
+PGY 2238       Illustrative Photography 1                (4 credits)       Prerequisite: PGY 2410C
+PGY 2239       Illustrative Photography 2                (4 credits)       Prerequisite: PGY 2238
+PGY 2401C      Introduction to Photography               (3 - 4 credits)   Prerequisites: ART 1203C, 1300C, or Equivalent
+PGY 2404C      Intermediate Photography                  (3 - 4 credits)   Corequisite: PGY 2401C
+PGY 2470C      Portfolio Preparation                     (4 credits)       Prerequisites: PGY 2111C, PGY 2211, PGY 2222,
+                                                                           PGY 2238
+
+OTHER ELECTIVES (9.00 Credits)
+ART 1205C        Color and Composition 1                 (3 - 4 credits)
+ART 2600C        Computer Art                            (3 - 4 credits)   Prerequisites: ART 1201C, ART 1300C
+ART 2601C        Intermediate Computer Art               (3 - 4 credits)   Prerequisite: ART 2600C
+ART 2602C        Advanced computer Art                   (4 credits)
+ART 2802C        Visual Arts Workshop                    (1 - 4 credits)
+GRA 1280C        Introduction to Digital Imaging         (4 credits)
+GRA 2117C        Computer Assisted Graphic Design        (4 credits)
+GRA 2121C        Professional Desktop Publishing Media   (4 credits)       Prerequisites: GRA 1111C, GRA 1206C, GRA 2117C;
+                                                                           Pre/Corequisite: GRA 1280C
+GRA 2151C         Digital Graphic Painting               (4 credits)       Prerequisites: GRA 1280C, GRA 2117
+GRA 2156C         Electronic Photoshop                   (4 credits)       Prerequisites: GRA 1751, GRA 1754
+GRA 2203C         Advanced Electronic Publishing         (4 credits)       Prerequisites: GRA 2121C, GRA 2151
+PGY 2112C         Color Photography 3                    (4 credits)
+PGY 2222          Fashion Photography                    (4 credits)
+PGY 2475          Advanced Photography                   (3 - 4 credits)   Prerequisite: PGY 2410C
+PGY 2800C         Digital Photography                    (4 credits)       Prerequisites: ART 1205C, ART 1300C, PGY 2401C
+

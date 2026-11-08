@@ -1,0 +1,17 @@
+Computer Aided Design Assistant
+College Credit Certificate | Code: 66070 | 14 Credits
+CIP:
+Effective Date:
+
+
+The Computer-Aided Design Assistant College Credit Certificate program is designed to prepare students to work as CAD
+assistants in an architectural office by acquiring a basic understanding of the architectural graphic skills needed to
+produce working and presentation drawings.
+
+
+MAJOR COURSE REQUIREMENTS (22.00 Credits)
+ARC 1115      Architectural Communications 1                          (2 Credits)
+ARC 1126C     Architectural Drawing 1                                 (4 Credits)
+ARC 2171      Computer Aided Drafting 1                               (4 Credits)     Pre-Req: ARC 1126C or ARC 2461
+ARC 2172      Computer Aided Drafting 2                               (4 Credits)     Pre-Req: ARC 2171
+

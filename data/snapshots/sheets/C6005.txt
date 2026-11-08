@@ -1,0 +1,23 @@
+Supply Chain Analytics
+Advanced Technical Certificate | Code: C6005 | 18 Credits
+CIP (0652020366)
+Effective Term: Fall 2024 (2247)
+
+Supply chain management is an interdisciplinary field that emphasizes cross-functional integration of diverse business
+functions, facilities, and activities and seeks to manage those activities to enhance a company’s competitive
+advantage. The Advanced Technical Certificate in Supply Chain Analytics is designed to provide knowledge of the supply
+chain while exploring the risks, operations, logistics, economics, regulatory issues, change management, forecasting,
+resource allocation, production planning, inventory management, customer delivery, after-sales support and service and
+other functions basic to business.
+
+Required Courses:
+MAN 4523        Production Information Systems                       3
+MAN 4719        Challenges in the Digital Supply Chain               3        Pre-Req: MAN 3506, (QMB 2100 or
+                                                                              STA 2023)
+MAN 4552         Supply Chain Analytics and Decision Making          3
+MAN 4732         Business Intelligence for Supply Chain              3
+MAN 3506         Operations Management                               3        Pre-Req: QMB 2100 or STA 2023
+QMB 2100         Basic Business Statistics
+--OR--
+STA 2023         Statistical Methods                                 3        Pre-Req: MAT 1033 or MGF 1131
+

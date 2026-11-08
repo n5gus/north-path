@@ -1,0 +1,20 @@
+Solar Energy Systems Specialist
+College Credit Certificate | Code: 66056 | 18 Credits
+CIP: (0615050303)
+Effective Date:
+
+The College Credit Certificate (CCC) in Solar Energy Systems Specialist will fill a growing need to train personnel in
+how to build and install Solar Photo-Voltaic panels in both commercial and private structures. Students will receive
+a wide-range of classroom and hands-on training that will provide the student with the education and knowledge of
+the following grid connect solar power systems, off grid solar-remote power systems, commercial and medium scale
+solar, solar hot water, solar hydronics/thermal, and solar water pumping.
+
+
+MAJOR COURSE REQUIREMENTS (18.00 Credits)
+
+EET 1033C         Electrical Fundamentals                                    (4 Credits)
+ETI 1701          Industrial Safety                                          (3 Credits)
+ETP 2040C         Electric Power Distribution                                (4 Credits)          Pre-Req: EET1033C
+ETP 2410C         Design, Installation & Operation of Solar PV Systems       (4 Credits)          Pre-Req: EET1033C
+ETP 2501C         Introduction to Alternative and Renewable Energy           (3 Credits)          Pre-Req: EET1033C
+

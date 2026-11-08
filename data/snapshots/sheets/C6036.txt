@@ -1,0 +1,27 @@
+Magnetic Resonance Imaging
+Advanced Technical Certificate | Code: C6036 |15 credits
+CIP (0351091066)
+Effective Term: Fall 2023 (2237)
+
+
+The MRI Certificate Program prepares American Registry of Radiologic Technologists (ARRT) or
+American Registry for Diagnostic Medical Sonography (ARDMS) Licensed Radiologic Technologists,
+Nuclear Medicine Technologists, Radiation Therapy and Ultrasound Technologists to function as an
+MRI Technologist. This program provides intensive didactic and clinical training in the medical
+specialty of Magnetic Resonance imaging. The MRI technologist performs imaging procedures using
+magnetism and radio frequency to visualize internal organs such as the heart, abdominal organs, and
+brain. It may also be used to visualize bony structures such as the spine, skull, and extremities.
+Graduates will be eligible to take the MRI Registry Exam offered by the American Registry of
+Radiologic Technologists.
+
+
+MAJOR CORE REQUIREMENTS (15 credits)
+
+RTE 2762       Cross Sectional Anatomy                      (3 credits)
+RTE 2575       MRI Principles and MRI Safety                (3 credits)   Corequisites: RTE 2762,
+                                                                          RTE 2576
+RTE 2576       MRI Procedures and Patient Care              (3 credits)   Corequisites: RTE 2762,
+                                                                          RTE 2575
+RTE 2577C      Magnetic Resonance Imaging (MRI) Practicum   (6 credits)   Prerequisites: RTE 2762,
+                                                                          RTE 2575, RTE 2576
+

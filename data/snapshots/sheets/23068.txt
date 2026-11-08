@@ -1,0 +1,102 @@
+Nuclear Medicine Technology
+Associate in Science | Code: 23068 | 75 credits
+CIP (1351090502)
+Effective Term: Fall 2024 (2247)
+
+The A.S. degree is designed for students who are looking for immediate entry into a career upon graduation. Most discipline
+courses directly relate to the identified career area. The remaining courses are comprised of general education courses. Students
+begin the discipline courses of the Nuclear Medicine Technology program in Fall term of each year. A total of 75 credits must be
+completed for this degree.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                 (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and writing
+                                                                                         requirements in State Rule 6A-10.0315 (by
+                                                                                         course, placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                    (3 credits)
+HUM 1020         Humanities                                          (3 credits)
+LIT 2000         Introduction to Literature                          (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                  (3 credits)
+PHI 2010         Introduction to Philosophy                          (3 credits)
+THE 2000         Theatre Appreciation                                (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                      (3 credits)         Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085        Human Anatomy and Physiology 1                       (3 credits)         Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                          (3 credits)
+AMH 2020          History of the US since 1877                       (3 credits)
+POS 2041          American Federal Government                        (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C - Introduction to Computer Technology & Applications
+
+SCIENCE REQUIREMENTS (12.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory            (1 credit)          Corequisite: BSC 2085
+BSC 2086        Human Anatomy & Physiology 2                         (3 credits)         Prerequisite: BSC 2085;
+                                                                                         Corequisite: BSC 2086L
+BSC 2086L          Human Anatomy & Physiology 2 Laboratory           (1 credit)          Prerequisite: BSC 2085, BSC 2085L;
+                                                                                         Corequisite: BSC 2086
+PHY 1004           Physics with Applications                         (3 credits)         Prerequisite: MAT 1033;
+                                                                                         Corequisite: PHY 1004L
+CHM 1033           Chemistry for Health Sciences                     (3 credits)         Prerequisite: MAT 1033;
+                                                                                         Corequisite: CHM 1033L
+CHM 1033L         Chemistry for Health Sciences                   (1 credit)        Prerequisite: MAT 1033;
+                                                                                    Corequisite: CHM 1033L
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+
+ELECTIVE REQUIREMENT (3.00 credits)
+MAT 1033        Intermediate Algebra                              (3 credits)       Prerequisites: MAT 0022C, or MAT 0028, or
+                                                                                    MAT 0057 or by placement score, or eligible
+                                                                                    exemption.
+MAJOR CORE REQUIREMENTS (45.00 Credits)
+NMT 1002L      Introduction to Nuclear Medicine Lab               (2 credits)       Prerequisites: CHM1033, CHM 1033L
+                                                                                    Corequisites: NMT 1002, NMT 1312, NMT 2613
+NMT 1312C         Nuclear Medicine Physics and Math Applications (2 credits)        Corequisites: NMT 1002, NMT 1002L, NMT 2613
+NMT 1705C         Introduction to Nuclear Medicine Pre-clinical  (2 credits)        Prerequisites: BSC 2085, BSC 2085L, BSC 2086,
+                                                                                    BSC 2086L, CHM 1033, CHM 1033L;
+                                                                                    Corequisites: NMT 1002L, NMT 1312C, NMT 2613
+NMT 1713C         Methodology 1                                   (2 credits)       Prerequisites: BSC 2085, BSC 2085L, BSC 2086,
+                                                                                    BSC 2086L, CHM 1033, CHM 1033L;
+                                                                                    Corequisites: NMT 2130, NMT 2534, NMT 2804C
+NMT 2102          Nuclear Medicine Administration                 (1 credits)       Prerequisites: NMT 2130, NMT 2534;
+                                                                                    Corequisites: NMT 2573, NMT 2723, NMT 2814C
+NMT 2130C         Nuclear Medicine Radiopharmacy                  (3 credits)       Prerequisites: NMT 1002, NMT 1002L, NMT 1312,
+                                                                                    NMT 2613;
+                                                                                    Corequisites: NMT 1713, NMT 2534, NMT 2804C
+NMT 2534C         Instrumentation, Quality Control, And           (3 credits)       Prerequisites: NMT 1002, NMT 1002L, NMT 1312,
+                  Quality Assurance                                                 NMT 2613, and PHY 1004;
+                                                                                    Corequisites: NMT 1713, NMT 2130, NMT 2804C
+NMT 2613          Radiology Positioning 1 Lab                     (3 credits)       Prerequisites: MAC 1105, PHY 1004;
+                                                                                    Corequisites: NMT 1002, NMT 1002L, NMT 1312
+NMT 2723C         Methodology 2                                   (2 credits)       Prerequisites: NMT 1713, NMT 2804C;
+                                                                                    Corequisites: NMT 2573, NMT 2814C
+NMT 2733C         Methodology 3                                   (2 credits)       Prerequisites: BSC 2085, BSC 2085L, BSC 2086,
+                                                                                    BSC 2086L, NMT 1713C, NMT 2723C;
+                                                                                    Corequisites: NMT 2779C, NMT 2824C
+NMT 2779C         Multi-Modalities and Cross-Sectional Anatomy    (2 credits)       Prerequisites: NMT 2130C, NMT 2723C,
+                                                                                    NMT 2814C;
+                                                                                    Corequisites: NMT 2733C, NMT 2824C
+NMT 2804C         Nuclear Medicine Clinical Education 1           (3 credits)       Prerequisites: NMT 1002, NMT 1002L, NMT 1312,
+                                                                                    NMT 1713
+NMT 2814C         Nuclear Medicine Clinical Education 2           (5 credits)       Prerequisites: NMT 2130, NMT 2534, NMT 2613,
+                                                                                    NMT 2804C
+NMT 2824C         Nuclear Medicine Clinical Education 3           (5 credits)       Prerequisite: NMT 2814C
+NMT 2834C         Nuclear Medicine Clinical Education 4           (5 credits)
+NMT 2932C         Nuclear Medicine Seminar                        (3 credits)       Prerequisites: NMT 1312, NMT 2534, NMT 2573,
+                                                                                    NMT 2613;
+                                                                                    Corequisite: NMT 2824C
+

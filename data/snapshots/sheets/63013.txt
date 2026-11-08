@@ -1,0 +1,25 @@
+Emergency Medical Technician
+College Credit Certificate | Code: 63013 | 12 credits
+CIP (0351090415)
+Effective Term: Spring 2024 (2243)
+
+The Emergency Medical Technician – Basic College Credit Certificate is a one-semester program, which prepares
+students to function in the hospital and pre-hospital environment. Graduates of this program can perform clinical
+data collection, patient assessment and provide immediate care and safe relocation of the acutely ill. Satisfactory
+completion of this program will qualify the graduate to sit for the State and/or National EMT Certification
+Examination. This program is approved by the State of Florida, Department of Health and Rehabilitative Services.
+
+MAJOR COURSE ELECTIVES (2.00 credits)
+EMS 1059      Emergency Medical Responder                               (1 credits)       Corequisite: EMS 1059L
+EMS 1059L     Emergency Medical Responder Laboratory                    (1 credits)       Corequisite: EMS 1059
+---OR---
+EMS 9995      Emergency Medical Responder                               (2 credits)
+
+
+MAJOR COURSE REQUIREMENTS (10.00 credits)
+EMS 1119      Emergency Medical Technician                              (4 credits)       Prerequisites: EMS 1059, 1059L;
+                                                                                          Corequisites: EMS 1119L, 1431
+EMS 1119L         Emergency Medical Technician Lab and Clinic           (3 credits)       Prerequisites: EMS 1059, 1059L;
+                                                                                          Corequisites: EMS 1119, 1431
+EMS 1431          EMT Hospital/Field Experience                         (3 credits)       Corequisites: EMS 1119, 1119L
+

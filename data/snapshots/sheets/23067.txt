@@ -1,0 +1,73 @@
+Respiratory Care – CRT to RRT
+Associate in Science | Code: 23067 | 76 credits
+CIP (1351090800)
+Effective Term: Fall 2024 (2247)
+
+The Respiratory Care CRT to RRT Completion program prepares the practicing Certified Respiratory Therapist (CRT) to acquire the
+Registered Respiratory Therapist (RRT) credential, by completing the program requirements in order to meet eligibility for the
+National Board for Respiratory Care (NBRC) RRT examination. The emphasis of the accelerated CRT to RRT completion program
+is on teaching the didactic, laboratory, and clinical competencies required of a registered respiratory therapist (RRT). CRT to RRT
+students will be classified as Advanced Placement in the Respiratory Care Program.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                  (3 credits)         Prerequisite: Student must meet the
+                                                                                          Developmental Education reading and writing
+                                                                                          requirements in State Rule 6A-10.0315 (by
+                                                                                          course, placement score, or eligible
+                                                                                          exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                     (3 credits)
+HUM 1020         Humanities                                           (3 credits)
+LIT 2000         Introduction to Literature                           (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                   (3 credits)
+PHI 2010         Introduction to Philosophy                           (3 credits)
+THE 2000         Theatre Appreciation                                 (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                       (3 credits)         Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+BSC 2085        Human Anatomy and Physiology 1                        (3 credits)         Corequisite: BSC 2085L
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                           (3 credits)
+AMH 2020          History of the US since 1877                        (3 credits)
+POS 2041          American Federal Government                         (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C - Introduction to Computer Technology & Applications
+
+SCIENCE REQUIREMENTS (8.00 Credits)
+BSC 2085L       Human Anatomy and Physiology 1 Laboratory             (1 credits)         Corequisite: BSC 2085
+BSC 2086        Human Anatomy & Physiology 2                          (3 credits)         Prerequisite: BSC 2085;
+                                                                                          Corequisite: BSC 2086L
+BSC 2086L           Human Anatomy & Physiology 2 Laboratory           (1 credits)         Prerequisite: BSC 2085L;
+                                                                                          Corequisite: BSC 2086
+CHM 1025            Introductory Chemistry*or higher                  (3 credits)         Prerequisite: MAT 1033
+MAJOR CORE REQUIREMENTS (53.00 Credits)
+RET 2264       Advanced Modalities and Monitoring                 (2 credits)    Prerequisite: RET 2284;
+                                                                                 Corequisites: RET 2714, RET 2714L
+RET 2284        Principles of Mechanical Ventilation              (2 credits)    Prerequisite: RET 2275C;
+                                                                                 Corequisite: RET 2284L
+RET 2284L       Principles of Mechanical Ventilation Laboratory   (2 credits)    Corequisite: RET 2284
+RET 2414        Pulmonary Studies                                 (2 credits)    Corequisite: RET 2414L
+RET 2414L       Pulmonary Studies Laboratory                      (1 credit)     Corequisite: RET 2414
+RET 2601        Respiratory Care Seminar                          (2 credits)    Prerequisite: RET 2284;
+                                                                                 Corequisites: RET 2714, RET 2714L
+RET 2714        Perinatal and Pediatric Respiratory Care          (2 credits)    Corequisites: RET 2264, RET 2714L
+RET 2714L       Perinatal and Pediatric Respiratory Care          (1 credit)     Corequisites: RET 2264, RET 2714
+                Laboratory
+RET 2834        Respiratory Care Clinic 3                         (8 credits)    Prerequisite: RET 2284, RET 2284L;
+                                                                                 Corequisite: RET 2714, RET 2714L
+RET 2835        Respiratory Care Clinic 4                         (8 credits)    Prerequisite: RET 2834;
+                                                                                 Corequisite: RET 2601
+RET 9995        Respiratory Care                                  (23 credits)   Certified Respiratory Therapist Credential
+                                                                                 (TMOP 1100: 815732)
+

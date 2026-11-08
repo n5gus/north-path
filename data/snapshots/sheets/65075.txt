@@ -1,0 +1,23 @@
+Accounting and Budgeting
+College Credit Certificate | Code: 65075 | 18 Credits
+CIP (0552030203)
+Effective Term: Fall 2019 (2207)
+
+The College Credit Certificate in Accounting and Budgeting will prepare students to compute, classify, and record
+numerical data to keep financial records complete. Students will also be prepared to check the accuracy of figures,
+calculations, and postings pertaining to business transactions recorded by other workers.
+
+MAJOR COURSE REQUIREMENTS (18.00 Credits)
+
+ACG 1403          Excel for Business                          (1 credit)
+ACG 2021          Financial Accounting                        (3 credits)      Co-Req: ACG 2021L
+ACG 2021L         Financial Accounting Lab                    (1 credits)      Co-Req: ACG 2021
+ACG 2071          Managerial Accounting                       (3 credits)      Pre-Req: ACG 2001 and 2011; or
+                                                                               ACG 2021
+                                                                               Co-Req: ACG 2071L
+ACG 2071L         Managerial Accounting Lab                   (1 credit)       Pre-Req: ACG 2021 and 2021L
+                                                                               Co-Req: ACG 2071
+ACG 2450          Microcomputers in Accounting                (3 credits)      Pre/Co-Req: ACG 2001 or 2021
+TAX 2000          Income Tax                                  (3 credits)
+TAX 2021          Taxation of Business Organizations          (3 credits)
+

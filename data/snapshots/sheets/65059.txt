@@ -1,0 +1,22 @@
+Chef Apprentice
+College Credit Certificate | 65059 | 12 Credits
+CIP (0612050302)
+Effective Term: Fall 2026 (2267)
+
+The Chef Apprentice Certificate is designed to prepare students with a theoretical and practical foundation for a
+successful career in the culinary industry. Credits earned can be applied to Associate in Science degree in Culinary
+Arts Management, which may be transferrable to upper division public institutions. *Students will be given
+opportunity to take the Food Safety exam for ServSafe Florida State Certification (State mandated for food
+handlers in Florida).
+
+
+MAJOR COURSE REQUIREMENTS (12.00 Credits)
+
+FSS 1200         Culinary Terminology and Procedures          (3 credits)       Corequisite: FSS1202C
+FSS 1204L        Food Production 2                            (3 credits)       Corequisite: FSS1200
+FSS 1202L        Food Production 1                            (3 credits)       Prerequisites: FSS1200, FSS1202C
+FSS1246C         Basic Baking – Foundational Skills           (3 credits)       Prerequisites: FSS1200, FSS1202C
+---OR---
+FSS 2248C        Garde Manger                                 (3 credits)       Prerequisites: FSS1200, FSS1202C,
+                                                                                FSS1246C
+

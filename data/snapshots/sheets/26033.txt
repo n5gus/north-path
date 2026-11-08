@@ -1,0 +1,72 @@
+Building Construction Technology
+Associate in Science | Code: 26033 | 60 credits
+CIP (1615100102)
+Effective Term: Fall 2024 (2247)
+
+The Building Construction Technology program is designed to furnish technically trained personnel for the building construction
+industry. The graduate may work with a contractor as part of the administrative team in such entry-level job positions as those
+leading to estimators, job coordinators, or project managers. Technical jobs may also be available in the following areas: land and
+project developers; technical sales for building materials, systems, and equipment; with local, state, and federal government
+agencies; as well as various financial institutions.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                  (3 credits)         Prerequisite: Student must meet the Developmental
+                                                                                          Education reading and writing requirements in State
+                                                                                          Rule 6A-10.0315 (by course, placement score, or
+                                                                                          eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                     (3 credits)
+HUM 1020         Introduction to Humanities                           (3 credits)
+LIT 2000         Introduction to Literature                           (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                   (3 credits)
+PHI 2010         Introduction to Philosophy                           (3 credits)
+THE 2000         Theatre Appreciation                                 (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                       (3 credits)         Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                                 (3 credits)
+BSC 1005        General Education Biology                             (3 credits)
+CHM 1020        General Education Chemistry                           (3 credits)
+ESC 1000        General Education Earth Science                       (3 credits)
+EVR 1001        Introduction to Environmental Science                 (3 credits)
+GLY 1010        Physical Geology                                      (3 credits)
+OCE 1001        Introduction to Oceanography                          (3 credits)
+PHY 1020        General Education Physics                             (3 credits)
+PHY 2053        Physics (without Calculus) 1                          (3 credits)         Prerequisite: MAC 1114 or MAC 1147;
+                                                                                          Corequisite: PHY 2053L
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                           (3 credits)
+AMH 2020          History of the US since 1877                        (3 credits)
+POS 2041          American Federal Government                         (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---or---
+CGS 1060C          Introduction to Computer Technology & Applications
+MAJOR COURSE REQUIREMENTS (42.00 credits)
+ARC 1126C      Architectural Drawing 1                         (4 credits)
+ARC 2171       Computer Aided Drafting 1                       (4 credits)         Prerequisite: ARC 1126C or 2461
+ARC 2461       Architectural Materials and Construction 1      (4 credits)         Prerequisite: ARC 1126C or BCN 1251
+ARC 2681       Environmental Technology                        (3 credits)         Prerequisite: ARC 1126C
+BCN 1272       Building Construction Plans Interpretation 1    (3 credits)
+BCN 1275       Building Construction Plans Interpretation 2    (3 credits)         Prerequisite: BCN 1272
+BCT 1743       Building Construction Law                       (3 credits)
+BCT 1750       Building Construction Financing                 (3 credits)
+BCT 1770       Building Construction Estimating Fundamentals   (3 credits)         Prerequisite: BCN 1272
+BCT 1771       Building Construction Advanced Estimating       (3 credits)         Prerequisites: BCN 1275, BCT 1770
+BCT 2760       Building Code Regulations                       (3 credits)
+MAC 1114       Trigonometry                                    (3 credits)         Prerequisite: MAC 1105 or MAC 1106
+SUR 1001C      Construction Survey                             (3 credits)         Prerequisite: MAC 1114 or MAC 1147
+
+MAJOR COURSE ELECTIVE (3.00 credits)
+ARC*, BCN*, BCT*
+CGS 1060C        Introduction to Computer Technology & Applications      (4 credits)
+ETM 1700         Air Conditioning Fundamentals                           (3 credits)
+

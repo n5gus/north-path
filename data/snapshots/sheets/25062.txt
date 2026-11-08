@@ -1,0 +1,88 @@
+Networking Services Technology – Network Infrastructure
+Associate in Science | Code: 25062 | 60 credits
+CIP (1511100112)
+Effective Term: Fall 2024 (2247)
+
+The Networking Services Technology program provides an opportunity to establish a foundation in the field of
+network design and administration for employment in commercial, industrial and government institutions. The
+Network Infrastructure concentration offers the training needed to connect and secure multiple computing
+systems and software platforms. Students are additionally eligible to sit for the Cisco Certified Networking
+Associate (CCNA) certification exam. Graduates are prepared for positions as information technology specialists,
+help desk specialists, network specialists, entry level security specialists and network systems analysts.
+
+Note: There is only one A.S. program in Networking Services Technology with three (3) track specializations—Network
+Infrastructure, Network Security, and Enterprise Cloud Computing. Students may select from one of the three options, but
+the A.S. in Networking Services Technology will be awarded to the student only once.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition                                (3 credits)       Prerequisite: Student must meet the
+                                                                                    Developmental Education reading and writing
+                                                                                    requirements in State Rule 6A-10.0315 (by course,
+                                                                                    placement score, or eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                 (3 credits)
+HUM 1020         Introduction to Humanities                       (3 credits)
+LIT 2000         Introduction to Literature                       (3 credits)       Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                               (3 credits)
+PHI 2010         Introduction to Philosophy                       (3 credits)
+THE 2000         Theatre Appreciation                             (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                   (3 credits)       Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                             (3 credits)
+BSC 1005        General Education Biology                         (3 credits)
+CHM 1020        General Education Chemistry                       (3 credits)
+ESC 1000        General Education Earth Science                   (3 credits)
+EVR 1001        Introduction to Environmental Science             (3 credits)
+GLY 1010        Physical Geology                                  (3 credits)
+OCE 1001        Introduction to Oceanography                      (3 credits)
+PHY 1020        General Education Physics                         (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                       (3 credits)
+AMH 2020          History of the US since 1877                    (3 credits)
+POS 2041          American Federal Government                     (3 credits)
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Application
+
+MAJOR COURSE REQUIREMENTS (16.00 Credits)
+CGS 1060C      Intro to Computer Technology and Applications (4 credits)
+CTS 1120       Cybersecurity Fundamentals                    (4 credits)            Recommended preparation: prior knowledge of
+                                                                                    Networking Technologies
+CTS 1134            Networking Technologies                         (4 credits)
+CTS 2303            Windows Server Administration                   (4 credits)     Recommended preparation: CGS 1060C and CTS
+                                                                                    1134
+
+PROGRAM CONCENTRATION CORE (24.00 Credits)
+CTS 1111      Linux +                                               (4 credits)
+CTS 1650      CCNA 1: Cisco Fundamentals                            (4 credits)
+CTS 1651      CCNA 2: Routing and Switching                         (4 credits)     Corequisite: CTS 1650
+CTS 2143C     Server Administration                                 (4 credits)     Recommended preparation: server operating
+                                                                                    systems experience
+CTS 2192C           Microsoft Azure Administration                  (4 credits)     Recommended preparation: CTS 1145 or
+                                                                                    equivalent knowledge in Microsoft Azure
+                                                                                    Fundamentals
+CTS 2652            CCNA 3: Advanced Routing and Switching          (4 credits)     Prerequisite: CTS 1651
+
+PROGRAM COURSE ELECTIVE (5.00 Credits)
+CGS*; CIS*; COP*; CTS*
+CGS 1560           A+ Computer Operating Systems                    (4 credits)
+CIS 2900           Directed Information Technology Study            (1-4 credits)
+CTS 1145           Cloud Essentials                                 (4 credits)
+CTS 1328           Supporting Microsoft Clients                     (4 credits)     Prerequisite: CGS 1060C
+CTS 1437           Microsoft SQL Administration                     (4 credits)     Recommended preparation:
+                                                                                    CGS 1540 or CGS 1541
+CTS 2153            Supporting Windows Users & Applications         (4 credits)     Prerequisite: CTS 1328
+
+
+* Any course with the listed prefixes satisfies this requirement.
+

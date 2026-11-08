@@ -1,0 +1,65 @@
+Database Technology - Oracle Database Administration
+Associate in Science | Code: 25058 | 60 credits
+CIP (1511080200)
+Effective Term: Fall 2024 (2247)
+
+The Database Technology program is designed to provide an opportunity to establish a basic foundation in the field of database
+administration for employment in commercial, industrial and government institutions. Graduates are prepared for positions as
+database administrators and database developers.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition                                 (3 credits)         Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible
+                                                                                       exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                  (3 credits)
+HUM 1020         Introduction to Humanities                        (3 credits)
+LIT 2000         Introduction to Literature                        (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                (3 credits)
+PHI 2010         Introduction to Philosophy                        (3 credits)         Prerequisite: ENC 1101
+THE 2000         Theatre Appreciation                              (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                    (3 credits)         Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 Credits)
+AST 1002        Descriptive Astronomy                              (3 credits)
+BSC 1005        General Education Biology                          (3 credits)
+CHM 1020        General Education Chemistry                        (3 credits)
+ESC 1000        General Education Earth Science                    (3 credits)
+EVR 1001        Introduction to Environmental Science              (3 credits)
+GLY 1010        Physical Geology                                   (3 credits)
+OCE 1001        Introduction to Oceanography                       (3 credits)
+PHY 1020        General Education Physics                          (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                        (3 credits)
+AMH 2020          History of the US since 1877                     (3 credits)
+POS 2041          American Federal Government                      (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---or---
+CGS 1060C          Introduction to Computer Technology & Applications
+MAJOR COURSE REQUIREMENTS (32.00 credits)
+CGS 1060C      Introduction to Computer Technology            (4 credits)
+               & Applications
+CGS 1540C      Database Concepts and Design                   (4 credits)
+COP 1334       Introduction to C++ Programming                (4 credits)
+COP 2800       Java Programming                               (4 credits)   Prerequisite: COP 1334
+CTS 2440       Introduction to Oracle: SQL and PL/SQL         (4 credits)   Prerequisite: CGS 1060C
+CTS 2441       Introduction to Oracle Database Administration (4 credits)   Prerequisite: CTS 2440
+CTS 2442       Intermediate Oracle Database Administration    (4 credits)   Prerequisite: CTS 2441
+CTS 2444       Oracle Database Performance Tuning             (4 credits)   Prerequisite: CTS 2442
+
+MAJOR COURSE ELECTIVE (13.00 credits)
+Electives are restricted to courses listed below:
+CAP*, CEN*, CGS*, CIS*, COP*, CTS*
+

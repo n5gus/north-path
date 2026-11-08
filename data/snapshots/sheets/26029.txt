@@ -1,0 +1,102 @@
+Professional Pilot Technology
+Associate in Science | Code: 26029 | 64 credits
+CIP (1649010200)
+Effective Term: Fall 2024 (2247)
+
+The Professional Pilot Technology program is primarily developed to meet the challenging regional airline requirements for
+pilots; therefore, graduates of the program will earn the following Federal Aviation Administration (FAA) Certificates:
+Commercial Pilot with Single and Multi-Engine Ratings. In addition, these certificates can be applied toward a Certified Flight
+Instructor (CFI) Certificate. The Accelerated track was developed to meet the emerging workforce needs and prepare students
+for employment within 12 months.
+
+GENERAL EDUCATION REQUIRED (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                 (3 credits)        Prerequisite: Student must meet the
+                                                                                        Developmental Education reading and
+                                                                                        writing requirements in State Rule 6A-
+                                                                                        10.0315 (by course, placement score,
+                                                                                        or eligible exemption).
+
+HUMANITIES (3.00 credits)
+PHI 2010         Introduction to Philosophy                          (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                      (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+ESC 1000        General Education Earth Science                      (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                          (3 credits)
+AMH 2020          History of the US since 1877                       (3 credits)
+POS 2041          American Federal Government                        (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+
+PROGRAM CORE REQUIREMENTS (34.00 – 36.00 Credits)
+
+Group A: Non-Accelerated Track (34.00 credits)
+ASC 1210         Aviation Meteorology                                (3 credits)        Corequisite ATT 2110 or equivalent
+ASC 1550         Aerodynamics                                        (3 credits)
+ASC 1610         Aircraft Engines and Structures                     (3 credits)
+ASC 2320         Aviation Laws and Regulations                       (3 credits)
+ASC 2470         Physiology/Psychology of Flight                     (3 credits)
+ASC 2670         Aircraft Systems                                    (3 credits)        Prerequisite: ASC 1610
+ATF 2210         Commercial Pilot Flight                             (3 credits)
+ATF 2305         Instrument Pilot Flight                             (3 credits)        Corequisite: ATT 2120, Current FAA Medical
+                                                                                        Certificate
+ATT 2110           Commercial Pilot Theory                           (3 credits)        Prerequisite: ATF 2210
+                                                                                        Corequisite: ATF 2300 or 2210
+ATT 2120           Instrument Pilot Theory               (4 credits)    Prerequisite: ASC 1210
+                                                                        Corequisite: ATF 2210
+ATT2820            Air Traffic Control                   (3 credits)    Prerequisite: Sophomore Standing in Major Program.
+
+
+---OR---
+
+Group B: Accelerated Track (36.00 credits)
+ASC 1210          Aviation Meteorology                   (3 credits)    Corequisite ATT 2110 or equivalent
+ASC 1550          Aerodynamics                           (3 credits)
+ASC 1610          Aircraft Engines and Structures        (3 credits)
+ASC 2320          Aviation Laws and Regulations          (3 credits)
+ASC 2470          Physiology/Psychology of Flight        (3 credits)
+ASC 2670          Aircraft Systems                       (3 credits)    Prerequisite: ASC 1610
+ATF 2210L         Commercial Pilot Flight Accelerated    (3 credits)
+ATF 2305L         Instrument Pilot Flight Accelerated     (3 credits)   Corequisite: ATT 2120, Current FAA Medical
+                                                                        Certificate
+ATT 2110           Commercial Pilot Theory               (3 credits)    Prerequisite: ATF 2210
+                                                                        Corequisite: ATF 2300 or ATF 2210
+ATT 2120           Instrument Pilot Theory               (4 credits)    Prerequisite: ASC 1210
+                                                                        Corequisite: ATF 2210
+ATT 2133           Multi-Engine Pilot Theory             (2 credits)
+ATT 2820           Air Traffic Control                   (3 credits)    Prerequisite: Sophomore Standing in Major
+Program.
+
+
+ELECTIVES (13.00 – 15.00 Credits)
+ATF 2400           Multi-Engine Pilot Flight             (3 credits)    Prerequisite: ATF 1100 or ATF 2210
+                                                                        Corequisite: ATT 2133
+ATF 2501           Flight Instructor-Flight Training     (3 credits)    Prerequisite: ATF 2300
+                                                                        Corequisites: ATT 2131, ATF 2501L
+ATF 2501L          Flight Instructor laboratory          (1 credit)     Prerequisite: ATF 2300
+                                                                        Corequisites: ATT 2131, ATF 2501
+ATT 2131           Flight Instructor Theory              (3 credits)    Prerequisite: ATF 2300
+                                                                        Corequisites: ATF 2501, ATF 2501L
+ATT 2133           Multi-Engine Pilot Theory             (2 credits)
+ATT 2660           Regional Airline Operations           (3 credits)    Prerequisites: ASC 1610, ATT 2110, ATT 2120
+ATT 2821           Air Traffic Control (ATC) Radar       (3 credits)    Prerequisites: ATT 2820, ASC 1210
+ATT 2822           VFR Tower Operations                  (3 credits)    Prerequisite: ATT 2820
+ATT 2823           Air Traffic Control (ATC) Non-Radar   (3 credits)    Prerequisites: ATT 2820, ASC 1210
+AVM 1949           Co-Op Work Experience 1: AVI          (3 credits)
+CGS 1060C          Introduction to Computer Technology   (4 credits)
+                   & Applications
+MAT 1033           Intermediate Algebra                  (3 credits)    Prerequisite: MAT 0022C, or MAT 0028, or
+                                                                        MAT 0057 or by placement score, or eligible
+                                                                        exemption.
+

@@ -1,0 +1,96 @@
+Veterinary Technology
+Associate in Science | Code: 23065 | 73 credits
+CIP (1301830100)
+Effective Term: Fall 2024 (2247)
+
+The Veterinary Technology program prepares students to assist veterinarians in their daily practice, working with all types of
+animals and in various disciplines within the realm of veterinary medicine. Tasks include providing total nursing care to the sick
+or injured patient, handling and restraint, assisting during examinations and surgical procedures, performing dental hygiene and
+radiographic exams and collection and analysis of diagnostic specimens. Graduates are eligible to apply to take the Veterinary
+Technician National Examination (VTNE) and the Florida Practical Exam (FPE).
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                       (3 credits)             Prerequisite: Student must meet the Developmental
+                                                                                   Education reading and writing requirements in State
+                                                                                   Rule 6A-10.0315 (by course, placement score, or
+                                                                                   eligible exemption).
+
+HUMANITIES (3.00 credits)
+HUM 1020         Humanities                                (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                      (3 credits)             Prerequisite: Student must meet the Developmental
+                                                                                   Education reading and writing requirements in State
+                                                                                   Rule 6A-10.0315 (by course, placement score, or
+                                                                                   eligible exemption).
+NATURAL SCIENCE (3.00 credits)
+BSC 1005        General Education Biology                   (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                (3 credits)
+AMH 2020          History of the US since 1877             (3 credits)
+POS 2041          American Federal Government              (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Skills Placement (CSP)
+---OR---
+CGS 1060C - Introduction to Computer Technology & Application
+
+SCIENCE REQUIREMENT (1.00 Credit)
+BSC 1005L       General Education Biology Laboratory                  (1 credit)
+
+FIRST TERM IN PROGRAM (8.00 credits)
+ATE 1110         Animal Anatomy                                       (3 credits)           Prerequisites: BSC 1005, BSC 1005L, ENC 1101;
+                                                                                            Corequisites: ATE 1110L, ATE 1211, ATE 1650L
+ATE 1110L          Animal Anatomy & Physiology Lab                    (1 credit)            Corequisites: ATE 1110, ATE 1211, ATE 1650L
+ATE 1211           Animal Physiology                                  (3 credits)           Corequisites: ATE 1110, ATE 110L, ATE 1650L
+ATE 1650L          Introduction to Clinical Practice 1                (1 credit)            Corequisites: ATE 1110, ATE 1110L, ATE 1211
+
+SECOND TERM IN PROGRAM (11.00 credits)
+ATE 2636        Large Animal Clinic & Nursing Skills                  (2 credits)           Prerequisites: ATE 1110, ATE 1211
+                                                                                            Corequisite: ATE 2636L
+ATE 2636L          Large Animal Clinic & Nursing Skills Laboratory    (1 credit)            Corequisite: ATE 2636
+ATE 2638          Animal Lab Procedures 1                  (3 credits)   Prerequisites: ATE 1110, ATE 1211
+                                                                         Corequisite: ATE 2638L
+ATE 2638L         Animal Lab Procedures 1 Laboratory       (2 credits)   Corequisite: ATE 2638
+ATE 2652L         Introduction to Clinical Practice 2      (1 credits)   Prerequisites: ATE 1110, ATE 1650L
+ATE 2671C         Lab Animal Medicine                      (2 credits)
+
+THIRD TERM IN PROGRAM (9.00 credits)
+ATE 1630        Pharmacology for Veterinary Technicians    (2 credits)   Prerequisites: ATE 1110, ATE 1110L, ATE 1211
+ATE 2639        Animal Lab Procedures 2                    (3 credits)   Prerequisites: ATE 2638, ATE 2638L
+                                                                         Corequisite: ATE 2639L
+ATE 2639L         Animal Lab Procedures 2 Laboratory       (2 credits)   Prerequisites: ATE 2638, ATE 2638L
+                                                                         Corequisite: ATE 2639
+ATE 2722C         Avian & Exotic Pet Medicine              (2 credits)
+
+FOURTH TERM IN PROGRAM (12.00 credits)
+ATE 1940        Veterinary Clinical Experience 1           (3 credits)   Prerequisites: ATE 1110, ATE 1110L, ATE 1211,
+                                                                         ATE 1650L, ATE 2638, ATE 2638L, ATE 2639,
+                                                                         ATE 2639L, ATE 2652L
+ATE 2611          Animal Medicine 1                        (3 credits)   Prerequisites: ATE 1110, ATE 1211;
+                                                                         Corequisites: ATE 2661, ATE 2631, ATE 2655L
+ATE 2631          Small Animal Nursing 1                   (3 credits)   Prerequisites: ATE 1110, ATE 1211;
+                                                                         Corequisites: ATE 2611, ATE 2655L
+ATE 2655L         Animal Nursing & Medicine Laboratory 1   (2 credits)   Prerequisites: ATE 1630, ATE 2639, ATE 2639L
+                                                                         Corequisite: ATE 2611
+ATE 2661          Large Animal Diseases                    (1 credit)    Prerequisites: ATE 1110, ATE 2636, ATE 2636L;
+                                                                         Corequisite: ATE 2611
+
+FIFTH TERM IN PROGRAM (13.00 credits)
+ATE 1941         Veterinary Clinical Experience 2          (3 credits)   Prerequisites: ATE 1940, ATE 2611, ATE 2652L,
+                                                                         ATE 2665L
+ATE 2050L         Animal Nursing & Medicine Laboratory 2   (2 credits)   Prerequisites: ATE 1110, ATE 2631, ATE 2655L;
+                                                                         Corequisite: ATE 2612
+ATE 2612          Small Animal Nursing 2                   (3 credits)   Prerequisites: ATE 1110, ATE 2611, ATE 2631,
+                                                                         ATE 2655L;
+                                                                         Corequisite: ATE 2050L
+ATE 2614          Animal Medicine 2                        (3 credits)   Prerequisites: ATE 1110, ATE 2611
+ATE 2710          Animal Emergency Medicine                (2 credits)   Prerequisites: ATE 1110, ATE 1211;
+                                                                         Corequisites: ATE 2611, ATE 2631, ATE 2655L
+
+SIXTH TERM IN PROGRAM (4.00 credits)
+ATE 2942         Veterinary Clinical Experience 3          (4 credits)   Prerequisite: ATE 1941
+

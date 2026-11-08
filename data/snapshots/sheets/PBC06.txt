@@ -1,0 +1,37 @@
+Software Engineering
+Certificate of Professional Preparation| Code: PBC06 | 28 Credits
+CIP (5551102010)
+Effective Term: Fall 2022 (2227)
+
+
+Software engineers contribute to the development and maintenance of computer systems software and
+applications software. Computer systems software consists of programs that include computing utilities
+and operating systems. Applications software includes a variety of user-focused programs from web-
+browsers to multimedia applications. The Certificate of Professional Preparation in Software Engineering
+will provide students with the knowledge of software development, computer architecture, algorithm
+design, and data structures to apply software engineering principles to software creation. By applying
+these engineering principles to every stage of the development process, students learn how to specify
+software requirements from clients and how to design, implement and validate software solutions. Note:
+Program Admissions Requirements: Baccalaureate degree in any field of study from a regionally
+accredited institution.
+
+
+
+Program Course Requirements
+
+Course ID      Course Title                            Credits        Requisites
+
+Programming Foundation Core: 8 Credit Hours
+
+COP 1334       Introduction to C++ Programming         4
+COP 2800       Java Programming                        4              Prerequisite: COP1334
+
+Program Core: 20 Credit Hours
+
+CET 3126C      Computer Architecture                   4
+CET 3383C      Software Engineering I                  4              Prerequisite: COP 2800
+CEN 4025C      Software Engineering II                 4              Prerequisite: CET 3383C
+COP 3530       Data Structures                         4              Prerequisite: COP 2800
+COT 4400       Design and Analysis of Algorithms       4              Prerequisite: COP 2800 and
+                                                                      Pre/Corequisite: COP 3530
+

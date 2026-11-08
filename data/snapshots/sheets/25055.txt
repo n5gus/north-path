@@ -1,0 +1,74 @@
+Computer Information Technology
+Associate in Science | Code: 25055 | 60 credits
+CIP (1511010307)
+Effective Term: Fall 2024 (2247)
+
+The Computer Information Technology program is to provide an opportunity to establish a basic foundation in computer
+applications. Graduates are prepared for positions as microcomputer support specialists, user support specialists, applications
+system specialists and computer information managers to meet the demands of today’s automated offices. In addition, program
+objectives are designed to assist students in their development of interpersonal and communication skills required by office
+professionals.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition 1                                (3 credits)        Prerequisite: Student must meet the
+                                                                                       Developmental Education reading and writing
+                                                                                       requirements in State Rule 6A-10.0315 (by
+                                                                                       course, placement score, or eligible
+                                                                                       exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                   (3 credits)
+HUM 1020         Introduction to Humanities                         (3 credits)
+LIT 2000         Introduction to Literature                         (3 credits)        Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                 (3 credits)
+PHI 2010         Introduction to Philosophy                         (3 credits)        Prerequisite: ENC 1101
+THE 2000         Theatre Appreciation                               (3 credits)
+
+MATHEMATICS (3.00 credits)
+MAC 1105        College Algebra                                     (3 credits)        Prerequisite: MAT 1033
+
+Note: Students must seek advisement for proper mathematics course from discipline chairperson.
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                               (3 credits)
+BSC 1005        General Education Biology                           (3 credits)
+CHM 1020        General Education Chemistry                         (3 credits)
+ESC 1000        General Education Earth Science                     (3 credits)
+EVR 1001        Introduction to Environmental Science               (3 credits)
+GLY 1010        Physical Geology                                    (3 credits)
+OCE 1001        Introduction to Oceanography                        (3 credits)
+PHY 1020        General Education Physics                           (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                         (3 credits)
+AMH 2020          History of the US since 1877                      (3 credits)
+POS 2041          American Federal Government                       (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---OR---
+CGS 1060C          Introduction to Computer Technology & Applications
+MAJOR COURSE REQUIREMENTS (45.00 credits)
+PROGRAM CORE (32.00 credits)
+Group A: Must take 4 credit hours from the following options.
+CTS 1134          Networking Technologies                                (4 credits)
+CTS 1650          CCNA 1: Cisco Fundamentals                             (4 credits)
+
+---AND---
+
+Group B: Must take 28 credit hours from the following options.
+CGS 1060C         Introduction to Computer Technology and Applications   (4 credits)
+CGS 1560          A+ Computer Operating Systems                          (4 credits)   Prerequisite: CGS 1060C or Previous
+                                                                                       Computer Experience
+CGS 2108           Advanced Desktop Applications                         (4 credits)   Prerequisite: CGS 1060C
+CTS 1131           A+ Computer Essentials & Support                      (4 credits)
+CTS 1328           Supporting Microsoft Clients                          (4 credits)   CGS 1060C recommended or
+                                                                                       equivalent experience or skills
+CTS 2148C          IT Project Management                                 (4 credits)
+CTS 2153           Supporting Windows Users & Applications               (4 credits)   Prerequisite: CTS 1328
+
+PROGRAM ELECTIVES (13.00 credits)
+CAP*, CEN*, CGS*, CIS*, COP*, CTS*, GIS*
+

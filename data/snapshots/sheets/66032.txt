@@ -1,0 +1,19 @@
+Microcomputer Repairer/Installer
+COLLEGE CREDIT CERTIFICATE| 66032 | 15 Credits
+CIP:
+Effective Term: Fall 2017 (2177)
+
+
+The Microcomputer Repairer/Installer College Credit Certificate program is designed to prepare students to work
+as Computer Repair Assistants in a computer repair shop or the computer maintenance division of a corporation
+by acquiring a basic understanding of computer internal architecture and operations. Students must complete the
+courses listed below.
+
+
+MAJOR COURSE REQUIREMENTS (15.00 Credits)
+EET 1082 Introduction to Electronics                                 (3 Credits)
+CET 1171 Introduction to Computer Service and Maintenance            (3 Credits)
+CET 1178C A+ Computer Hardware Service                               (3 Credits)
+CET 2588C Server + Service and Maintenance                           (3 Credits)
+CET 1487C Network+                                                   (3 Credits)
+

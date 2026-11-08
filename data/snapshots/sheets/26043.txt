@@ -1,0 +1,83 @@
+Radio and Television Broadcast Programming
+Associate in Science | Code: 26043 | 64 credits
+CIP: (1610020202)
+Effective Term: Fall 2024 (2247)
+
+The Radio and Television Broadcasting Programming program is designed for students who intend to seek employment in radio,
+television and production companies, as well as allied fields such as in-house educational and industrial studios. The curriculum
+provides introductory and advanced courses essential to the professional program. It stresses hands-on equipment use in both
+the radio and TV laboratories. Students will have access to high-end cameras, editing suites and video graphics animation
+facilities and will complete portfolio-quality productions.
+
+GENERAL EDUCATION REQUIREMENTS (15.00 Credits)
+COMMUNICATIONS (3.00 credits)
+ENC 1101       English Composition                                   (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and
+                                                                                         writing requirements in State Rule 6A-
+                                                                                         10.0315 (by course, placement score, or
+                                                                                         eligible exemption).
+
+HUMANITIES (3.00 credits)
+ARH 1000         Art Appreciation                                    (3 credits)
+HUM 1020         Introduction to Humanities                          (3 credits)
+LIT 2000         Introduction to Literature                          (3 credits)         Prerequisite: ENC 1101
+MUL 1010         Music Appreciation                                  (3 credits)
+PHI 2010         Introduction to Philosophy                          (3 credits)
+THE 2000         Theatre Appreciation                                (3 credits)
+
+MATHEMATICS (3.00 credits)
+MGF 1130        Mathematical Thinking                                (3 credits)         Prerequisite: Student must meet the
+                                                                                         Developmental Education reading and writing
+                                                                                         requirements in State Rule 6A-10.0315 (by course,
+                                                                                         placement score, or eligible exemption).
+
+NATURAL SCIENCE (3.00 credits)
+AST 1002        Descriptive Astronomy                                (3 credits)
+BSC 1005        General Education Biology                            (3 credits)
+CHM 1020        General Education Chemistry                          (3 credits)
+ESC 1000        General Education Earth Science                      (3 credits)
+EVR 1001        Introduction to Environmental Science                (3 credits)
+GLY 1010        Physical Geology                                     (3 credits)
+OCE 1001        Introduction to Oceanography                         (3 credits)
+PHY 1020        General Education Physics                            (3 credits)
+
+SOCIAL SCIENCE (3.00 credits)
+AMH 2010          History of the US to 1877                          (3 credits)
+AMH 2020          History of the US since 1877                       (3 credits)
+POS 2041          American Federal Government                        (3 credits)
+
+COMPUTER COMPETENCY
+Test type(s) needed:
+Computer Competency Test (CCT)
+---or---
+CGS 1060C          Introduction to Computer Technology & Application
+MAJOR COURSE REQUIREMENTS (43.00 Credits)
+FIL 2552C      Editing: Level 1: Introduction to Editing    (3 credits)
+FIL 2553C      Editing: Level 2: Intermediate Editing and   (3 credits)   Prerequisite: FIL 2552
+               Visual Effects
+FIL 2560C      Editing: Level 3: Advanced Editing-Color     (3 credits)   Prerequisite: FIL 2553C
+               Correction and Finishing
+MMC 2000       Introduction to Mass Communications          (3 credits)
+RTV 1000       Fundamentals of Broadcasting                 (3 credits)
+RTV 1240C      Sound Design                                 (3 credits)
+RTV 1241C      Television Studio Production 1               (4 credits)
+RTV 1242C      Television Studio Production 2               (4 credits)   Prerequisite: RTV 1241C
+RTV 2243C      Directing                                    (3 credits)   Prerequisite: RTV 1242C
+RTV 2245C      Electronic Field Production 1                (4 credits)   Prerequisite: RTV 1242C
+RTV 2246C      Electronic Field Production 2                (4 credits)   Prerequisite: RTV 2245C
+RTV 2300       Broadcast Writing                            (3 credits)
+VIC 1000       Visual Communications                        (3 credits)
+
+PROGRAM ELECTIVES (6.00 Credits)
+FIL 2552C      Editing: Level 1: Introduction to Editing    (3 credits)
+FIL 1030       History of Film                              (3 credits)
+FIL 1100       Screenwriting 1: Introduction to Story       (3 credits)
+               Structure
+FIL 2990       Selected Studies                             (3 credits)
+RTV 2230C      Radio and Television Announcing              (3 credits)
+RTV 2940       Television Internship                        (3 credits)   Prerequisite: RTV 1242C
+RTV 2941       Fall Television Practicum                    (3 credits)   Prerequisite: RTV 1242C
+RTV 2942       Spring Television Practicum                  (3 credits)   Prerequisite: RTV 1242C
+RTV 2943       Summer Television Practicum                  (3 credits)   Prerequisite: RTV 1242C
+RTV 2205C      Television Workshop                          (3 credits)   Prerequisite: RTV 2246C
+

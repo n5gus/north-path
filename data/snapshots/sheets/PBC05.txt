@@ -1,0 +1,37 @@
+Networking
+Certificate of Professional Preparation | Code: PBC05 | 28 Credits
+CIP (5551110010)
+Effective Term: Fall 2022 (2227)
+
+
+Modern computer networks are increasingly pervasive and complex. They help improve the speed and
+efficiency of daily business operations, allowing for easy information discovery, storage, sharing, and
+protection. As technology evolves, it is indispensable for organizations to maintain the efficiency, speed and
+security of computer networks, thus facilitating seamless collaboration among people and applications. The
+Certificate of Professional Preparation (CPP) in Networking is designed for current and pre-professionals
+interested in working in the field of networking. They will learn how to plan, design, implement and
+maintain network infrastructures. Note: Program Admissions Requirements: Baccalaureate degree in any
+field of study from a regionally accredited institution.
+
+
+Program Course Requirements
+
+Course ID       Course Title                              Credits       Requisites
+
+Foundation Core: 4 Credit Hours
+Select one course from the following offerings.
+
+CTS 1134        Networking Technologies                   4
+  Or
+CTS 1650        CCNA 1: Cisco Fundamentals                4
+
+Program Core: 24 Credit Hours
+
+CIS 3360        Principles of Information Security        4             Prerequisite: CTS 1134 or CTS 1650
+CIS 4347        Information Storage Management            4             Prerequisite: CTS 1134 or CTS 1650
+CNT 3526        Wireless and Mobile Networking            4             Prerequisite: CTS 1134 or CTS 1650
+CNT 3409        Network Security                          4             Prerequisite: CIS 3360
+CNT 4603        System Administration and                 4             Prerequisite: CTS 1134 or CTS 1650
+                Maintenance
+CNT 4702        Network Design and Planning               4             Prerequisite: CIS 3360
+

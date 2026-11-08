@@ -1,0 +1,23 @@
+Information Technology Support
+College Credit Certificate | Code: 66044 | 28 Credits
+CIP: (0511010311)
+Effective Term: Spring 2022 (2223)
+
+
+The Information Technology Support College Credit Certificate is designed to provide an opportunity to establish a
+basic foundation in IT roles. Training in this program includes computer repair and installation, troubleshooting
+operating systems, understanding the foundations of networking technologies, and providing excellence in customer
+service. Graduates are also prepared for CompTIA A+, Network+, and Project+ industry certifications.
+
+MAJOR COURSE REQUIREMENTS (28.00 Credits)
+
+ CGS 1060C       Intro to Computer Technology and App         (4 Credits)
+ CGS 1560        A+ Computer Operating Systems                (4 Credits)
+
+ CTS 1131        A+ Computer Essentials & Support             (4 Credits)
+ CTS 1328        Supporting Microsoft Clients                 (4 Credits)   CGS 1060C recommended or
+                                                                            equivalent experience or skills
+ CTS 1134        Networking Technologies                      (4 Credits)
+ CTS 2148C       IT Project Management                        (4 Credits)
+ CTS 2153        Supporting Windows Users & Apps.             (4 Credits)   Pre-req CTS 1328
+

@@ -1,0 +1,18 @@
+Engineering Technology Support Specialist
+College Credit Certificate | Code: 66052 | 18 credits
+CIP: (0615000007)
+Effective Date:
+
+This program offers a sequence of courses that provides students with the relevant technical knowledge and skills
+needed to prepare for further education and careers in the manufacturing career cluster.
+
+
+MAJOR COURSE REQUIREMENTS (18.00 Credits)
+
+EET 1082          Introduction to Electronics                 (3 Credits)
+ETD 1340          AutoCAD                                     (3 Credits)
+ETI 1152C         Measurement and Instrumentation             (3 Credits)
+ETI 1172          Introduction to Quality Assurance           (3 Credits)
+ETI 1701          Industrial Safety                           (3 Credits)
+ETI 2404          Advanced Manufacturing Technology           (3 Credits)
+
