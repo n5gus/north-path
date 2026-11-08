@@ -90,10 +90,10 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
   }
 
   return (
-    <div className="mx-auto max-w-6xl px-5 py-8">
-      <p className="text-xs font-semibold uppercase tracking-[0.16em] text-teal">Describe</p>
-      <h1 className="mt-2 max-w-3xl font-display text-5xl text-navy">What kind of work do you want?</h1>
-      <p className="mt-3 max-w-2xl text-lg leading-relaxed text-muted">
+    <div className="mx-auto max-w-6xl px-5 py-8 text-white">
+      <p className="text-xs font-semibold uppercase tracking-[0.16em] text-white/80">Describe</p>
+      <h1 className="mt-2 max-w-3xl font-display text-5xl text-white">What kind of work do you want?</h1>
+      <p className="mt-3 max-w-2xl text-lg leading-relaxed text-white/90">
         Use your own words. North Path looks for those words in program names and CIP series titles. A match is relevance, not eligibility. Speech stays on this page until you edit it. North Path does not upload the audio. Your browser’s recognizer may still send it to the browser vendor.
       </p>
       <form
@@ -103,7 +103,7 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
           find();
         }}
       >
-        <label htmlFor="goal" className="text-sm font-semibold text-navy">
+        <label htmlFor="goal" className="text-sm font-semibold text-white">
           Career or goal
         </label>
         <textarea
@@ -111,7 +111,7 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
           value={goal}
           onChange={(event) => setGoal(event.target.value)}
           rows={4}
-          className="mt-2 w-full rounded-3xl border border-line bg-white px-4 py-4 text-xl leading-relaxed text-navy"
+          className="mt-2 w-full rounded-3xl border border-white/40 bg-white px-4 py-4 text-xl leading-relaxed text-navy"
           placeholder="Example: I want to care for patients in a hospital"
         />
         <div className="mt-3 flex flex-wrap gap-2">
@@ -120,12 +120,12 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
               <button type="button" onClick={stopSpeech} className="rounded-full bg-navy px-4 py-2 text-sm font-semibold text-white">
                 Stop
               </button>
-              <button type="button" onClick={cancelSpeech} className="rounded-full border border-line bg-white px-4 py-2 text-sm font-semibold text-navy">
+              <button type="button" onClick={cancelSpeech} className="rounded-full border border-white/40 bg-black/75 px-4 py-2 text-sm font-semibold text-white">
                 Cancel
               </button>
             </>
           ) : (
-            <button type="button" onClick={startSpeech} className="rounded-full border border-line bg-white px-4 py-2 text-sm font-semibold text-navy">
+            <button type="button" onClick={startSpeech} className="rounded-full border border-white/40 bg-black/75 px-4 py-2 text-sm font-semibold text-white">
               Start speaking
             </button>
           )}
@@ -133,7 +133,7 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
             Find programs
           </button>
         </div>
-        <p className="mt-2 text-sm text-muted" role="status" data-speech-state={speech}>
+        <p className="mt-2 text-sm text-white/85" role="status" data-speech-state={speech}>
           {speech === "listening" ? "Listening. Speak, then stop and edit the text before you search." : null}
           {speech === "confirming" ? "Transcript captured. Edit it if needed, then find programs." : null}
           {speech === "unsupported" ? "This browser does not offer speech recognition. Type the goal instead." : null}
@@ -151,7 +151,7 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
               setGoal(example);
               find(example);
             }}
-            className="rounded-full bg-[#e7eefb] px-3 py-1 text-sm font-semibold text-navy"
+            className="rounded-full border border-white/30 bg-black/75 px-3 py-1 text-sm font-semibold text-white"
           >
             {example}
           </button>
@@ -159,14 +159,14 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
       </div>
       {result ? (
         <section className="mt-8" aria-live="polite">
-          <h2 className="font-display text-3xl text-navy">Programs whose text matches</h2>
-          <p className="mt-2 max-w-3xl text-sm leading-relaxed text-muted">{result.note}</p>
+          <h2 className="font-display text-3xl text-white">Programs whose text matches</h2>
+          <p className="mt-2 max-w-3xl text-sm leading-relaxed text-white/85">{result.note}</p>
           {result.matches.length === 0 ? (
-            <p className="mt-4 rounded-2xl border border-line bg-white px-4 py-4 text-sm">
+            <p className="mt-4 rounded-2xl border border-white/30 bg-black/80 px-4 py-4 text-sm text-white">
               No match. Open Directory and search the same words, or try a subject that appears in a program name, such as nursing, accounting, or culinary.
             </p>
           ) : (
-            <ul className="mt-4 divide-y divide-line rounded-3xl border border-line bg-white">
+            <ul className="mt-4 divide-y divide-white/15 rounded-3xl border border-white/30 bg-black/80">
               {result.matches.map((item) => (
                 <li key={item.program.id}>
                   <button
@@ -178,11 +178,11 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
                     className="flex w-full items-start justify-between gap-3 px-4 py-3 text-left"
                   >
                     <span>
-                      <span className="block font-semibold text-navy">{item.program.name}</span>
-                      <span className="text-sm text-muted">
+                      <span className="block font-semibold text-white">{item.program.name}</span>
+                      <span className="text-sm text-white/75">
                         {item.program.awardType} · {item.program.id} · {item.program.coverage} · {item.program.editionLabel}
                       </span>
-                      <span className="mt-1 block text-sm text-navy">{item.reasons.join(" ")}</span>
+                      <span className="mt-1 block text-sm text-white">{item.reasons.join(" ")}</span>
                     </span>
                   </button>
                 </li>
@@ -193,8 +193,8 @@ export function DescribeFlow({ programs }: { programs: DirectoryProgram[] }) {
       ) : null}
       {selected ? (
         <section className="mt-8 space-y-4">
-          <h2 className="font-display text-3xl text-navy">Fit this program to your week</h2>
-          <p className="max-w-3xl text-sm text-muted">
+          <h2 className="font-display text-3xl text-white">Fit this program to your week</h2>
+          <p className="max-w-3xl text-sm text-white/85">
             Choosing {selected.name} does not mean you are admitted. The planner uses the ingested requirements and the hours and budget you enter.
           </p>
           <ConstraintFields value={constraints} onChange={setConstraints} />

@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { landingBackground } from "@/lib/media/assets";
 
@@ -55,7 +54,6 @@ export default function HomePage() {
             ))}
           </section>
         </main>
-        <SiteFooter tone="glass" />
       </div>
     </div>
   );

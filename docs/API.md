@@ -22,10 +22,6 @@ Query: `q`, `limit` (1–100), `offset`. Returns the November 8, 2026 noncredit 
 
 Counts from the last ingestion: inventory rows, award types, coverage labels, sheet fetch results, AA pathway count. These counts are parse coverage. They do not mean the catalog is fully verified.
 
-## `POST /api/v1/enrichment`
-
-One explicit program. Body: `{ "programId": "25079" }`. The server reads a bounded local sheet or AA-region chunk. It does not accept `student`, `constraints`, `completedCourseIds`, `email`, or `studentId`. Without `GEMINI_API_KEY` the status is `blocked-no-key` and no request is sent. A successful model response is validated against the chunk. Accepted claims are `evidence-checked` candidates. They do not change `catalog.json`.
-
 ## `POST /api/v1/plans`
 
 ```json

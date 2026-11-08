@@ -22,6 +22,19 @@ describe("ingested catalog", () => {
     expect(getProgram("CE-PUBLIC-SEARCH")?.coverage).toBe("source-page-without-course-rows");
     expect(getProgram("1****")?.coverage).toBe("inventory-index-only");
     expect(catalog.programs.filter((program) => program.coverage === "requirements-extracted").length).toBeGreaterThan(200);
+    const pathways = catalog.programs.filter((program) => program.awardType === "AA-PATHWAY");
+    expect(pathways.filter((program) => program.confidence === "low")).toHaveLength(0);
+    expect(getProgram("AA-10100")?.name).toBe("Agriculture");
+    expect(getProgram("AA-10200")?.name).toBe("Architecture");
+    expect(getProgram("AA-10504")?.name).toBe("Accounting");
+    expect(getProgram("AA-12200")?.name).toBe("Anthropology");
+    expect(pathways.every((program) => program.editionLabel.includes("2024-2026"))).toBe(true);
+    expect(pathways.every((program) => program.coverage === "narrative-only")).toBe(true);
+    expect(catalog.programs.filter((program) => program.coverage === "requirements-extracted")).toHaveLength(238);
+    expect(catalog.programs.filter((program) => program.coverage === "requirements-partial")).toHaveLength(9);
+    expect(catalog.programs.filter((program) => program.coverage === "sheet-not-found")).toHaveLength(3);
+    expect(catalog.programs.filter((program) => program.coverage === "sheet-unparsed")).toHaveLength(0);
+    expect(catalog.programs).toHaveLength(331);
   });
 
   it("does not give cybersecurity and accounting the same course list", () => {

@@ -56,6 +56,34 @@ export const landingBackground = {
   note: "Supplied by the user for the landing page only. The file is 2500 by 1667 pixels and is shown without a blur filter or extra magnification. Permission and source were not independently verified. No creator, license, or public-domain status is assigned.",
 } as const;
 
+/**
+ * User-supplied interior backgrounds, 1920 by 1080. Permission and source were not independently verified.
+ * Describe uses the beach greeting, Discover the campus pond, Directory the Freedom Tower skyline.
+ */
+export const interiorBackgrounds = {
+  describe: {
+    src: "/images/shark-beach.jpg",
+    width: 1920,
+    height: 1080,
+    position: "object-[62%_center]",
+    scene: "A shark mascot on a beach in front of a striped lifeguard tower.",
+  },
+  discover: {
+    src: "/images/campus-pond.jpg",
+    width: 1920,
+    height: 1080,
+    position: "object-center",
+    scene: "A campus pond framed by trees, with a yellow umbrella and a concrete building beyond the water.",
+  },
+  directory: {
+    src: "/images/freedom-tower.jpg",
+    width: 1920,
+    height: 1080,
+    position: "object-[68%_center]",
+    scene: "A waterfront skyline with palm trees and the Freedom Tower.",
+  },
+} as const;
+
 /** Displayed seal. Outer white field removed from the supplied file; interior artwork kept. */
 export const mdcLogo = {
   src: "/brand/mdc-seal-transparent.png",

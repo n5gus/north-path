@@ -19,6 +19,16 @@ North Path is an independent student project. It is not an official Miami Dade C
 - It is not used on Describe, Discover, Directory, the catalog tester, or the earlier cybersecurity example.
 - `public/images/night-background.png` and `public/images/bemdc-background.png` are earlier landing photographs and are no longer displayed.
 
+## Interior page photographs
+
+User-supplied JPEG files, each 1920 by 1080. Permission and source were not independently verified. No creator, license, or public-domain status is assigned. They are not listed in the page footer.
+
+| Page | File | What the picture shows |
+| --- | --- | --- |
+| Describe | `public/images/shark-beach.jpg` | Shark mascot on a beach, striped lifeguard tower behind |
+| Discover | `public/images/campus-pond.jpg` | Campus pond, trees, yellow umbrella, concrete building |
+| Directory | `public/images/freedom-tower.jpg` | Waterfront skyline with palm trees and the Freedom Tower |
+
 ## Photographs
 
 Downloaded into `public/images/stock/`. None are labeled as Miami Dade College students, staff, or campuses.

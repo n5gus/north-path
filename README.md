@@ -10,7 +10,7 @@ This is not an official Miami Dade College service. The College logotype is show
 - npm 10 or newer, so `npm ci` can use `package-lock.json`
 - A normal browser
 
-No API key, database, account, or `.env` file is required.
+No API key, database, account, or `.env` file is required. Search and plans run on this machine from the ingested catalog. The app does not call an external model.
 
 ## Run it
 
@@ -39,9 +39,9 @@ npm run build
 Do these in a desktop window, then again with a narrow window (about 390 pixels wide).
 
 1. The landing page shows three equal paths named Describe, Discover, and Directory. The header has the Miami Dade College logotype beside a line that this is an independent student project, not an official college service. There is no sign-in.
-2. Describe: type Nursing, find programs, open one, and build a plan. A second column appears when weekly hours are 8 or more. Speech starts only from Start speaking. If the browser denies the microphone, the page says so and the text box remains.
+2. Describe: type Nursing, find programs, open one, and build a plan. A second column appears when weekly hours are 8 or more. Speech starts only from Start speaking. If the browser denies the microphone, the page says so and the text box remains. Hours, budget, and commitments stay on the page.
 3. Discover: choose Health Professions, an associate award, and see programs with reasons. The first result is not forced to cybersecurity.
-4. Directory: search, open a CIP group, and open a program. The detail shows coverage, edition, and shared-course links labeled as not transfer. Continuing education says course rows are unavailable. The searchable list has the same records.
+4. Directory: search, open a CIP group, and open a program card. Pages show 12 programs. The detail shows coverage, edition, and shared-course links labeled as not transfer. Continuing education is a separate grid of 6 courses per page.
 5. `/pilot` is the earlier cybersecurity example. On that page: Cybersecurity can be selected. Networking, software, data and artificial intelligence, and business are visible and marked **Not yet available**. Continue stays unavailable until Cybersecurity is selected.
 6. On `/pilot`, continue. Choose "I am admitted, and I do not have an associate degree yet" and "Bachelor of Science in Cybersecurity". Check CTS 1134. Choose **Show my path**.
 7. The headline mentions the bachelor's degree and admission before an associate degree. The next action still lists CTS 1120, CTS 1111, and a scripting course, and it does not tell you to enroll in CTS 1134 again. CTS 1134 appears as a step that asks an advisor to confirm it.
@@ -128,7 +128,7 @@ The flow uses labeled radios, checkboxes, and buttons. Steps are real buttons. F
 
 A November 8, 2026 evidence pass corrected two unit errors from the local program sheets: Commercial Class B Driving (`56016`) is 150 clock hours, and Fire Fighter Minimum Standards (`57004`) is 492 contact hours. The printed credit equivalents stay on the record and are not used as college-credit tuition. Florida Law Enforcement Academy (`57022`) still lists 25.66 vocational credits; a clock-hour total was not verified. Eight short sheets are marked complete-small, `65100` is an open choice group, and `65057` stays unresolved. Seventy-seven AA course-sequence guides are linked as candidate full-time sequences (74 Fall 2025, 3 Fall 2024). `AA-11211` and `AA-10803` have no guide. Those rows were not written into required courses. The Fall 2026 AA pathway guide’s 36 general-education plus 24 pathway-elective split is stored separately from the 2024–2026 catalog names. One hundred six FIU 2026–2027 transfer guides are destination pages, and only 11 exact name matches are candidate alignments, not transfer or admission. Continuing education is a separate snapshot of 1,097 noncredit courses and 1,778 sections. The 238 extracted sheet parses were not re-audited. There is still no 2026–2028 CurriQunet program text.
 
-Gemini extraction is a separate server-side candidate step. It uses the Interactions API documented at `https://ai.google.dev/gemini-api/docs/text-generation` (`POST /v1beta/interactions`, header `x-goog-api-key`, `Api-Revision: 2026-05-20`). The default model is `gemini-3.8-flash`. `NORTH_PATH_GEMINI_MODEL` may be `gemini-3.8-flash` or `gemini-3.6-flash`, the ids listed on the models page checked November 7, 2026. `GEMINI_API_KEY` is read only on the server. This workspace has no key, so `POST /api/v1/enrichment` returns `blocked-no-key` and does not send a request. Tests inject a mock transport. A mock result is not a live API call. Accepted claims stay `evidence-checked` and are not written into the catalog. A model citation does not change coverage to verified. The route refuses student fields and reads only a bounded local source chunk.
+Search, ranking, and plans are deterministic. They use the ingested catalog and the planner. They do not call an external model, and they do not need a key.
 
 ## What is still open
 

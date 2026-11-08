@@ -26,7 +26,7 @@ export function SiteHeader({ tone = "solid" }: { tone?: "solid" | "glass" }) {
             <Link href="/" className={`font-display text-2xl leading-none ${glass ? "text-white" : "text-navy"}`}>
               North Path
             </Link>
-            <p className={`mt-1 max-w-xs text-xs leading-snug ${glass ? "text-white/90" : "text-muted"}`}>Independent student project</p>
+            <p className={`mt-1 max-w-xs text-sm leading-snug sm:text-base ${glass ? "text-white" : "text-navy"}`}>Independent Student Project</p>
           </div>
         </div>
         <nav aria-label="Pathways" className="flex flex-wrap gap-2">
